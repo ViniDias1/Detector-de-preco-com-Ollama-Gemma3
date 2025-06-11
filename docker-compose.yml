@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    restart: always
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-models:/root/.ollama
+    entrypoint: >
+      sh -c "ollama serve & sleep 3 && ollama pull gemma:3b && tail -f /dev/null"
+
+  app:
+    build: .
+    container_name: detector-preco-gui
+    depends_on:
+      - ollama
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - ./imagens:/app/imagens
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    network_mode: "host"
+    stdin_open: true
+    tty: true
+
+volumes:
+  ollama-models:
