@@ -4,29 +4,22 @@ import base64
 import requests
 import json
 import os
+from PIL import Image, ImageTk
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "gemma3:4b"  
+OLLAMA_URL = "http://ollama:11434/api/generate"
+MODEL = "gemma3:4b"
+referencias_imagens = []  # <- evita garbage collection
 
 def converter_imagem_para_base64(caminho):
     with open(caminho, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
 def enviar_para_ollama(imagem_base64):
-    prompt1 = "Extraia todos os preços visíveis na imagem. Liste apenas os valores monetários, como R$ 9,99."
-    prompt2 = (
-        "Você é um assistente especializado em detectar preços em imagens. "
-        "Sua tarefa é identificar e extrair todos os valores monetários visíveis na imagem fornecida, juntamente com o nome do produto, se disponível. "
-        "Os valores podem estar em diferentes formatos, como R$ 9,99, 10,00, R$ 15,50, etc. "
-        "Certifique-se de extrair todos os valores, mesmo que estejam em diferentes partes da imagem. "
-        "Se houver mais de um valor, liste-os separadamente. "
-        "Se não houver valores visíveis, responda com 'Nenhum valor encontrado'. "
-        
-    )
+    prompt = "Extraia todos os preços visíveis na imagem. Liste apenas os valores monetários, como R$ 9,99."
 
     payload = {
         "model": MODEL,
-        "prompt": prompt1,
+        "prompt": prompt,
         "images": [imagem_base64]
     }
 
@@ -38,40 +31,68 @@ def enviar_para_ollama(imagem_base64):
                 for linha in response.iter_lines() if linha
             )
         return resposta_final.strip()
-
     except Exception as e:
         return f"Erro ao se comunicar com o modelo: {str(e)}"
 
-def selecionar_imagem():
-    pasta_padrao = os.path.join(os.path.dirname(__file__), "imagens")
+def processar_imagem(caminho):
+    resultado_text.delete("1.0", tk.END)
+    resultado_text.insert(tk.END, f"Processando: {os.path.basename(caminho)}...\n")
+    janela.update_idletasks()
 
-    caminho = filedialog.askopenfilename(
-        initialdir=pasta_padrao,
-        filetypes=[("Imagens", "*.png;*.jpg;*.jpeg")]
-    )
-    if caminho:
-        resultado_text.delete("1.0", tk.END)
-        resultado_text.insert(tk.END, "Processando...\n")
-        janela.update_idletasks()
+    imagem_base64 = converter_imagem_para_base64(caminho)
+    resultado = enviar_para_ollama(imagem_base64)
+    resultado_text.delete("1.0", tk.END)
+    resultado_text.insert(tk.END, resultado)
 
-        with open(caminho, "rb") as f:
-            imagem_base64 = base64.b64encode(f.read()).decode("utf-8")
-        resultado = enviar_para_ollama(imagem_base64)
-        resultado_text.delete("1.0", tk.END)
-        resultado_text.insert(tk.END, resultado)
+def selecionar_imagens():
+    caminhos = filedialog.askopenfilenames(title="Selecione as imagens", filetypes=[
+        ("Imagens", "*.jpg *.jpeg *.png")
+    ])
+    if not caminhos:
+        return
 
+    for widget in galeria_interna.winfo_children():
+        widget.destroy()
+    referencias_imagens.clear()
 
+    for i, caminho in enumerate(caminhos):
+        try:
+            imagem = Image.open(caminho)
+            imagem.thumbnail((100, 100))
+            img_tk = ImageTk.PhotoImage(imagem)
+
+            btn = tk.Button(galeria_interna, image=img_tk, command=lambda c=caminho: processar_imagem(c))
+            btn.grid(row=0, column=i, padx=4, pady=4)
+            referencias_imagens.append(img_tk)
+        except Exception as e:
+            print(f"Erro ao carregar imagem {caminho}: {e}")
+
+# Interface
 janela = tk.Tk()
 janela.title("Detector de Preços com Ollama + Gemma3")
-janela.geometry("600x400")
+janela.geometry("1000x600")
 
-frame = tk.Frame(janela)
-frame.pack(pady=20)
+btn_selecionar = tk.Button(janela, text="Selecionar Imagens", font=("Arial", 12), command=selecionar_imagens)
+btn_selecionar.pack(pady=10)
 
-btn_selecionar = tk.Button(frame, text="Selecionar Imagem", command=selecionar_imagem)
-btn_selecionar.pack()
+# Galeria com scroll horizontal
+galeria_canvas = tk.Canvas(janela, height=120)
+scroll_x = tk.Scrollbar(janela, orient="horizontal", command=galeria_canvas.xview)
+galeria_canvas.configure(xscrollcommand=scroll_x.set)
 
-resultado_text = tk.Text(janela, wrap=tk.WORD, height=15, width=70)
+scroll_x.pack(fill="x")
+galeria_canvas.pack(fill="x")
+
+galeria_interna = tk.Frame(galeria_canvas)
+galeria_canvas.create_window((0, 0), window=galeria_interna, anchor="nw")
+
+def atualizar_scroll(event):
+    galeria_canvas.configure(scrollregion=galeria_canvas.bbox("all"))
+
+galeria_interna.bind("<Configure>", atualizar_scroll)
+
+# Área de resultado
+resultado_text = tk.Text(janela, wrap=tk.WORD, height=20, width=100)
 resultado_text.pack(pady=10)
 
 janela.mainloop()

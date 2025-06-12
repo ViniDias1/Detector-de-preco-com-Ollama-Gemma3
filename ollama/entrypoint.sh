@@ -9,5 +9,5 @@ sleep 5
 # Baixa o modelo
 ollama pull gemma3:4b
 
-# Mantém o servidor rodando em foreground
-fg %1
+# Aguarda o servidor Ollama (mantém o container rodando)
+wait %1
