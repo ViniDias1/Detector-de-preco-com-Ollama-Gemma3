@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 
 OLLAMA_URL = "http://ollama:11434/api/generate"
 MODEL = "gemma3:4b"
-referencias_imagens = []  # <- evita garbage collection
+referencias_imagens = []
 
 def converter_imagem_para_base64(caminho):
     with open(caminho, "rb") as f:
@@ -75,7 +75,6 @@ janela.geometry("1000x600")
 btn_selecionar = tk.Button(janela, text="Selecionar Imagens", font=("Arial", 12), command=selecionar_imagens)
 btn_selecionar.pack(pady=10)
 
-# Galeria com scroll horizontal
 galeria_canvas = tk.Canvas(janela, height=120)
 scroll_x = tk.Scrollbar(janela, orient="horizontal", command=galeria_canvas.xview)
 galeria_canvas.configure(xscrollcommand=scroll_x.set)
@@ -91,7 +90,6 @@ def atualizar_scroll(event):
 
 galeria_interna.bind("<Configure>", atualizar_scroll)
 
-# Área de resultado
 resultado_text = tk.Text(janela, wrap=tk.WORD, height=20, width=100)
 resultado_text.pack(pady=10)
 
