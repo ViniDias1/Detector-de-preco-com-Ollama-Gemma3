@@ -67,7 +67,8 @@ A primeira vez pode demorar pois o modelo `gemma3:4b` será baixado.
 │   └── Dockerfile            # Dockerfile da aplicação Python
 ├── ollama/
 │   ├── entrypoint.sh         # Script para iniciar servidor Ollama e baixar o modelo
-│   └── Dockerfile            # Dockerfile do servidor Ollama
+│   └── Dockerfile            # Dockerfile do Ollama + Gemma3
+├── docker-compose.yml        # Docker Compose
 └── README.md
 ```
 
