@@ -20,7 +20,7 @@ def enviar_para_ollama(imagem_base64):
     prompt2 = """ Your task is to work and the job of an professional OCR tool, analyzing an image containing
 a price tag and one or more products. You should extract
 the product’s NAME, NORMAL PRICE, DISCOUNTED PRICE, UNIT, BARCODE NUMBERS and DESCRIPTION
-(in PT-BR).
+(in PT-BR). 
 """    
 
     payload = {
