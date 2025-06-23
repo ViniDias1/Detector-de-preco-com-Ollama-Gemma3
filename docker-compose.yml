@@ -25,6 +25,7 @@ services:
       - DISPLAY=${DISPLAY}
     volumes:
       - ./app/imagens:/app/imagens
+      - ./app/dataset-images:/app/dataset-images/test
       - /tmp/.X11-unix:/tmp/.X11-unix
     stdin_open: true
     tty: true
