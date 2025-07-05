@@ -1,0 +1,28 @@
+Imagem: 1000.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Azeite Extra Virgem Cinco
+*   **Normal Price:** 38,99
+*   **Discounted Price:** 28,99
+*   **Unit:** Unidade
+*   **Barcode Numbers:** (possibly wrong) 7700911770001
+========================================
+Imagem: 999.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Azeite Extra Virgem Classico
+*   **Normal Price:** R$ 27,99
+*   **Discounted Price:** R$ 17,99
+*   **Unit:** 500ml
+*   **Barcode Numbers:** 7700700067307 (possibly wrong)
+*   **Description:** Azeite Extra Virgem
+========================================
+Imagem: 998.jpg
+Here's the analysis of the image, extracting the requested information:
+
+*   **Produto:** Macaroni
+*   **Preço Normal:** R$ 8,49
+*   **Preço com Desconto:** Não identificado
+*   **Unidade:** 500g
+*   **Código de Barras:** 7891234567890 (possivelmente errado)
+========================================
