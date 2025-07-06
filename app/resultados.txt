@@ -1,28 +1,635 @@
-Imagem: 1000.jpg
+Imagem: 801.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Azeite Extra Virgem Cinco
-*   **Normal Price:** 38,99
+*   **Produto:** Frango Sadia
+*   **Preço Normal:** 23,99
+*   **Preço com Desconto:** 18,99
+*   **Unidade:** 1 kg
+*   **Código de Barras:** 7891480017899 (possivelmente errado)
+========================================
+Imagem: 802.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** Filé Mignon
+*   **Preço Normal:** R$ 18,99
+*   **Preço com Desconto:** R$ 17,99
+*   **Unidade:** 1kg
+*   **Código de Barras:** (possivelmente errado) 7891234567890
+========================================
+Imagem: 803.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Batata Tradicional
+*   **Preço Normal:** R$ 27,99
+*   **Preço com Desconto:** R$ 19,99
+*   **Unidade:** 2kg
+*   **Código de Barras:** 789999999999999999999999999999999
+========================================
+Imagem: 804.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** James Buchanan & Co.
+*   **Normal Price:** R$ 39,99
+*   **Discounted Price:** R$ 29,99
+*   **Unit:** 700ml
+*   **Barcode Numbers:** 99872350 (possibly wrong)
+========================================
+Imagem: 805.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Omo
+*   **Preço Normal:** R$ 39,99
+*   **Preço com Desconto:** R$ 29,99
+*   **Unidade:** 1L
+*   **Código de Barras:** 998872350 (possivelmente errado)
+========================================
+Imagem: 806.jpg
+Here's the information extracted from the image:
+
+*   **Produto:** Smirnoff Ice Original
+*   **Preço Normal:** R$ 6,99
+*   **Preço com Desconto:** R$ 5,99
+*   **Unidade:** 275 ml
+*   **Código de Barras:** 9987-2350 (possivelmente errado)
+========================================
+Imagem: 807.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Leite Em Pó Integral Ser Essencial
+*   **Normal Price:** 28,99
 *   **Discounted Price:** 28,99
-*   **Unit:** Unidade
-*   **Barcode Numbers:** (possibly wrong) 7700911770001
+*   **Unit:** 800g
+*   **Barcode Numbers:** 789048706003 (possibly wrong)
 ========================================
-Imagem: 999.jpg
+Imagem: 808.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Azeite Extra Virgem Classico
-*   **Normal Price:** R$ 27,99
-*   **Discounted Price:** R$ 17,99
-*   **Unit:** 500ml
-*   **Barcode Numbers:** 7700700067307 (possibly wrong)
-*   **Description:** Azeite Extra Virgem
+*   **Produto:** Feijão Carioca
+*   **Preço Normal:** 6,99
+*   **Preço com Desconto:** 4,99
+*   **Unidade:** 1kg
+*   **Barcode:** (possibly wrong) 7697697952666
 ========================================
-Imagem: 998.jpg
+Imagem: 809.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Azeite de Oliva Extra Virgem
+*   **Volume:** 500ml
+*   **Preço Normal:** R$ 27,99
+*   **Preço com Desconto:** R$ 17,99
+*   **Barcode:** 99887-2350 (possibly wrong)
+========================================
+Imagem: 810.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** CERVEJA IMPERIAL
+*   **Normal Price:** R$ 8,99
+*   **Discounted Price:** R$ 5,99
+*   **Unit:** 600 ml
+*   **Barcode Numbers:** 92987-2309 (possibly wrong)
+========================================
+Imagem: 811.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** Alcatra Firada
+*   **Preço Normal:** R$ 79,99
+*   **Preço com Desconto:** R$ 39,99
+*   **Unidade:** kg
+*   **Código de Barras:** 9987-2350 (possivelmente errado)
+========================================
+Imagem: 812.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** (Not possible to identify)
+*   **Preço Normal:** R$ 25,99 (possibly wrong)
+*   **Preço com Desconto:** R$ 15,49
+*   **Unidade:** (Not possible to identify)
+*   **Código de Barras:** 998872350 (possibly wrong)
+========================================
+Imagem: 813.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Leite Boa Vista
+*   **Normal Price:** R$ 2,39
+*   **Discounted Price:** R$ 2,39
+*   **Unit:** 200g
+*   **Barcode Numbers:** (possibly wrong) 7891234567890
+*   **Description:** (not possible to identify)
+========================================
+Imagem: 814.jpg
+Here's the extraction of information from the image:
+
+*   **Produto:** Leite Condensado
+*   **Preço Normal:** R$ 4,99
+*   **Preço com Desconto:** R$ 3,99
+*   **Unidade:** 395g
+*   **Código de Barras:** 99887-2350 (possivelmente errado)
+========================================
+Imagem: 815.jpg
+Here's an analysis of the image, extracting the requested information:
+
+*   **Produto:** Vinho Tinto Morada Suave
+*   **Preço Normal:** 15,99
+*   **Preço com Desconto:** 9,99
+*   **Unidade:** 750ml
+*   **Código de Barras:** 99887-2309 (possibly wrong)
+========================================
+Imagem: 816.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Marilan Crema Cracker
+*   **Normal Price:** R$ 4,99
+*   **Discounted Price:** R$ 3,29
+*   **Unit:** 350g
+*   **Barcode Numbers:** 9987-2350 (possibly wrong)
+========================================
+Imagem: 817.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** File de Peito de Frango
+*   **Preço Normal:** 25,99
+*   **Preço com Desconto:** 18,99
+*   **Unidade:** 1 kg
+*   **Barcode Numbers:** (possibly wrong) 7200132875
+========================================
+Imagem: 818.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Tomate
+*   **Normal Price:** R$ 3,99
+*   **Discounted Price:** R$ 1,99
+*   **Unit:** kg
+*   **Barcode Numbers:** 9887634 (possibly wrong)
+========================================
+Imagem: 819.jpg
+Here's an analysis of the image, extracting the requested information:
+
+*   **Produto:** Carro de Brinquedo
+*   **Preço Normal:** R$ 99.87
+*   **Preço com Desconto:** R$ 23.50
+*   **Unidade:** 300g
+*   **Código de Barras:** 9987-2350 (possivelmente incorreto)
+========================================
+Imagem: 820.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Açúcar Branca
+*   **Preço Normal:** R$ 2,99
+*   **Preço com Desconto:** R$ 2,99
+*   **Unidade:** 1 kg
+*   **Código de Barras:** 99872390 (possivelmente errado)
+========================================
+Imagem: 821.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Ovos Brancos Grandes
+*   **Normal Price:** R$ 19,99
+*   **Discounted Price:** R$ 15,99
+*   **Unit:** Und
+*   **Barcode Numbers:** (possibly wrong) 789923672367
+========================================
+Imagem: 822.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Melão
+*   **Preço Normal:** R$ 4,49
+*   **Preço com Desconto:** R$ 2,99
+*   **Unidade:** kg
+*   **Código de Barras:** 7200862350 (possivelmente errado)
+========================================
+Imagem: 823.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** Leite Nata Desnatado
+*   **Normal Price:** R$ 6,49
+*   **Discounted Price:** R$ 2,29
+*   **Unit:** 1L
+*   **Barcode Number:** 9987-2350 (possibly wrong)
+========================================
+Imagem: 824.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Creme de Ricota Original
+*   **Normal Price:** 8,99
+*   **Discounted Price:** 6,99
+*   **Unit:** 200g
+*   **Barcode Numbers:** (possibly wrong) 7697900156630
+========================================
+Imagem: 825.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** File do Peito
+*   **Preço Normal:** 17,99
+*   **Preço com Desconto:** 14,99
+*   **Unidade:** kg
+*   **Código de Barras:** 7891111111111 (possibly wrong)
+========================================
+Imagem: 826.jpg
 Here's the analysis of the image, extracting the requested information:
 
-*   **Produto:** Macaroni
-*   **Preço Normal:** R$ 8,49
+*   **Product Name:** Carne Bovina Congelada
+*   **Normal Price:** 17.99
+*   **Discounted Price:** 10.99
+*   **Unit:** kg
+*   **Barcode Numbers:** (possibly wrong)
+========================================
+Imagem: 827.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Queijo Mussarela
+*   **Preço Normal:** 39,99
+*   **Preço com Desconto:** 32,99
+*   **Unidade:** kg
+*   **Código de Barras:** 7700942320818 (possivelmente errado)
+========================================
+Imagem: 828.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Mortadela
+*   **Preço Normal:** 26,99
+*   **Preço com Desconto:** 23,99
+*   **Unidade:** unidade
+*   **Código de Barras:** (possivelmente errado) 7891234567891
+========================================
+Imagem: 829.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** DRIP COFFEE CLASSICO
+*   **Normal Price:** 25,99
+*   **Discounted Price:** 18,49
+*   **Unit:** UNIDADE
+*   **Barcode Numbers:** (possibly wrong) 8500734003206
+========================================
+Imagem: 830.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Cáfe Capuccino (possibly wrong)
+*   **Preço Normal:** 24,99
+*   **Preço com Desconto:** 15,49
+*   **Unidade:** Unidade
+*   **Código de Barras:** (possibly wrong) 78912345678901
+========================================
+Imagem: 831.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Café Torrado e Moído
+*   **Normal Price:** 13,89
+*   **Discounted Price:** 13,89
+*   **Unit:** Unidade
+*   **Barcode Numbers:** (possibly wrong) 78912345678912
+*   **Description:** 250g
+========================================
+Imagem: 832.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Intimus Tripla Proteção
+*   **Normal Price:** 12,69
+*   **Discounted Price:** 9,99
+*   **Unit:** Unidade
+*   **Barcode Numbers:** (possibly wrong) 7899713279971
+========================================
+Imagem: 833.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Moça
+*   **Normal Price:** 7,49
+*   **Discounted Price:** 5,99
+*   **Unit:** Unidade
+*   **Barcode Numbers:** 395g (possibly wrong)
+========================================
+Imagem: 834.jpg
+Here's the information extracted from the image:
+
+*   **Product Name:** Queijo Cremoso Natilla
+*   **Normal Price:** 14,99
+*   **Discounted Price:** 4,99
+*   **Unit:** 200g
+*   **Barcode Numbers:** (possibly wrong) 7791005689765
+========================================
+Imagem: 835.jpg
+Here's the information extracted from the image:
+
+*   **Product Name:** Natile
+*   **Normal Price:** 15,99
+*   **Discounted Price:** 7,99
+*   **Unit:** 500g
+*   **Barcode Numbers:** (possibly wrong)
+========================================
+Imagem: 836.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Ovos Brancos
+*   **Normal Price:** R$ 18,99
+*   **Discounted Price:** R$ 16,99
+*   **Unit:** Unidade
+*   **Barcode Numbers:** (possibly wrong) 7891234567890
+========================================
+Imagem: 837.jpg
+Here's the information extracted from the image:
+
+*   **Produto:** Óleo de Soja
+*   **Preço Normal:** 9,19
+*   **Preço com Desconto:** 7,99
+*   **Unidade:** 500ml
+*   **Código de Barras:** (possivelmente errado) 77005000000000 (Note: Barcode numbers can be incorrect)
+========================================
+Imagem: 838.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Tigela
+*   **Preço Normal:** 24,99
+*   **Preço com Desconto:** 19,99
+*   **Unidade:** Unidade
+*   **Código de Barras:** 668 (possibly wrong)
+========================================
+Imagem: 839.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Queijo Parmesão
+*   **Normal Price:** 26,90
+*   **Discounted Price:** 12,89
+*   **Unit:** 195g
+*   **Barcode Numbers:** (possibly wrong) 7600186344367
+========================================
+Imagem: 840.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** Salsicha
+*   **Normal Price:** R$ 16,99
+*   **Discounted Price:** R$ 7,99
+*   **Unit:** KG
+*   **Barcode Numbers:** 72900000000001 (possibly wrong)
+========================================
+Imagem: 841.jpg
+Here's the information extracted from the image:
+
+*   **Produto:** BEB GASEIF H20H 500ml LIMONETE
+*   **Preço Normal:** 2,29
+*   **Preço com Desconto:** 2,29
+*   **Unidade:** 500ml
+*   **Barcode Numbers:** 7064412050 (possibly wrong)
+========================================
+Imagem: 842.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Secador de Cabelo
+*   **Preço Normal:** R$ 69,00
 *   **Preço com Desconto:** Não identificado
-*   **Unidade:** 500g
-*   **Código de Barras:** 7891234567890 (possivelmente errado)
+*   **Unidade:** Und
+*   **Código de Barras:** Não identificado (possibly wrong)
+========================================
+Imagem: 843.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Mistura Leite
+*   **Preço Normal:** R$ 1,99
+*   **Preço Desconto:** Não disponível
+*   **Unidade:** 200g
+*   **Código de Barras:** (possivelmente errado) 72900011994
+*   **Descrição:** Mistura Leite
+========================================
+Imagem: 844.jpg
+Here's the information extracted from the image:
+
+*   **Product Name:** Rezkende
+*   **Normal Price:** R$ 131,76
+*   **Discounted Price:** R$ 10,98
+*   **Unit:** 400g
+*   **Barcode Numbers:** CX12 (possibly wrong)
+========================================
+Imagem: 845.jpg
+Here's the information extracted from the image:
+
+*   **Produto:** Mussarela
+*   **Preço por Kg:** R$ 31,90
+*   **Unidade:** Kg
+*   **Código de Barras:** 789387120397 (possivelmente errado)
+========================================
+Imagem: 846.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Tomate
+*   **Normal Price:** 4,99
+*   **Discounted Price:** 4,99
+*   **Unit:** 500g
+*   **Barcode Numbers:** 18317002 (possibly wrong)
+========================================
+Imagem: 847.jpg
+Here's the extraction of information from the image:
+
+*   **Produto:** Tomates
+*   **Preço Normal:** 4,99
+*   **Preço com Desconto:** 4,99
+*   **Unidade:** 250g
+*   **Código de Barras:** (possivelmente errado) 7700182200657
+========================================
+Imagem: 848.jpg
+Here's the extraction of information from the image:
+
+*   **Product Name:** Tomate Cereja
+*   **Normal Price:** 6,09
+*   **Discounted Price:** (Not found)
+*   **Unit:** 200g
+*   **Barcode Numbers:** (possibly wrong) 7697000833785
+========================================
+Imagem: 849.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** SERGIPANO
+*   **Normal Price:** 6,73
+*   **Discounted Price:** Not identified
+*   **Unit:** 1 kg
+*   **Barcode Numbers:** 673 (possibly wrong)
+========================================
+Imagem: 850.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** BISCKOK
+*   **Normal Price:** R$ 2,99
+*   **Discounted Price:** R$ 2,99
+*   **Unit:** 1kg
+*   **Barcode Numbers:**  (possibly wrong) 7700184927668
+========================================
+Imagem: 851.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Dragoá
+*   **Normal Price:** R$ 7,98
+*   **Discounted Price:** Not Available
+*   **Unit:** 5L
+*   **Barcode Numbers:** Not Possible to Identify (possibly wrong)
+========================================
+Imagem: 852.jpg
+Here's the information extracted from the image:
+
+*   **Produto:** Arroz União Longo 1kg
+*   **Preço Normal:** R$ 3,86
+*   **Preço Desconto:** R$ 3,86
+*   **Unidade:** 1kg
+*   **Código de Barras:** 72960339603 (possivelmente errado)
+========================================
+Imagem: 853.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Raio
+*   **Nome:** Aceitona Verde S/ (possibly wrong)
+*   **Preço Unitário:** R$ 17,98 (possibly wrong)
+*   **Preço por KG:** R$ 42,8104 (possibly wrong)
+*   **Barcode:** Não foi possível identificar
+========================================
+Imagem: 854.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:**  Semolina Pasta
+*   **Normal Price:** 14,99
+*   **Discounted Price:** 9,99
+*   **Unit:** 500g
+*   **Barcode Number:** 7700948011389 (possibly wrong)
+========================================
+Imagem: 855.jpg
+Here's the information extracted from the image:
+
+*   **Product Name:** cerveja pura
+*   **Normal Price:** 3,99
+*   **Discounted Price:** 3,99
+*   **Unit:** 350ml
+*   **Barcode Numbers:** 880700503005 (possibly wrong)
+========================================
+Imagem: 856.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** CAPSULA CAFÉ EXP. FORÇA 6G
+*   **Normal Price:** 22.99
+*   **Discounted Price:** 15.39
+*   **Unit:** 6G
+*   **Barcode Numbers:** 
+    *   (possibly wrong) 7800390300239
+    *   (possibly wrong) 7800390300239
+*   **Description:** N/D
+========================================
+Imagem: 857.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cif
+*   **Normal Price:** R$ 3,39
+*   **Discounted Price:** R$ 3,39
+*   **Unit:** (Not identifiable on the image)
+*   **Barcode Numbers:** 7700770016939 (possibly wrong)
+========================================
+Imagem: 858.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Ovos
+*   **Preço Normal:** 16,99
+*   **Preço com Desconto:** 16,99
+*   **Unidade:** Unds
+*   **Código de Barras:** (possibly wrong) 8800780001699
+========================================
+Imagem: 859.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Filet de Peixe
+*   **Preço Normal:** R$ 20,90
+*   **Preço com Desconto:** R$ 17,99
+*   **Unidade:** kg
+*   **Barcode:** 78912345678901 (possibly wrong)
+========================================
+Imagem: 860.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** CERVEJA BLACK PRINCESS 600ml
+*   **Normal Price:** R$ 9,48
+*   **Discounted Price:** R$ 8,29
+*   **Unit:** Und
+*   **Barcode Numbers:** 7709213770921 (possibly wrong)
+========================================
+Imagem: 861.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** Feijão Preto 10kg
+*   **Preço Normal:** R$ 56,90
+*   **Preço com Desconto:** R$ 56,90
+*   **Unidade:** 10kg
+*   **Código de Barras:** 78912345678901 (possibly wrong)
+========================================
+Imagem: 862.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Feijão Carioca Cheef T1 1kg
+*   **Preço Normal:** R$ 6,99
+*   **Preço Promocional:** R$ 6,29
+*   **Unidade:** 1kg
+*   **Código de Barras:** (Não foi possível identificar)
+========================================
+Imagem: 863.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Monster Energy
+*   **Normal Price:** R$ 7,99
+*   **Discounted Price:** R$ 47,99
+*   **Unit:** 473 ml
+*   **Barcode Numbers:** 6007503862847 (possibly wrong)
+========================================
+Imagem: 864.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Goiâba
+*   **Normal Price:** 2.37
+*   **Discounted Price:** 18.96
+*   **Unit:**  200ml (possibly wrong)
+*   **Barcode Numbers:** CX24 (possibly wrong)
+========================================
+Imagem: 865.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Whisky (Possivelmente Wrong)
+*   **Preço Normal:** 11,90 € (Possivelmente Wrong)
+*   **Preço Desconto:** 27,70 € (Possivelmente Wrong)
+*   **Unidade:** 1,5L
+*   **Código de Barras:** 7700900100179 (Possivelmente Wrong)
+========================================
+Imagem: 866.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Turma da Mônica
+*   **Normal Price:** R$ 64,90
+*   **Discounted Price:** R$ 259,60
+*   **Unit:** Por Unidade
+*   **Barcode Numbers:** 7700412079917 (possibly wrong)
+========================================
+Imagem: 867.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Ramineli BCO T1 1kg
+*   **Preço Normal:** 3,49
+*   **Preço com Desconto:** 3,49
+*   **Unidade:** 1kg
+*   **Código de Barras:** 770010116714 (possivelmente errado)
+========================================
+Imagem: 868.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Açucar Cristal
+*   **Preço Normal:** R$ 3,19
+*   **Preço com Desconto:** R$ 1,90
+*   **Unidade:** 1kg
+*   **Código de Barras:** 7891430033029 (possibly wrong)
+========================================
+Imagem: 869.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** Dona Lasanha
+*   **Preço Normal:** R$ 17,99
+*   **Preço com Desconto:** R$ 10,77
+*   **Unidade:** 200g
+*   **Código de Barras:** 78912345678901 (possibly wrong)
+========================================
+Imagem: 870.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cápsula Café 3 Corações
+*   **Normal Price:** R$ 14,90
+*   **Discounted Price:** Not found
+*   **Unit:** 10x90g
+*   **Barcode Numbers:** AM3 470 (possibly wrong)
 ========================================

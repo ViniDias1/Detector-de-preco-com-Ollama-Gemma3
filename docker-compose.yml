@@ -23,7 +23,7 @@ services:
       - ollama
     volumes:
       - ./app/imagens:/app/imagens
-      - ./app/dataset-images:/app/dataset-images/test
+      - ./app/dataset-images:/app/dataset-images
       - ./app/resultados.txt:/app/resultados.txt
     stdin_open: true
     tty: true
