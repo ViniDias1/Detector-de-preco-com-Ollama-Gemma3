@@ -1,635 +1,2369 @@
+Imagem: 1000.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** Azeite Extra Virgem Cinco Virgem
+*   **Brand:** Oliva
+*   **Normal Price:** 38,99
+*   **Discounted Price:** 28,99
+*   **Unit:** 500ml
+========================================
+Imagem: 1000.txt
+
+========================================
 Imagem: 801.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Frango Sadia
-*   **Preço Normal:** 23,99
-*   **Preço com Desconto:** 18,99
-*   **Unidade:** 1 kg
-*   **Código de Barras:** 7891480017899 (possivelmente errado)
+*   **Product Name:** Frango Bio
+*   **Brand:** Sadia
+*   **Normal Price:** R$ 23,99
+*   **Discounted Price:** R$ 18,99
+*   **Unit:** 1 kg
+========================================
+Imagem: 801.txt
+
 ========================================
 Imagem: 802.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Filé Mignon
-*   **Preço Normal:** R$ 18,99
-*   **Preço com Desconto:** R$ 17,99
-*   **Unidade:** 1kg
-*   **Código de Barras:** (possivelmente errado) 7891234567890
+*   **Product Name:** Mignon Suíno
+*   **Brand:** Sadia
+*   **Normal Price:** R$ 18,99
+*   **Discounted Price:** R$ 17,99
+*   **Unit:** 1kg
+========================================
+Imagem: 802.txt
+
 ========================================
 Imagem: 803.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Batata Tradicional
+*   **Produto:** Batata
+*   **Marca:** Bimbo
 *   **Preço Normal:** R$ 27,99
 *   **Preço com Desconto:** R$ 19,99
 *   **Unidade:** 2kg
-*   **Código de Barras:** 789999999999999999999999999999999
+========================================
+Imagem: 803.txt
+
 ========================================
 Imagem: 804.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** James Buchanan & Co.
+*   **Product Name:** Whisky Black and White
+*   **Brand:** James Buchanan & Co.
 *   **Normal Price:** R$ 39,99
 *   **Discounted Price:** R$ 29,99
 *   **Unit:** 700ml
-*   **Barcode Numbers:** 99872350 (possibly wrong)
+========================================
+Imagem: 804.txt
+
 ========================================
 Imagem: 805.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Omo
-*   **Preço Normal:** R$ 39,99
-*   **Preço com Desconto:** R$ 29,99
-*   **Unidade:** 1L
-*   **Código de Barras:** 998872350 (possivelmente errado)
+*   **Product Name:** OMO
+*   **Brand:** Lavagem Perfeita
+*   **Normal Price:** R$ 39,99
+*   **Discounted Price:** R$ 29,99
+*   **Unit:** 1 x 3L
+========================================
+Imagem: 805.txt
+
 ========================================
 Imagem: 806.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Smirnoff Ice Original
-*   **Preço Normal:** R$ 6,99
-*   **Preço com Desconto:** R$ 5,99
-*   **Unidade:** 275 ml
-*   **Código de Barras:** 9987-2350 (possivelmente errado)
+*   **Product Name:** ICE ORIGINAL
+*   **Brand:** SMIRNOFF
+*   **Normal Price:** R$ 6,99
+*   **Discounted Price:** R$ 5,99
+*   **Unit:** 275ML
+========================================
+Imagem: 806.txt
+
 ========================================
 Imagem: 807.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Leite Em Pó Integral Ser Essencial
+*   **Product Name:** LEITE EM PÓ
+*   **Brand:** SERENISSIMA
 *   **Normal Price:** 28,99
-*   **Discounted Price:** 28,99
 *   **Unit:** 800g
-*   **Barcode Numbers:** 789048706003 (possibly wrong)
+*   **Additional Text:** "Inteiro" and "1929"
+========================================
+Imagem: 807.txt
+
 ========================================
 Imagem: 808.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Feijão Carioca
-*   **Preço Normal:** 6,99
-*   **Preço com Desconto:** 4,99
-*   **Unidade:** 1kg
-*   **Barcode:** (possibly wrong) 7697697952666
+*   **Product Name:** FEIJOADA NOTA 10
+*   **Brand:** CARIOCA
+*   **Normal Price:** R$ 8,99
+*   **Discounted Price:** R$ 6,99
+*   **Unit:** 1kg
+========================================
+Imagem: 808.txt
+
 ========================================
 Imagem: 809.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Azeite de Oliva Extra Virgem
-*   **Volume:** 500ml
-*   **Preço Normal:** R$ 27,99
-*   **Preço com Desconto:** R$ 17,99
-*   **Barcode:** 99887-2350 (possibly wrong)
+*   **Product Name:** Azeite de Oliva Extra Virgem
+*   **Brand:** Castelo de Olivas
+*   **Normal Price:** R$ 27,99
+*   **Discounted Price:** R$ 17,99
+*   **Unit:** 500 ml
+========================================
+Imagem: 809.txt
+
 ========================================
 Imagem: 810.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** CERVEJA IMPERIAL
+*   **Product Name:** CERVEJA PÚRO MALTE
+*   **Brand:** IMPERIAL
 *   **Normal Price:** R$ 8,99
 *   **Discounted Price:** R$ 5,99
 *   **Unit:** 600 ml
-*   **Barcode Numbers:** 92987-2309 (possibly wrong)
+========================================
+Imagem: 810.txt
+
 ========================================
 Imagem: 811.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extraction of information from the image, formatted as requested:
 
-*   **Produto:** Alcatra Firada
+*   **Produto:** PICANHA FATIADA
+*   **Marca:** MASTER BOI
 *   **Preço Normal:** R$ 79,99
 *   **Preço com Desconto:** R$ 39,99
-*   **Unidade:** kg
-*   **Código de Barras:** 9987-2350 (possivelmente errado)
+*   **Unidade:** KG
+========================================
+Imagem: 811.txt
+
 ========================================
 Imagem: 812.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** (Not possible to identify)
-*   **Preço Normal:** R$ 25,99 (possibly wrong)
-*   **Preço com Desconto:** R$ 15,49
-*   **Unidade:** (Not possible to identify)
-*   **Código de Barras:** 998872350 (possibly wrong)
+*   **Produto:** Campeiro
+*   **Marca:** Rede Mais
+*   **Normal:** R$ 25,99
+*   **Desconto:** R$ 15,49
+*   **Unidade:** 1 unidade
+========================================
+Imagem: 812.txt
+
 ========================================
 Imagem: 813.jpg
-Here's the extracted information from the image:
+Here's the extraction of information from the image, translated into English and formatted as requested:
 
-*   **Product Name:** Leite Boa Vista
+*   **Product Name:** Creme de Leite
+*   **Brand:** Betânia
 *   **Normal Price:** R$ 2,39
-*   **Discounted Price:** R$ 2,39
 *   **Unit:** 200g
-*   **Barcode Numbers:** (possibly wrong) 7891234567890
-*   **Description:** (not possible to identify)
+========================================
+Imagem: 813.txt
+
 ========================================
 Imagem: 814.jpg
-Here's the extraction of information from the image:
+Here's the extracted information from the image, translated into Portuguese (Brazilian Portuguese):
 
-*   **Produto:** Leite Condensado
+*   **Produto:** Betânia Leite Condensado
+*   **Marca:** Betânia
 *   **Preço Normal:** R$ 4,99
-*   **Preço com Desconto:** R$ 3,99
+*   **Preço com Desconto:** R$ 2,99
 *   **Unidade:** 395g
-*   **Código de Barras:** 99887-2350 (possivelmente errado)
+========================================
+Imagem: 814.txt
+
 ========================================
 Imagem: 815.jpg
-Here's an analysis of the image, extracting the requested information:
+Here's the extracted information from the image:
 
-*   **Produto:** Vinho Tinto Morada Suave
-*   **Preço Normal:** 15,99
-*   **Preço com Desconto:** 9,99
+*   **Produto:** Vinho Quinta do Mercado Suave
+*   **Marca:** Quinta do Mercado
+*   **Preço Normal:** R$ 15,99
+*   **Preço com Desconto:** R$ 9,99
 *   **Unidade:** 750ml
-*   **Código de Barras:** 99887-2309 (possibly wrong)
+*   **Quantidade:** 12 unidades por cliente
+========================================
+Imagem: 815.txt
+
 ========================================
 Imagem: 816.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Marilan Crema Cracker
+*   **Product Name:** BISCO CREAM CRACKER
+*   **Brand:** MARILAN
 *   **Normal Price:** R$ 4,99
 *   **Discounted Price:** R$ 3,29
 *   **Unit:** 350g
-*   **Barcode Numbers:** 9987-2350 (possibly wrong)
+========================================
+Imagem: 816.txt
+
 ========================================
 Imagem: 817.jpg
 Here's the extracted information from the image:
 
 *   **Produto:** File de Peito de Frango
-*   **Preço Normal:** 25,99
-*   **Preço com Desconto:** 18,99
-*   **Unidade:** 1 kg
-*   **Barcode Numbers:** (possibly wrong) 7200132875
+*   **Marca:** Jaguá
+*   **Preço Normal:** 2,99
+*   **Preço com Desconto:** 1,99
+*   **Unidade:** 1,00 kg
+========================================
+Imagem: 817.txt
+
 ========================================
 Imagem: 818.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Tomate
-*   **Normal Price:** R$ 3,99
-*   **Discounted Price:** R$ 1,99
-*   **Unit:** kg
-*   **Barcode Numbers:** 9887634 (possibly wrong)
+*   **Produto:** Tomate
+*   **Marca:** Rede Mais
+*   **Preço Normal:** R$ 3,99
+*   **Preço com Desconto:** R$ 1,99
+*   **Unidade:** KG
+========================================
+Imagem: 818.txt
+
 ========================================
 Imagem: 819.jpg
-Here's an analysis of the image, extracting the requested information:
+Here's the extracted information from the image, formatted as requested:
 
-*   **Produto:** Carro de Brinquedo
-*   **Preço Normal:** R$ 99.87
-*   **Preço com Desconto:** R$ 23.50
+*   **Produto:** CARRAPETADA
+*   **Marca:** CONSOLIDADORA
+*   **Preço Normal:** R$ 16,99
+*   **Preço com Desconto:** R$ 9,49
 *   **Unidade:** 300g
-*   **Código de Barras:** 9987-2350 (possivelmente incorreto)
+========================================
+Imagem: 819.txt
+
 ========================================
 Imagem: 820.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Açúcar Branca
-*   **Preço Normal:** R$ 2,99
-*   **Preço com Desconto:** R$ 2,99
-*   **Unidade:** 1 kg
-*   **Código de Barras:** 99872390 (possivelmente errado)
+*   **Product Name:** Açúcar Branco Cristal
+*   **Brand:** Pindorama
+*   **Normal Price:** R$ 3,99
+*   **Discounted Price:** R$ 2,99
+*   **Unit:** 1kg
+========================================
+Imagem: 820.txt
+
 ========================================
 Imagem: 821.jpg
-Here's the extracted information from the image:
+Here's the breakdown of the text extracted from the image:
 
-*   **Product Name:** Ovos Brancos Grandes
-*   **Normal Price:** R$ 19,99
+*   **Produto:** Ovos
+*   **Marca:** Rede Mais
+*   **Normal Price:** R$ 19,90
 *   **Discounted Price:** R$ 15,99
-*   **Unit:** Und
-*   **Barcode Numbers:** (possibly wrong) 789923672367
+*   **Unit:** A unidade
+========================================
+Imagem: 821.txt
+
 ========================================
 Imagem: 822.jpg
-Aqui estão os detalhes extraídos da imagem:
+Here's the extracted information from the image:
 
-*   **Produto:** Melão
-*   **Preço Normal:** R$ 4,49
-*   **Preço com Desconto:** R$ 2,99
-*   **Unidade:** kg
-*   **Código de Barras:** 7200862350 (possivelmente errado)
+*   **Product Name:** Manga Tommy
+*   **Brand:** Rede Mais
+*   **Normal Price:** R$ 4,49
+*   **Discounted Price:** R$ 2,99
+*   **Unit:** Kg
+========================================
+Imagem: 822.txt
+
 ========================================
 Imagem: 823.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Product Name:** Leite Nata Desnatado
+*   **Product Name:** LEITE INTEGRAL
+*   **Brand:** NATIVELLE
 *   **Normal Price:** R$ 6,49
-*   **Discounted Price:** R$ 2,29
+*   **Discounted Price:** R$ 4,29
 *   **Unit:** 1L
-*   **Barcode Number:** 9987-2350 (possibly wrong)
+========================================
+Imagem: 823.txt
+
 ========================================
 Imagem: 824.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Creme de Ricota Original
-*   **Normal Price:** 8,99
-*   **Discounted Price:** 6,99
+*   **Product Name:** CREME DE RICOTA Original
+*   **Brand:** TIOLEZ
+*   **Normal Price:** 12.99
+*   **Discounted Price:** 8.99
 *   **Unit:** 200g
-*   **Barcode Numbers:** (possibly wrong) 7697900156630
+========================================
+Imagem: 824.txt
+
 ========================================
 Imagem: 825.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** File do Peito
-*   **Preço Normal:** 17,99
-*   **Preço com Desconto:** 14,99
-*   **Unidade:** kg
-*   **Código de Barras:** 7891111111111 (possibly wrong)
+*   **Product Name:** File de Peito
+*   **Brand:** Somave
+*   **Normal Price:** R$ 17,99
+*   **Discounted Price:** R$ 14,99
+*   **Unit:** kg
+========================================
+Imagem: 825.txt
+
 ========================================
 Imagem: 826.jpg
-Here's the analysis of the image, extracting the requested information:
+Here's the extracted information from the image:
 
-*   **Product Name:** Carne Bovina Congelada
-*   **Normal Price:** 17.99
-*   **Discounted Price:** 10.99
-*   **Unit:** kg
-*   **Barcode Numbers:** (possibly wrong)
+*   **Product Name:** BOVINO
+*   **Brand:** CONGELADO
+*   **Normal Price:** 17,99
+*   **Discounted Price:** 10,99
+*   **Unit:** KG
+========================================
+Imagem: 826.txt
+
 ========================================
 Imagem: 827.jpg
 Here's the extracted information from the image:
 
 *   **Produto:** Queijo Mussarela
+*   **Marca:** Natville
 *   **Preço Normal:** 39,99
 *   **Preço com Desconto:** 32,99
-*   **Unidade:** kg
-*   **Código de Barras:** 7700942320818 (possivelmente errado)
+*   **Unidade:** KG
+========================================
+Imagem: 827.txt
+
 ========================================
 Imagem: 828.jpg
 Here's the extracted information from the image:
 
 *   **Produto:** Mortadela
+*   **Marca:** Tradicola
 *   **Preço Normal:** 26,99
 *   **Preço com Desconto:** 23,99
-*   **Unidade:** unidade
-*   **Código de Barras:** (possivelmente errado) 7891234567891
+*   **Unidade:** kg
+========================================
+Imagem: 828.txt
+
 ========================================
 Imagem: 829.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** DRIP COFFEE CLASSICO
+*   **Product Name:** CAFÉ DRIP CLARA OU TRÉS CORAÇÕES
+*   **Brand:** CLASSICO
 *   **Normal Price:** 25,99
 *   **Discounted Price:** 18,49
-*   **Unit:** UNIDADE
-*   **Barcode Numbers:** (possibly wrong) 8500734003206
+*   **Unit:** UNIDADE 100G
+========================================
+Imagem: 829.txt
+
 ========================================
 Imagem: 830.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Cáfe Capuccino (possibly wrong)
-*   **Preço Normal:** 24,99
-*   **Preço com Desconto:** 15,49
-*   **Unidade:** Unidade
-*   **Código de Barras:** (possibly wrong) 78912345678901
+*   **Product Name:** CHÁ CAPINHO
+*   **Brand:** TRÊS CORAÇÕES
+*   **Normal Price:** 24,99
+*   **Discounted Price:** 15,49
+*   **Unit:** UNIDADE
+========================================
+Imagem: 830.txt
+
 ========================================
 Imagem: 831.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Café Torrado e Moído
-*   **Normal Price:** 13,89
+*   **Product Name:** CAFÉ TRÊS CORAÇÕES OU SANTA CLARA
+*   **Brand:** GOURMET
+*   **Normal Price:** 18,99
 *   **Discounted Price:** 13,89
-*   **Unit:** Unidade
-*   **Barcode Numbers:** (possibly wrong) 78912345678912
-*   **Description:** 250g
+*   **Unit:** UNIDADE
+========================================
+Imagem: 831.txt
+
 ========================================
 Imagem: 832.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Intimus Tripla Proteção
+*   **Product Name:** Tripla Proteção
+*   **Brand:** Intimina
 *   **Normal Price:** 12,69
-*   **Discounted Price:** 9,99
-*   **Unit:** Unidade
-*   **Barcode Numbers:** (possibly wrong) 7899713279971
+*   **Discounted Price:** (Not specified in image)
+*   **Unit:** Undidade
+========================================
+Imagem: 832.txt
+
 ========================================
 Imagem: 833.jpg
 Here's the extracted information from the image:
 
 *   **Product Name:** Moça
+*   **Brand:** Nestlé
 *   **Normal Price:** 7,49
 *   **Discounted Price:** 5,99
 *   **Unit:** Unidade
-*   **Barcode Numbers:** 395g (possibly wrong)
+========================================
+Imagem: 833.txt
+
 ========================================
 Imagem: 834.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Product Name:** Queijo Cremoso Natilla
+*   **Product Name:** REQUEIJO CREMOSO
+*   **Brand:** NATILLE
 *   **Normal Price:** 14,99
 *   **Discounted Price:** 4,99
-*   **Unit:** 200g
-*   **Barcode Numbers:** (possibly wrong) 7791005689765
+*   **Unit:** UNIDADE (Unit)
+========================================
+Imagem: 834.txt
+
 ========================================
 Imagem: 835.jpg
-Here's the information extracted from the image:
+Here's the extraction of information from the image, translated into English and then formatted for clarity:
 
-*   **Product Name:** Natile
+*   **Product Name:** Manteiga
+*   **Brand:** Natilla
 *   **Normal Price:** 15,99
-*   **Discounted Price:** 7,99
+*   **Discounted Price:** 15,99
 *   **Unit:** 500g
-*   **Barcode Numbers:** (possibly wrong)
+========================================
+Imagem: 835.txt
+
 ========================================
 Imagem: 836.jpg
 Here's the extracted information from the image:
 
 *   **Product Name:** Ovos Brancos
-*   **Normal Price:** R$ 18,99
-*   **Discounted Price:** R$ 16,99
-*   **Unit:** Unidade
-*   **Barcode Numbers:** (possibly wrong) 7891234567890
+*   **Brand:** Almeire
+*   **Normal Price:** 18,99
+*   **Discounted Price:** 16,99
+*   **Unit:** 30 unidades
+========================================
+Imagem: 836.txt
+
 ========================================
 Imagem: 837.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Óleo de Soja
-*   **Preço Normal:** 9,19
-*   **Preço com Desconto:** 7,99
-*   **Unidade:** 500ml
-*   **Código de Barras:** (possivelmente errado) 77005000000000 (Note: Barcode numbers can be incorrect)
+*   **Produto:** ÓLEO DE SOJA
+*   **Marca:** VILA VELHA
+*   **Normal Price:** R$ 9,19
+*   **Discounted Price:** R$ 7,99
+*   **Unit:** 500ML
+========================================
+Imagem: 837.txt
+
 ========================================
 Imagem: 838.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Tigela
-*   **Preço Normal:** 24,99
-*   **Preço com Desconto:** 19,99
-*   **Unidade:** Unidade
-*   **Código de Barras:** 668 (possibly wrong)
+*   **Product Name:** Muffins
+*   **Brand:** Krea
+*   **Normal Price:** 24.99
+*   **Discounted Price:** 19.98
+*   **Unit:** Undefined (likely "unidade" or "cada" -  information not clearly visible)
+========================================
+Imagem: 838.txt
+
 ========================================
 Imagem: 839.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Queijo Parmesão
+*   **Product Name:** Queijo Parmesão
+*   **Brand:** FAIXA AZUL
 *   **Normal Price:** 26,90
 *   **Discounted Price:** 12,89
 *   **Unit:** 195g
-*   **Barcode Numbers:** (possibly wrong) 7600186344367
+========================================
+Imagem: 839.txt
+
 ========================================
 Imagem: 840.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Product Name:** Salsicha
+*   **Product Name:** Salsichas
+*   **Brand:** Perdigão
 *   **Normal Price:** R$ 16,99
-*   **Discounted Price:** R$ 7,99
+*   **Discounted Price:** R$ 9,90
 *   **Unit:** KG
-*   **Barcode Numbers:** 72900000000001 (possibly wrong)
+========================================
+Imagem: 840.txt
+
 ========================================
 Imagem: 841.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** BEB GASEIF H20H 500ml LIMONETE
-*   **Preço Normal:** 2,29
-*   **Preço com Desconto:** 2,29
-*   **Unidade:** 500ml
-*   **Barcode Numbers:** 7064412050 (possibly wrong)
+*   **Product Name:** BEB GASEIF 200ml LIMONETO
+*   **Brand:** LIMONETO
+*   **Normal Price:** 27,48
+*   **Discounted Price:** 2,29
+*   **Unit:** 500ml
+========================================
+Imagem: 841.txt
+
 ========================================
 Imagem: 842.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Secador de Cabelo
-*   **Preço Normal:** R$ 69,00
-*   **Preço com Desconto:** Não identificado
-*   **Unidade:** Und
-*   **Código de Barras:** Não identificado (possibly wrong)
+*   **Product Name:** Tornado Pop
+*   **Brand:** Mallory
+*   **Normal Price:** RS 79,00
+*   **Discounted Price:** RS 69,00
+*   **Unit:** Cx6
+========================================
+Imagem: 842.txt
+
 ========================================
 Imagem: 843.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Mistura Leite
-*   **Preço Normal:** R$ 1,99
-*   **Preço Desconto:** Não disponível
+*   **Produto:** Mistura de Leite
+*   **Marca:** Mococa
+*   **Preço Normal:** 53,73
+*   **Preço Promocional:** 1,99
 *   **Unidade:** 200g
-*   **Código de Barras:** (possivelmente errado) 72900011994
-*   **Descrição:** Mistura Leite
+========================================
+Imagem: 843.txt
+
 ========================================
 Imagem: 844.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Product Name:** Rezkende
+*   **Product Name:** Mussarela
+*   **Brand:** Reinzende
 *   **Normal Price:** R$ 131,76
 *   **Discounted Price:** R$ 10,98
 *   **Unit:** 400g
-*   **Barcode Numbers:** CX12 (possibly wrong)
+========================================
+Imagem: 844.txt
+
 ========================================
 Imagem: 845.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Mussarela
-*   **Preço por Kg:** R$ 31,90
-*   **Unidade:** Kg
-*   **Código de Barras:** 789387120397 (possivelmente errado)
+*   **Product Name:** Mussarela
+*   **Brand:** Mana
+*   **Price:** R$ 31,90
+*   **Unit:** Kg
+========================================
+Imagem: 845.txt
+
 ========================================
 Imagem: 846.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Tomate
+*   **Product Name:** TOMATE HOLANDES
+*   **Brand:** HOLANDES
 *   **Normal Price:** 4,99
 *   **Discounted Price:** 4,99
-*   **Unit:** 500g
-*   **Barcode Numbers:** 18317002 (possibly wrong)
+*   **Unit:** 500G
+========================================
+Imagem: 846.txt
+
 ========================================
 Imagem: 847.jpg
-Here's the extraction of information from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Tomates
+*   **Produto:** Tomate
+*   **Marca:** Farellas
 *   **Preço Normal:** 4,99
-*   **Preço com Desconto:** 4,99
 *   **Unidade:** 250g
-*   **Código de Barras:** (possivelmente errado) 7700182200657
+========================================
+Imagem: 847.txt
+
 ========================================
 Imagem: 848.jpg
-Here's the extraction of information from the image:
+Here's the breakdown of the information extracted from the image:
 
 *   **Product Name:** Tomate Cereja
+*   **Brand:** TREBESCHI
 *   **Normal Price:** 6,09
-*   **Discounted Price:** (Not found)
 *   **Unit:** 200g
-*   **Barcode Numbers:** (possibly wrong) 7697000833785
 ========================================
 Imagem: 849.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** SERGIPANO
-*   **Normal Price:** 6,73
-*   **Discounted Price:** Not identified
-*   **Unit:** 1 kg
-*   **Barcode Numbers:** 673 (possibly wrong)
+*   **Produto:** Farinha de Trigo
+*   **Marca:** SergioPano
+*   **Preço Normal:** 6,73
+*   **Unidade:** 1kg
+========================================
+Imagem: 849.txt
+
 ========================================
 Imagem: 850.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** BISCKOK
-*   **Normal Price:** R$ 2,99
-*   **Discounted Price:** R$ 2,99
+*   **Product Name:** BISROCK
+*   **Brand:** PEDIGREE
+*   **Normal Price:** R$ 31,99
+*   **Discounted Price:** R$ 24,99
 *   **Unit:** 1kg
-*   **Barcode Numbers:**  (possibly wrong) 7700184927668
+========================================
+Imagem: 850.txt
+
 ========================================
 Imagem: 851.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Dragoá
-*   **Normal Price:** R$ 7,98
-*   **Discounted Price:** Not Available
-*   **Unit:** 5L
-*   **Barcode Numbers:** Not Possible to Identify (possibly wrong)
+*   **Produto:** Água Sanitária
+*   **Marca:** Dragão
+*   **Preço Normal:** R$ 7,80
+*   **Preço Especial:** R$ 7,50
+*   **Unidade:** 5L
+========================================
+Imagem: 851.txt
+
 ========================================
 Imagem: 852.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Arroz União Longo 1kg
-*   **Preço Normal:** R$ 3,86
-*   **Preço Desconto:** R$ 3,86
-*   **Unidade:** 1kg
-*   **Código de Barras:** 72960339603 (possivelmente errado)
+*   **Product Name:** Arroz
+*   **Brand:** Urbano
+*   **Normal Price (per 1 kg):** R$ 3,86
+*   **Discounted Price (per 1 kg):** R$ 3,86
+*   **Unit:** 1 kg
+========================================
+Imagem: 852.txt
+
 ========================================
 Imagem: 853.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Raio
-*   **Nome:** Aceitona Verde S/ (possibly wrong)
-*   **Preço Unitário:** R$ 17,98 (possibly wrong)
-*   **Preço por KG:** R$ 42,8104 (possibly wrong)
-*   **Barcode:** Não foi possível identificar
+*   **Product Name:** Azeitonas Verdes
+*   **Brand:** Raíola
+*   **Normal Price:** 42,8104
+*   **Discounted Price:** 17,98
+*   **Unit:** 20 unidades
+========================================
+Imagem: 853.txt
+
 ========================================
 Imagem: 854.jpg
-Here's the extracted information from the image:
+Here's the extracted information from the image of the price tag:
 
-*   **Product Name:**  Semolina Pasta
-*   **Normal Price:** 14,99
-*   **Discounted Price:** 9,99
+*   **Product Name:** Macarrão
+*   **Brand:** Divella
+*   **Normal Price:** R$ 14,99
+*   **Discounted Price:** R$ 6,99
 *   **Unit:** 500g
-*   **Barcode Number:** 7700948011389 (possibly wrong)
+========================================
+Imagem: 854.txt
+
 ========================================
 Imagem: 855.jpg
-Here's the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Product Name:** cerveja pura
+*   **Product Name:** CERVEJA PURO MALTE
+*   **Brand:** ESTRELLA GALICIA
 *   **Normal Price:** 3,99
-*   **Discounted Price:** 3,99
 *   **Unit:** 350ml
-*   **Barcode Numbers:** 880700503005 (possibly wrong)
+========================================
+Imagem: 855.txt
+
 ========================================
 Imagem: 856.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image, presented in Portuguese (Brazilian Portuguese):
 
-*   **Product Name:** CAPSULA CAFÉ EXP. FORÇA 6G
-*   **Normal Price:** 22.99
-*   **Discounted Price:** 15.39
-*   **Unit:** 6G
-*   **Barcode Numbers:** 
-    *   (possibly wrong) 7800390300239
-    *   (possibly wrong) 7800390300239
-*   **Description:** N/D
+*   **Produto:** Cápsula Café Expresso Força 86
+*   **Marca:** Espresso
+*   **Preço Normal:** 23,99€
+*   **Preço com Desconto:** 15,39€
+*   **Unidade:** 8g
+*   **Produto:** Cápsula Café Expresso Atenção 86
+*   **Marca:** Espresso
+*   **Preço Normal:** 22,99€
+*   **Preço com Desconto:** 15,39€
+*   **Unidade:** 8g
+========================================
+Imagem: 856.txt
+
 ========================================
 Imagem: 857.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Cif
-*   **Normal Price:** R$ 3,39
-*   **Discounted Price:** R$ 3,39
-*   **Unit:** (Not identifiable on the image)
-*   **Barcode Numbers:** 7700770016939 (possibly wrong)
+*   **Product Name:** CORIFE
+*   **Brand:** CRISTAL
+*   **Normal Price:** 3,59
+*   **Discounted Price:** 3,39
+*   **Unit:** KG
+========================================
+Imagem: 857.txt
+
 ========================================
 Imagem: 858.jpg
 Here's the extracted information from the image:
 
 *   **Produto:** Ovos
-*   **Preço Normal:** 16,99
-*   **Preço com Desconto:** 16,99
+*   **Marca:** Ovos de Ouro
+*   **Preço Normal:** R$ 18,99
+*   **Preço com Desconto:** R$ 16,99
 *   **Unidade:** Unds
-*   **Código de Barras:** (possibly wrong) 8800780001699
+========================================
+Imagem: 858.txt
+
 ========================================
 Imagem: 859.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Filet de Peixe
-*   **Preço Normal:** R$ 20,90
-*   **Preço com Desconto:** R$ 17,99
-*   **Unidade:** kg
-*   **Barcode:** 78912345678901 (possibly wrong)
+*   **Product Name:** FILETE DE PEITO
+*   **Brand:** COPACOL
+*   **Normal Price:** R$ 20,90
+*   **Discounted Price:** R$ 17,99
+*   **Unit:** 1KG
+========================================
+Imagem: 859.txt
+
 ========================================
 Imagem: 860.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** CERVEJA BLACK PRINCESS 600ml
-*   **Normal Price:** R$ 9,48
-*   **Discounted Price:** R$ 8,29
-*   **Unit:** Und
-*   **Barcode Numbers:** 7709213770921 (possibly wrong)
+*   **Product Name:** CERVEJA BLACK PRINCESS 600ml GOLD
+*   **Brand:** BLACK PRINCESS
+*   **Normal Price:** 9,48
+*   **Discounted Price:** 8,29
+*   **Unit:** 600ml
+========================================
+Imagem: 860.txt
+
 ========================================
 Imagem: 861.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the extracted information from the image:
 
-*   **Produto:** Feijão Preto 10kg
+*   **Produto:** FEIJÃO PRETO
+*   **Marca:** Nota 10
 *   **Preço Normal:** R$ 56,90
 *   **Preço com Desconto:** R$ 56,90
-*   **Unidade:** 10kg
-*   **Código de Barras:** 78912345678901 (possibly wrong)
+*   **Unidade:** 10 kg
+========================================
+Imagem: 861.txt
+
 ========================================
 Imagem: 862.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Feijão Carioca Cheef T1 1kg
-*   **Preço Normal:** R$ 6,99
-*   **Preço Promocional:** R$ 6,29
-*   **Unidade:** 1kg
-*   **Código de Barras:** (Não foi possível identificar)
+*   **Produto:** FEIJOADA CARIOCA CHEEF T1
+*   **Marca:** CHEEF
+*   **Preço Normal:** R$ 6,29
+*   **Preço com Desconto:** R$ 6,29
+*   **Unidade:** 1 kg
+========================================
+Imagem: 862.txt
+
 ========================================
 Imagem: 863.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Monster Energy
+*   **Product Name:** Mango Loco
+*   **Brand:** Monster Energy
 *   **Normal Price:** R$ 7,99
-*   **Discounted Price:** R$ 47,99
-*   **Unit:** 473 ml
-*   **Barcode Numbers:** 6007503862847 (possibly wrong)
+*   **Unit:** Cx6
+*   **Quantity:** 473 ml
+========================================
+Imagem: 863.txt
+
 ========================================
 Imagem: 864.jpg
-Here's the extracted information from the image:
+Here's the breakdown of the information extracted from the image:
 
-*   **Product Name:** Goiâba
-*   **Normal Price:** 2.37
-*   **Discounted Price:** 18.96
-*   **Unit:**  200ml (possibly wrong)
-*   **Barcode Numbers:** CX24 (possibly wrong)
+*   **Product Name:** Goiava
+*   **Brand:** Caju
+*   **Normal Price:** 18.96
+*   **Discounted Price:** 2.37
+*   **Unit:** 200ml
+========================================
+Imagem: 864.txt
+
 ========================================
 Imagem: 865.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Whisky (Possivelmente Wrong)
-*   **Preço Normal:** 11,90 € (Possivelmente Wrong)
-*   **Preço Desconto:** 27,70 € (Possivelmente Wrong)
-*   **Unidade:** 1,5L
-*   **Código de Barras:** 7700900100179 (Possivelmente Wrong)
+*   **Product Name:** Suco
+*   **Brand:** Suco Integral
+*   **Normal Price:** R$ 11,90
+*   **Discounted Price:** R$ 7,40
+*   **Unit:** 1,5L
+========================================
+Imagem: 865.txt
+
 ========================================
 Imagem: 866.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Turma da Mônica
+*   **Product Name:** Fraldas da Monica M 90
+*   **Brand:** Monica
 *   **Normal Price:** R$ 64,90
 *   **Discounted Price:** R$ 259,60
-*   **Unit:** Por Unidade
-*   **Barcode Numbers:** 7700412079917 (possibly wrong)
+*   **Unit:**  Por Unidade
+========================================
+Imagem: 866.txt
+
 ========================================
 Imagem: 867.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Ramineli BCO T1 1kg
-*   **Preço Normal:** 3,49
-*   **Preço com Desconto:** 3,49
-*   **Unidade:** 1kg
-*   **Código de Barras:** 770010116714 (possivelmente errado)
+*   **Brand:** Raminelli
+*   **Product Name:** Arroz Branco
+*   **Normal Price:** 3,49
+*   **Discounted Price:** 3,49
+*   **Unit:** 1 kg
+========================================
+Imagem: 867.txt
+
 ========================================
 Imagem: 868.jpg
 Here's the extracted information from the image:
 
-*   **Produto:** Açucar Cristal
-*   **Preço Normal:** R$ 3,19
-*   **Preço com Desconto:** R$ 1,90
-*   **Unidade:** 1kg
-*   **Código de Barras:** 7891430033029 (possibly wrong)
+*   **Produto:** Açúcar Cristal Nota 10
+*   **Marca:** Cristal
+*   **Preço Unitário:** R$ 3,19
+*   **Peso Lio:** 1 kg
+========================================
+Imagem: 868.txt
+
 ========================================
 Imagem: 869.jpg
-Here's the breakdown of the information extracted from the image:
-
-*   **Produto:** Dona Lasanha
-*   **Preço Normal:** R$ 17,99
-*   **Preço com Desconto:** R$ 10,77
-*   **Unidade:** 200g
-*   **Código de Barras:** 78912345678901 (possibly wrong)
-========================================
-Imagem: 870.jpg
 Here's the extracted information from the image:
 
-*   **Product Name:** Cápsula Café 3 Corações
+*   **Produto:** Massa
+*   **Marca:** Dona Benta
+*   **Preço Normal:** 3,59
+*   **Unidade:** 200g
+========================================
+Imagem: 869.txt
+
+========================================
+Imagem: 870.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Produto:** Cápsula Café 3 Corações
+*   **Marca:** NESPRESSO
+*   **Preço Normal:** 119,20
+*   **Preço com Desconto:** 14,90
+*   **Unidade:** 10 cápsulas de 8g
+========================================
+Imagem: 870.txt
+
+========================================
+Imagem: 871.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Creame de Leite
+*   **Brand:** Piracanjuba
+*   **Normal Price:** R$ 2,69
+*   **Discounted Price:** R$ 2,79
+*   **Unit:** 200g
+========================================
+Imagem: 871.txt
+
+========================================
+Imagem: 872.jpg
+Here's the extracted information from the image, formatted in Portuguese (PT-BR) as requested:
+
+*   **Produto:** CAFÉ MELITTA
+*   **Marca:** MELITTA
+*   **Preço Unitário:** R$ 7,45
+*   **Preço de Venda:** R$ 149,00
+*   **Peso:** 250g
+========================================
+Imagem: 872.txt
+
+========================================
+Imagem: 873.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Biscoito Cracker Marilan
+*   **Brand:** Marilan
+*   **Normal Price:** 3,95
+*   **Discounted Price:** 79,00
+*   **Unit:** Por Unidade
+========================================
+Imagem: 873.txt
+
+========================================
+Imagem: 874.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** LEITE UHT NATIVELLE
+*   **Brand:** NATIVELLE
+*   **Normal Price:** 4,69
+*   **Discounted Price:** 4,80
+*   **Unit:** 1L
+*   **Quantidade:** A UNIDADE
+========================================
+Imagem: 874.txt
+
+========================================
+Imagem: 875.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Kibe de Carne
+*   **Brand:** Friboi
+*   **Normal Price:** R$ 154,90
+*   **Discounted Price:** R$ 51,90
+*   **Unit:** 100g
+========================================
+Imagem: 875.txt
+
+========================================
+Imagem: 876.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Batata
+*   **Brand:** Monaliza
+*   **Normal Price:** 3,99
+*   **Unit:** KG
+========================================
+Imagem: 876.txt
+
+========================================
+Imagem: 877.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** SALAME ITAL ARORA 100g
+*   **Brand:** ARORA
+*   **Normal Price:** R$ 9,90
+*   **Unit:** 100g
+========================================
+Imagem: 877.txt
+
+========================================
+Imagem: 878.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** ovos
+*   **Brand:** Tamago
+*   **Normal Price:** 13,90
+*   **Unit:** médio
+========================================
+Imagem: 878.txt
+
+========================================
+Imagem: 879.jpg
+Here's the extracted information from the image of the tomato price tag:
+
+*   **Product Name:** Tomate
+*   **Brand:** JOMART
+*   **Normal Price:** R$ 7.99
+*   **Discounted Price:** R$ 6.99
+*   **Unit:** kg
+========================================
+Imagem: 879.txt
+
+========================================
+Imagem: 880.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** LEITE
+*   **Brand:** BETANIA
+*   **Normal Price:** 4,69
+*   **Discounted Price:** 2,56
+*   **Unit:** 1L
+========================================
+Imagem: 880.txt
+
+========================================
+Imagem: 881.jpg
+Here's the extracted information from the image, as requested:
+
+*   **Product Name:** Cebola
+*   **Brand:**  Não Especificada
+*   **Normal Price:** 4,99
+*   **Unit:** kg
+========================================
+Imagem: 881.txt
+
+========================================
+Imagem: 882.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** Leite
+*   **Brand:** Eleite
+*   **Normal Price:** R$ 2,49
+*   **Discounted Price:** R$ 12,59
+*   **Unit:** 500g
+========================================
+Imagem: 882.txt
+
+========================================
+Imagem: 883.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** MAIZENA
+*   **Brand:** VITARELLA
+*   **Normal Price:** R$ 5,29
+*   **Discounted Price:** R$ 4,99
+*   **Unit:** 250g
+========================================
+Imagem: 883.txt
+
+========================================
+Imagem: 884.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Repelex
+*   **Brand:** Aerossol
+*   **Normal Price:** 27,50
+*   **Discounted Price:** 14,00
+*   **Unit:** 200ml
+========================================
+Imagem: 884.txt
+
+========================================
+Imagem: 885.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cooktop A Gas 4 Bocas
+*   **Brand:** Mundial
+*   **Normal Price:** R$ 529,90
+*   **Discounted Price:** R$ 399,90
+*   **Unit:** (Not Specified - It's a box)
+========================================
+Imagem: 885.txt
+
+========================================
+Imagem: 886.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** KIT COMPLETO ENROLADOR DE MANGEIRA
+*   **Marca:** VITÓRIA PLAST
+*   **Preço Original:** R$ 589,90
+*   **Preço com Desconto:** R$ 399,90
+*   **Unidade:** UNIDADE
+========================================
+Imagem: 886.txt
+
+========================================
+Imagem: 887.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Churrasqueira
+*   **Brand:** Gold
+*   **Normal Price:** R$ 399,90
+*   **Discounted Price:** R$ 259,90
+*   **Unit:** (Não especificado na imagem)
+========================================
+Imagem: 887.txt
+
+========================================
+Imagem: 888.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** BEL FIX
+*   **Brand:** BEL
+*   **Normal Price:** R$ 94,90
+*   **Discounted Price:** R$ 129,90
+*   **Unit:** 350 ml
+========================================
+Imagem: 888.txt
+
+========================================
+Imagem: 889.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Kit Completo Jardin
+*   **Marca:** Black Friday
+*   **Preço Normal:** 689.90
+*   **Preço Promocional:** 479.90
+*   **Unidade:** Não especificada (Not specified)
+========================================
+Imagem: 889.txt
+
+========================================
+Imagem: 890.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Torneira Flexível
+*   **Marca:** Casa Ok
+*   **Preço Normal:** R$ 129,89
+*   **Preço com Desconto:** R$ 79,90
+*   **Unidade:** (Não identificável na imagem, assume-se "unidade")
+========================================
+Imagem: 890.txt
+
+========================================
+Imagem: 891.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** Casa OK
+*   **Product Name:** Ducha Higiênica
+*   **Normal Price:** R$ 129,90
+*   **Discounted Price:** R$ 69,90
+*   **Unit:** Undidade
+========================================
+Imagem: 891.txt
+
+========================================
+Imagem: 892.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** Casa Ok
+*   **Product Name:** Kit de Acessórios Para Banheiro
+*   **Normal Price:** R$ 279,90
+*   **Discounted Price:** R$ 169,90
+========================================
+Imagem: 892.txt
+
+========================================
+Imagem: 893.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Copo Térmico
+*   **Marca:** Preto
+*   **Preço Normal:** R$ 134,90
+*   **Preço com Desconto:** R$ 99,90
+*   **Unidade:** Unidade
+========================================
+Imagem: 893.txt
+
+========================================
+Imagem: 894.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** MOP GIRATÓRIO
+*   **Brand:** CASA OK
+*   **Normal Price:** R$ 69,90
+*   **Discounted Price:** R$ 39,90
+*   **Unit:** Não especificado (Not specified)
+========================================
+Imagem: 894.txt
+
+========================================
+Imagem: 895.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Banana Da Terra
+*   **Marca:** Rede Mais
+*   **Preço Normal:** Z99,99
+*   **Preço com Desconto:** 5,99
+*   **Unidade:** KG
+========================================
+Imagem: 895.txt
+
+========================================
+Imagem: 896.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Lava e Imperfeita
+*   **Brand:** Omo
+*   **Normal Price:** (Not readable in the image)
+*   **Discounted Price:** 29,99
+*   **Unit:** 3L
+========================================
+Imagem: 896.txt
+
+========================================
+Imagem: 897.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** COMPOSTO LÁCTEO
+*   **Brand:** Nestlé
+*   **Normal Price:** 34,99
+*   **Discounted Price:** 28,99
+*   **Unit:** 750g
+========================================
+Imagem: 897.txt
+
+========================================
+Imagem: 898.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Snickers
+*   **Brand:** Rede Mais
+*   **Normal Price:** 3,99
+*   **Discounted Price:** 2,89
+*   **Unit:** 45g
+========================================
+Imagem: 898.txt
+
+========================================
+Imagem: 899.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** REFRIG SOKITA 2L LIMÃO
+*   **Marca:** SOKITA
+*   **Preço Unitário:** R$ 3,99
+========================================
+Imagem: 899.txt
+
+========================================
+Imagem: 900.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** QUADRO DECOR
+*   **Brand:**  (Not explicitly stated in the image, but likely)  (Assuming "Decorat" is the brand)
+*   **Normal Price:** 119,90
+*   **Discounted Price:** 69,90
+*   **Unit:** UNIDADE
+========================================
+Imagem: 900.txt
+
+========================================
+Imagem: 901.jpg
+Here's the extracted information from the image, in Portuguese (PT-BR):
+
+*   **Produto:** Gelati
+*   **Marca:** Black Friday
+*   **Preço Normal:** 129,90
+*   **Preço Promocional:** 89,90
+*   **Unidade:** Und.
+========================================
+Imagem: 901.txt
+
+========================================
+Imagem: 902.jpg
+Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Café
+*   **Marca:** Decora
+*   **Preço Normal:** 49,50
+*   **Preço com Desconto:** 29,90
+*   **Unidade:** Não informado (Not specified)
+========================================
+Imagem: 902.txt
+
+========================================
+Imagem: 903.jpg
+Here's the extracted information from the image, translated into Portuguese (PT-BR):
+
+*   **Produto:** QUADRO DECOR HDS218
+*   **Marca:** BLACK FRIDAY
+*   **Preço Normal:** R$ 49,90
+*   **Preço com Desconto:** R$ 39,90
+*   **Unidade:** (Não identificável na imagem)
+========================================
+Imagem: 903.txt
+
+========================================
+Imagem: 904.jpg
+Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Caixa
+*   **Marca:** Decor
+*   **Preço Normal:** R$ 99,90
+*   **Preço com Desconto:** R$ 49,90
+*   **Unidade:** Unidade
+========================================
+Imagem: 904.txt
+
+========================================
+Imagem: 905.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** 3 CUBOS
+*   **Marca:** DECOR HOME
+*   **Preço Normal:** R$ 85,90
+*   **Unit:** un
+========================================
+Imagem: 905.txt
+
+========================================
+Imagem: 906.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** Pisolar
+*   **Product Name:** Organizador de Cosméticos HD-54321
+*   **Normal Price:** R$ 19,66
+*   **Discounted Price:** R$ 11,90
+========================================
+Imagem: 906.txt
+
+========================================
+Imagem: 907.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** ORGANIZADOR DE COSMÉTICOS
+*   **Marca:** HOME DECOR
+*   **Preço Original:** R$ 33,90
+*   **Preço com Desconto:** R$ 19,90
+*   **Unidade:** Não especificada na imagem (presumivelmente unidade de venda)
+========================================
+Imagem: 907.txt
+
+========================================
+Imagem: 908.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** KIT DE ACESSÓRIOS
+*   **Brand:** CASA OK
+*   **Normal Price:** 162,90
+*   **Discounted Price:** 99,90
+*   **Unit:** UNIDADE
+========================================
+Imagem: 908.txt
+
+========================================
+Imagem: 909.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Desinfetante Spray
+*   **Marca:** Lysol
+*   **Preço Normal:** R$24,48
+*   **Preço com Desconto:** R$10,91
+*   **Unidade:** 440ml
+========================================
+Imagem: 909.txt
+
+========================================
+Imagem: 910.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Mr Musculo Multiuso
+*   **Marca:** Johnson
+*   **Preço Original:** R$ 14,99
+*   **Preço com Desconto:** R$ 9,99
+*   **Unidade:** 750ml
+========================================
+Imagem: 910.txt
+
+========================================
+Imagem: 911.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** AMANDITA
+*   **Brand:** AMANDITA
+*   **Normal Price:** R$ 9,8700
+*   **Discounted Price:** R$ 4,9350
+*   **Unit:** 200g
+========================================
+Imagem: 911.txt
+
+========================================
+Imagem: 912.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Arroz
+*   **Marca:** Urbano
+*   **Preço Normal:** R$ 14,98
+*   **Unidade:** 1 kg
+========================================
+Imagem: 912.txt
+
+========================================
+Imagem: 913.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Arroz
+*   **Brand:** Urbano
+*   **Normal Price:** R$ 3,86
+*   **Discounted Price:** R$ 3,68
+*   **Unit:** 1kg
+========================================
+Imagem: 913.txt
+
+========================================
+Imagem: 914.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Farinha de Trigo
+*   **Marca:** Finná
+*   **Preço Normal:** R$ 5,99
+*   **Preço com Desconto:** R$ 4,99
+*   **Unidade:** 1kg
+========================================
+Imagem: 914.txt
+
+========================================
+Imagem: 915.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Monster Energy 473ml
+*   **Brand:** Monster
+*   **Normal Price:** R$7,99
+*   **Unit:** 1
+========================================
+Imagem: 915.txt
+
+========================================
+Imagem: 916.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Catupiry
+*   **Marca:** Lacta
+*   **Preço Normal:** R$ 15,48
+*   **Preço com Desconto:** R$ 13,90
+*   **Unidade:** 500g
+========================================
+Imagem: 916.txt
+
+========================================
+Imagem: 917.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** LEITE DESNATADO
+*   **Marca:** Regina
+*   **Preço Normal:** R$ 6,98
+*   **Preço com Desconto:** R$ 2,99
+*   **Unidade:** 12 Potes de 1 Litro
+========================================
+Imagem: 917.txt
+
+========================================
+Imagem: 918.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Panela de Pressão
+*   **Brand:** Panelux
+*   **Normal Price:** R$ 39,99
+*   **Discounted Price:** (Not visible in the image)
+*   **Unit:** Litros
+========================================
+Imagem: 918.txt
+
+========================================
+Imagem: 919.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** CÂMERA DE SEGURANÇA COM INTELIGÊNCIA
+*   **Brand:** ELSYS
+*   **Normal Price:** 429,90
+*   **Discounted Price:** 249,90
+*   **Unit:** UNIDADE
+========================================
+Imagem: 919.txt
+
+========================================
+Imagem: 920.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Argamassa ACI 20kg Flex
+*   **Brand:** SAINT-GOBAIN
+*   **Normal Price:** R$ 29,89
+*   **Unit:** 20kg
+========================================
+Imagem: 920.txt
+
+========================================
+Imagem: 921.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** NOVA FORMA
+*   **Brand:** (Not explicitly stated, but the image suggests it's "Black Friday")
+*   **Normal Price:** 599,90
+*   **Discounted Price:** 599,90
+*   **Unit:** (Not specified, but likely "unidade" - unit)
+========================================
+Imagem: 921.txt
+
+========================================
+Imagem: 922.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Caixa Multiuso
+*   **Marca:** Sem Rebonda
+*   **Preço Normal:** R$ 234,90
+*   **Preço com Desconto:** R$ 139,90
+*   **Unidade:** Não especificada (not specified on the tag)
+========================================
+Imagem: 922.txt
+
+========================================
+Imagem: 923.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Pintalar
+*   **Brand:** Fosco Aveludado
+*   **Normal Price:** 124,90
+*   **Discounted Price:** 79,89
+*   **Unit:**  15L
+========================================
+Imagem: 923.txt
+
+========================================
+Imagem: 924.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Acetinado Bianco
+*   **Marca:** Bianco
+*   **Preço Normal:** R$ 79,90
+*   **Preço com Desconto:** R$ 59,90
+*   **Unidade:** m²
+========================================
+Imagem: 924.txt
+
+========================================
+Imagem: 925.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** MATTE
+*   **Brand:** ARIELLE
+*   **Normal Price:** R$ 31,90
+*   **Discounted Price:** R$ 23,95
+*   **Unit:** m2
+========================================
+Imagem: 925.txt
+
+========================================
+Imagem: 926.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** KIT BRAZEDA IMP 3/8 560W
+*   **Brand:** BLACK DECKER
+*   **Normal Price:** 299,89
+*   **Discounted Price:** 239,89
+*   **Unit:** UNIDADE
+========================================
+Imagem: 926.txt
+
+========================================
+Imagem: 927.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Anel de Vedação
+*   **Brand:** Casa Ok
+*   **Normal Price:** 11,90
+*   **Discounted Price:** 5,49
+*   **Unit:** Unidade
+========================================
+Imagem: 927.txt
+
+========================================
+Imagem: 928.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Brand:** ELSYS
+*   **Product Name:** Vídeo Porteiro Wi-Fi
+*   **Normal Price:** 910,00
+*   **Discounted Price:** 599,90
+*   **Unit:** UNIDADE
+========================================
+Imagem: 928.txt
+
+========================================
+Imagem: 929.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** ELSYS
+*   **Product Name:** FECHADURA DIGITAL
+*   **Normal Price:** R$1679,90
+*   **Discounted Price:** R$999,90
+*   **Unit:**  (Not specified in the image, but inferred as "unidade")
+========================================
+Imagem: 929.txt
+
+========================================
+Imagem: 930.jpg
+Here's the extracted information from the image:
+
+*   **BRAND:** BEL FIX
+*   **PRODUCT NAME:** CAIXA TÉRMICA
+*   **NORMAL PRICE:** 79,90
+*   **DISCOUNTED PRICE:** 65,90
+*   **UNIT:** PEÇA
+========================================
+Imagem: 930.txt
+
+========================================
+Imagem: 931.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Manga Tommy
+*   **Marca:** Tommy
+*   **Preço Normal:** R$5,99
+*   **Preço com Desconto:** R$2,99
+*   **Unidade:** Kg
+========================================
+Imagem: 931.txt
+
+========================================
+Imagem: 932.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Banana
+*   **Marca:** Supermercado
+*   **Preço Normal:** R$5,99
+*   **Preço com Desconto:** R$3,99
+========================================
+Imagem: 932.txt
+
+========================================
+Imagem: 933.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** xícara vidro
+*   **Brand:** Ofertao
+*   **Normal Price:** R$6,99
+*   **Discounted Price:** R$9,99
+*   **Unit:**  (Not explicitly stated, implied as "each")
+========================================
+Imagem: 933.txt
+
+========================================
+Imagem: 934.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Filet de Peito
+*   **Brand:** Friotto
+*   **Normal Price:** R$22,99
+*   **Discounted Price:** R$18,79
+*   **Unit:** kg
+========================================
+Imagem: 934.txt
+
+========================================
+Imagem: 935.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cream Cracker
+*   **Brand:** Marilan
+*   **Normal Price:** R$4,59
+*   **Discounted Price:** R$3,59
+*   **Unit:** 300g
+========================================
+Imagem: 935.txt
+
+========================================
+Imagem: 936.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Manga
+*   **Brand:** Tomy
+*   **Normal Price:** Não especificado
+*   **Discounted Price:** R$ 1,99
+*   **Unit:** kg
+========================================
+Imagem: 936.txt
+
+========================================
+Imagem: 937.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Omo
+*   **Brand:** Ariel
+*   **Normal Price:** R$ 6,99
+*   **Unit:** 700 ml
+========================================
+Imagem: 937.txt
+
+========================================
+Imagem: 938.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Tomate
+*   **Brand:** Não identificada
+*   **Normal Price:** R$ 2,99
+*   **Discounted Price:** R$ 2,99
+*   **Unit:** kg
+========================================
+Imagem: 938.txt
+
+========================================
+Imagem: 939.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** Protex
+*   **Product Name:** Sabonete Protex 850 Carvão Detox
+*   **Normal Price:** 28,69
+*   **Discounted Price:** 2,39
+*   **Unit:**  Não informado
+========================================
+Imagem: 939.txt
+
+========================================
+Imagem: 940.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** Always
+*   **Product Name:** Super Proteção
+*   **Normal Price:** 6.67
+*   **Discounted Price:** 5.27
+*   **Unit:**  (The text is partially obscured, but appears to be) "Por Unidade" (Per Unit)
+========================================
+Imagem: 940.txt
+
+========================================
+Imagem: 941.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Açúcar
+*   **Brand:** Nota 10
+*   **Normal Price:** R$ 3,19
+*   **Discounted Price:** R$ 3,90
+*   **Unit:** 1 kg
+========================================
+Imagem: 941.txt
+
+========================================
+Imagem: 942.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cápsula Espe 3 Corações 10x8g Vibrante
+*   **Brand:** NESCAFÉ
 *   **Normal Price:** R$ 14,90
-*   **Discounted Price:** Not found
-*   **Unit:** 10x90g
-*   **Barcode Numbers:** AM3 470 (possibly wrong)
+*   **Unit:** 10 capsules
+========================================
+Imagem: 942.txt
+
+========================================
+Imagem: 943.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Abobrinha
+*   **Brand:** Abobrinha
+*   **Price:** R$ 1,99
+*   **Unit:** Unit
+========================================
+Imagem: 943.txt
+
+========================================
+Imagem: 944.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Cenoura
+*   **Brand:**  Não especificado
+*   **Normal Price:** Não especificado
+*   **Discounted Price:** R$ 1,99
+*   **Unit:** KG
+========================================
+Imagem: 944.txt
+
+========================================
+Imagem: 945.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** FRITADEIRA ABN-40 BFS FAMILY 4L
+*   **Brand:** MONDIAL
+*   **Normal Price:** 549,89
+*   **Discounted Price:** 379,89
+*   **Unit:**  (Not explicitly stated, but implied to be "unidade" - unit)
+========================================
+Imagem: 945.txt
+
+========================================
+Imagem: 946.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** DUCHA TOP JET
+*   **Brand:** LORENZETTI
+*   **Normal Price:** 139,90
+*   **Discounted Price:** 74,89
+*   **Unit:** UNIDADE
+========================================
+Imagem: 946.txt
+
+========================================
+Imagem: 947.jpg
+Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Liquidificador EASY POWER 127W
+*   **Marca:** Mundial
+*   **Preço Normal:** R$ 79,90
+*   **Preço Promocional:** R$ 79,90
+*   **Unidade:** Peça
+========================================
+Imagem: 947.txt
+
+========================================
+Imagem: 948.jpg
+Here's the extraction of information from the image, translated into Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Chaveiro Diam Alumínio 71cm
+*   **Marca:** Durafort
+*   **Preço Original:** R$ 760,90
+*   **Preço com Desconto:** R$ 499,90
+*   **Unidade:** Não especificada (Não está presente na imagem)
+========================================
+Imagem: 948.txt
+
+========================================
+Imagem: 949.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Suporte para Mangueira
+*   **Marca:** Vitória Plast
+*   **Preço Normal:** R$ 14,69
+*   **Preço com Desconto:** R$ 9,99
+========================================
+Imagem: 949.txt
+
+========================================
+Imagem: 950.txt
+
+========================================
+Imagem: 951.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** PORCELANATO 80X90
+*   **Brand:** RETIFICADO GRIGIO
+*   **Normal Price:** R$ 109,90
+*   **Discounted Price:** R$ 81,90
+*   **Unit:** m²
+========================================
+Imagem: 951.txt
+
+========================================
+Imagem: 952.jpg
+Here's the extracted information from the image:
+
+*   **Brand:** ARIELLE
+*   **Product Name:** BRANCO MATE CX243
+*   **Normal Price:** R$ 31,90
+*   **Discounted Price:** R$ 23,95
+*   **Unit:** m²
+========================================
+Imagem: 952.txt
+
+========================================
+Imagem: 953.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** NICHO 60CM BRANCO
+*   **Brand:** NICHO DECOR
+*   **Normal Price:** R$ 99,90
+*   **Discounted Price:** R$ 59,90
+*   **Unit:** UNIDADE
+========================================
+Imagem: 953.txt
+
+========================================
+Imagem: 954.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** VASO VIETNAM 38X50
+*   **Marca:** CASA OK
+*   **Preço Normal:** R$ 134,90
+*   **Preço Promocional:** R$ 69,90
+*   **Unidade:** Peça
+========================================
+Imagem: 954.txt
+
+========================================
+Imagem: 955.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Biscoito Uno
+*   **Marca:** Uno
+*   **Sabor:** Chocolate
+*   **Peso:** 126 g
+*   **Preço Normal:** 3,29
+*   **Preço com Desconto:** 1,99
+*   **Unidade:** unidade(s)
+========================================
+Imagem: 955.txt
+
+========================================
+Imagem: 956.jpg
+Here's the extracted information from the image:
+
+*   **BRAND:** COLGATE
+*   **PRODUCT NAME:** COLAGENE
+*   **NORMAL PRICE:** 28,85
+*   **DISCOUNTED PRICE:** 19,99
+*   **UNIT:** 300ML + 150ML
+========================================
+Imagem: 956.txt
+
+========================================
+Imagem: 957.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Azeite Extra Virgem
+*   **Brand:** Andorinha
+*   **Normal Price:** 26,19
+*   **Discounted Price:** 18,99
+*   **Unit:** 500ml
+========================================
+Imagem: 957.txt
+
+========================================
+Imagem: 958.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Ovos
+*   **Brand:** GranDol
+*   **Normal Price:** Não Informado
+*   **Discounted Price:** R$7,99
+*   **Unit:** 20
+*   **Peso Lio:** 1,2 kg
+========================================
+Imagem: 958.txt
+
+========================================
+Imagem: 959.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:**  Lixeira
+*   **Brand:** Krea
+*   **Normal Price:** 79,90
+*   **Discounted Price:** 49,90
+*   **Unit:** 5L
+========================================
+Imagem: 959.txt
+
+========================================
+Imagem: 960.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Chanty Mix
+*   **Brand:** Amelia
+*   **Normal Price:** 8,99
+*   **Discounted Price:** 3,99
+*   **Unit:** 200ml
+========================================
+Imagem: 960.txt
+
+========================================
+Imagem: 961.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Cerveja Puro Malte
+*   **Marca:** Itaipava
+*   **Preço Normal:** R$ 2,59
+*   **Preço Desconto:** R$ 1,99
+*   **Unidade:** 350ml
+========================================
+Imagem: 961.txt
+
+========================================
+Imagem: 962.jpg
+Here's the extracted information from the image, in Portuguese (PT-BR):
+
+*   **Produto:** Baden
+*   **Marca:** Baden
+*   **Normal:** 5,69
+*   **Desconto:** 2,99
+*   **Unidade:** 350ml
+========================================
+Imagem: 962.txt
+
+========================================
+Imagem: 963.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Vodka Absolut
+*   **Brand:** Absolut
+*   **Normal Price:** 119,90
+*   **Discounted Price:** 89,90
+*   **Unit:** 1L
+========================================
+Imagem: 963.txt
+
+========================================
+Imagem: 964.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** File de Peito
+*   **Brand:** Copacol
+*   **Normal Price:** 18,99
+*   **Discounted Price:** 14,99
+*   **Unit:** KG
+========================================
+Imagem: 964.txt
+
+========================================
+Imagem: 965.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Sanduicheira
+*   **Brand:** BLACK
+*   **Normal Price:** R$ 68,00
+*   **Discounted Price:** R$ 68,00 
+*   **Unit:** (Não especificado na imagem)
+========================================
+Imagem: 965.txt
+
+========================================
+Imagem: 966.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Panela de Pressão
+*   **Brand:** Exlux
+*   **Normal Price:** R$ 39,90
+*   **Unit:** (Não especificado na imagem)
+========================================
+Imagem: 966.txt
+
+========================================
+Imagem: 967.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Omo
+*   **Brand:** Omo
+*   **Normal Price:** R$ 5,99
+*   **Discounted Price:** R$ 5,99
+*   **Unit:** Refil
+========================================
+Imagem: 967.txt
+
+========================================
+Imagem: 968.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Ventilador
+*   **Marca:** Mundial
+*   **Preço Normal:** R$ 88,00
+*   **Preço Promocional:** R$ 88,00
+========================================
+Imagem: 968.txt
+
+========================================
+Imagem: 969.jpg
+Here's the extraction of information from the image, translated to Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Ovos
+*   **Marca:** Sem Marca
+*   **Preço Normal:** R$ 14,99
+*   **Preço Promocional:** R$ 14,99
+========================================
+Imagem: 969.txt
+
+========================================
+Imagem: 970.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Mixer
+*   **Brand:** ADRATO
+*   **Normal Price:** R$ 68,00
+*   **Discounted Price:** R$ 68,00 (Price unchanged in this image)
+*   **Unit:** (Not specified in the image)
+========================================
+Imagem: 970.txt
+
+========================================
+Imagem: 971.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Natilla
+*   **Brand:** Natilla
+*   **Normal Price:** R$ 4,19
+*   **Discounted Price:** R$ 4,19
+*   **Unit:** 1L
+========================================
+Imagem: 971.txt
+
+========================================
+Imagem: 972.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Airfryer
+*   **Brand:** Oster
+*   **Normal Price:** R$ 299,00
+*   **Unit:** (Não especificado na imagem, mas presumivelmente "unidade")
+========================================
+Imagem: 972.txt
+
+========================================
+Imagem: 973.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Leite Integral
+*   **Brand:** Sadia
+*   **Normal Price:** R$ 16,99
+*   **Discounted Price:** R$ 6,79
+*   **Unit:** 200g
+========================================
+Imagem: 973.txt
+
+========================================
+Imagem: 974.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** AJU MAÇÃ
+*   **Brand:** AJU
+*   **Normal Price:** 1,79
+*   **Discounted Price:** 0,99
+*   **Unit:** unidade de 500ml
+========================================
+Imagem: 974.txt
+
+========================================
+Imagem: 975.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** LEITE EM INTEGRAL
+*   **Brand:** SERENISSIMA
+*   **Normal Price:** DE7,99
+*   **Discounted Price:** 6,49
+*   **Unit:** 200g
+========================================
+Imagem: 975.txt
+
+========================================
+Imagem: 976.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Moça
+*   **Brand:** Nestlé
+*   **Normal Price:** 7,49
+*   **Discounted Price:** 5,89
+*   **Unit:** 395g
+========================================
+Imagem: 976.txt
+
+========================================
+Imagem: 977.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** CAPUCCINO
+*   **Brand:** CAPUCCINO
+*   **Normal Price:** 26,99
+*   **Discounted Price:** (Not visible in the image)
+*   **Unit:** UNIDADE
+========================================
+Imagem: 977.txt
+
+========================================
+Imagem: 978.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Natilla
+*   **Brand:** Natilla
+*   **Normal Price:** R$6,29
+*   **Discounted Price:** R$4,19
+*   **Unit:** Unidade
+========================================
+Imagem: 978.txt
+
+========================================
+Imagem: 979.jpg
+Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+
+*   **Produto:** Macarrão Nissin
+*   **Marca:** Nissin
+*   **Preço Normal:** 72g por R$4,69
+*   **Preço Promocional:** R$3,49
+*   **Unidade:** Unidade
+========================================
+Imagem: 979.txt
+
+========================================
+Imagem: 980.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** AMACIANTE DOWNY
+*   **Brand:** DOWNY
+*   **Normal Price:** 11,99
+*   **Discounted Price:** 7,99
+*   **Unit:** 450/500ml
+========================================
+Imagem: 980.txt
+
+========================================
+Imagem: 981.jpg
+Here's the breakdown of the information extracted from the image:
+
+*   **Product Name:** OVOS BRANCO
+*   **Brand:**  (The brand is not readable due to the image quality)
+*   **Normal Price:** R$ 19,99
+*   **Discounted Price:** R$ 14,99
+*   **Unit:** Und (Não identificado - Not identifiable)
+========================================
+Imagem: 981.txt
+
+========================================
+Imagem: 982.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Filé de Peito
+*   **Marca:** So Mave
+*   **Preço Normal:** 19,99
+*   **Preço Promocional:** 12,99
+*   **Unidade:** KG
+========================================
+Imagem: 982.txt
+
+========================================
+Imagem: 983.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Creme Dental Oral-B
+*   **Marca:** Oral-B
+*   **Preço Normal:** 2,19
+*   **Preço com Desconto:** 1,69
+*   **Unidade:** 70g (50ml)
+========================================
+Imagem: 983.txt
+
+========================================
+Imagem: 984.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Batata
+*   **Brand:** Bem Brasil
+*   **Normal Price:** 24,99
+*   **Discounted Price:** 19,99
+*   **Unit:** kg
+========================================
+Imagem: 984.txt
+
+========================================
+Imagem: 985.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** SHAMPOO ANTI-CASPA DIV
+*   **Brand:** SHOUDERS
+*   **Normal Price:** R$ 15,99
+*   **Discounted Price:** R$ 8,99
+*   **Unit:** 200ml
+========================================
+Imagem: 985.txt
+
+========================================
+Imagem: 986.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** SOLUVEL INTENSO
+*   **Brand:** NESCAFE
+*   **Normal Price:** 27,99
+*   **Discounted Price:** 13,99
+*   **Unit:** UNIDADE (Unit)
+========================================
+Imagem: 986.txt
+
+========================================
+Imagem: 987.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** Bebida Lacto Zero Proteína
+*   **Marca:** YOPRO
+*   **Preço Normal:** R$ 10,99
+*   **Preço com Desconto:** R$ 6,49
+*   **Unidade:** Unidade de 250ml
+========================================
+Imagem: 987.txt
+
+========================================
+Imagem: 988.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Linguiça Carpereta
+*   **Brand:**  Costela
+*   **Normal Price:** R$ 18,99
+*   **Discounted Price:** R$ 13,99
+*   **Unit:** 300g
+========================================
+Imagem: 988.txt
+
+========================================
+Imagem: 989.jpg
+Here's the extracted information from the image:
+
+*   **Produto:** PICANHA BOVINA ARGENTINA
+*   **Marca:** Massário
+*   **Preço Normal:** R$ 109,99
+*   **Preço com Desconto:** R$ 79,99
+*   **Unidade:** KG
+========================================
+Imagem: 989.txt
+
+========================================
+Imagem: 990.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Mamirinha
+*   **Brand:** Boina
+*   **Original Price:** 69,99
+*   **Discounted Price:** 57,99
+*   **Unit:** Kg
+========================================
+Imagem: 990.txt
+
+========================================
+Imagem: 991.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** ACUCAR CRISTAL
+*   **Brand:** TAQVARI
+*   **Normal Price:** DE: 3,99
+*   **Discounted Price:** POR: 2,99
+*   **Unit:** 1kg
+*   **Peso Líquido:** 1kg
+========================================
+Imagem: 991.txt
+
+========================================
+Imagem: 992.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Tomate Pelado
+*   **Brand:** Domex
+*   **Normal Price:** 7,99
+*   **Discounted Price:** 4,99
+*   **Unit:** 400g
+========================================
+Imagem: 992.txt
+
+========================================
+Imagem: 993.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** VINHO CHIA LOMA NEGRA
+*   **Brand:** LOMA NEGRA
+*   **Normal Price:** 65,99
+*   **Discounted Price:** 48,99
+*   **Unit:** 750ml
+========================================
+Imagem: 993.txt
+
+========================================
+Imagem: 994.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Mostarda Dijon Sab
+*   **Brand:** Lorena
+*   **Normal Price:** R$ 12,99
+*   **Unit:** 200g / 350g
+========================================
+Imagem: 994.txt
+
+========================================
+Imagem: 995.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Syrah
+*   **Brand:** Azeitao
+*   **Normal Price:** 54,99
+*   **Discounted Price:** 39,99
+*   **Unit:** 750ml
+========================================
+Imagem: 995.txt
+
+========================================
+Imagem: 996.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Tomate
+*   **Brand:** Heinz
+*   **Original Price:** 13,99
+*   **Discounted Price:** 8,99
+*   **Unit:** 397g
+========================================
+Imagem: 996.txt
+
+========================================
+Imagem: 997.jpg
+Here's the extracted information from the image, formatted as requested:
+
+*   **Produto:** Vinho Urus
+*   **Marca:** Juan Carrau
+*   **Preço Normal:** 79,99
+*   **Preço com Desconto:** 39,99
+*   **Unidade:** 750ml
+========================================
+Imagem: 997.txt
+
+========================================
+Imagem: 998.jpg
+Here's the extracted information from the image, translated into Portuguese (PT-BR):
+
+*   **Produto:** Penne
+*   **Marca:** Regina
+*   **Preço Normal:** R$ 10,99
+*   **Preço com Desconto:** R$ 8,49
+*   **Unidade:** 500g
+========================================
+Imagem: 998.txt
+
+========================================
+Imagem: 999.jpg
+Here's the extracted information from the image:
+
+*   **Product Name:** Azeite de Oliva Extra Virgem
+*   **Brand:** Clássico
+*   **Normal Price:** 27,99
+*   **Discounted Price:** 17,99
+*   **Unit:** 500ml
+========================================
+Imagem: 999.txt
+
 ========================================

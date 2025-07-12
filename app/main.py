@@ -15,9 +15,8 @@ def converter_imagem_para_base64(caminho):
 def enviar_para_ollama(imagem_base64):
     prompt2 = """ Your task is to work and the job of an professional OCR tool, analyzing an image containing
         a price tag and one or more products. You should extract
-        the product’s NAME, NORMAL PRICE, DISCOUNTED PRICE, UNIT, BARCODE NUMBERS and DESCRIPTION
-        (in PT-BR). Make sure the answer informs the barcode numbers can be wrong. If you've found the barcode number, add (possibly wrong) at the end of it.
-        If did not found, inform that was not possible to identify".
+        the product’s NAME and BRAND, NORMAL PRICE, DISCOUNTED PRICE, UNIT,
+        (in PT-BR). You must extract all the text from the. Remind yourself that ALL the text are in Portuguese (Brasilian Portuguese).
         """    
 
     payload = {
@@ -49,16 +48,14 @@ def processar_imagem(caminho):
         f.write("="*40 + "\n")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Uso: python main.py <imagem1> [<imagem2> ...]")
+    pasta_imagens = "/app/dataset-images/test"
+    caminhos = [os.path.join(pasta_imagens, f) for f in sorted(os.listdir(pasta_imagens)) if os.path.isfile(os.path.join(pasta_imagens, f))]
+    if not caminhos:
+        print(f"Nenhuma imagem encontrada em {pasta_imagens}.")
         sys.exit(1)
-    caminhos = sys.argv[1:]
     for caminho in caminhos:
-        if not os.path.isfile(caminho):
-            print(f"Arquivo não encontrado: {caminho}")
-            continue
         print(f"Pronto para analisar: {os.path.basename(caminho)}")
-        comando = input("Digite 'y' para analisar esta imagem ou 'sair' para encerrar: ").strip().lower()
+        comando = input("Digite 'y' para analisar esta imagem, 'sair' para encerrar, ou qualquer outra tecla para pular: ").strip().lower()
         if comando == "sair":
             print("Encerrando.")
             break
