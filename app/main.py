@@ -3,6 +3,7 @@ import requests
 import json
 import os
 import sys
+import time
 
 OLLAMA_URL = "http://ollama:11434/api/generate"
 MODEL = "gemma3:4b"
@@ -13,10 +14,8 @@ def converter_imagem_para_base64(caminho):
         return base64.b64encode(f.read()).decode("utf-8")
 
 def enviar_para_ollama(imagem_base64):
-    prompt2 = """ Your task is to work and the job of an professional OCR tool, analyzing an image containing
-        a price tag and one or more products. You should extract
-        the product’s NAME and BRAND, NORMAL PRICE, DISCOUNTED PRICE, UNIT,
-        (in PT-BR). You must extract all the text from the. Remind yourself that ALL the text are in Portuguese (Brasilian Portuguese).
+    prompt2 = """ "**CONTEXTO:** Você recebeu o texto bruto extraído de uma imagem de promoção de produtos de supermercado. Sua tarefa é analisar este texto para identificar informações específicas do produto e da promoção.
+**TEXTO BRUTO DA IMAGEM (GERADO POR OCR):**
         """    
 
     payload = {
@@ -42,24 +41,37 @@ def processar_imagem(caminho):
     resultado = enviar_para_ollama(imagem_base64)
     print(resultado)
     # Salva o resultado em um arquivo txt
-    with open("resultados.txt", "a", encoding="utf-8") as f:
+    with open("resultado_valid.txt", "a", encoding="utf-8") as f:
         f.write(f"Imagem: {os.path.basename(caminho)}\n")
         f.write(resultado + "\n")
         f.write("="*40 + "\n")
 
+def ler_ultima_imagem_processada():
+    if os.path.exists("progresso.txt"):
+        with open("progresso.txt", "r", encoding="utf-8") as f:
+            return f.read().strip()
+    return None
+
+def salvar_ultima_imagem_processada(nome):
+    with open("progresso.txt", "w", encoding="utf-8") as f:
+        f.write(nome)
+
 if __name__ == "__main__":
-    pasta_imagens = "/app/dataset-images/test"
+    pasta_imagens = "/app/dataset-images/valid/valid"
     caminhos = [os.path.join(pasta_imagens, f) for f in sorted(os.listdir(pasta_imagens)) if os.path.isfile(os.path.join(pasta_imagens, f))]
     if not caminhos:
         print(f"Nenhuma imagem encontrada em {pasta_imagens}.")
         sys.exit(1)
+    print("Se quiser retomar de um ponto específico, digite o nome do arquivo (ex: 1003.jpg). Deixe em branco para começar do início.")
+    inicio = input("Arquivo para começar (ou Enter): ").strip()
+    pular = bool(inicio)
     for caminho in caminhos:
-        print(f"Pronto para analisar: {os.path.basename(caminho)}")
-        comando = input("Digite 'y' para analisar esta imagem, 'sair' para encerrar, ou qualquer outra tecla para pular: ").strip().lower()
-        if comando == "sair":
-            print("Encerrando.")
-            break
-        elif comando == "y":
-            processar_imagem(caminho)
-        else:
-            print("Comando não reconhecido. Pulando esta imagem.")
+        if pular:
+            if os.path.basename(caminho) == inicio:
+                pular = False
+            else:
+                continue
+        print(f"Processando: {os.path.basename(caminho)}")
+        processar_imagem(caminho)
+        salvar_ultima_imagem_processada(os.path.basename(caminho))
+        time.sleep(2)

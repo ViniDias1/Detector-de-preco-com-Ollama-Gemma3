@@ -1,2368 +1,2178 @@
-Imagem: 1000.jpg
-Here's the breakdown of the information extracted from the image:
-
-*   **Product Name:** Azeite Extra Virgem Cinco Virgem
-*   **Brand:** Oliva
-*   **Normal Price:** 38,99
-*   **Discounted Price:** 28,99
-*   **Unit:** 500ml
-========================================
-Imagem: 1000.txt
-
-========================================
 Imagem: 801.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações relevantes:
 
-*   **Product Name:** Frango Bio
-*   **Brand:** Sadia
-*   **Normal Price:** R$ 23,99
-*   **Discounted Price:** R$ 18,99
-*   **Unit:** 1 kg
+*   **Produto:** Frango Sadia Bio
+*   **Peso:** 1kg
+*   **Preço de Venda:** R$ 23,99
+*   **Preço Promocional:** R$ 18,99
 ========================================
 Imagem: 801.txt
 
 ========================================
 Imagem: 802.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Mignon Suíno
-*   **Brand:** Sadia
-*   **Normal Price:** R$ 18,99
-*   **Discounted Price:** R$ 17,99
-*   **Unit:** 1kg
+*   **Produto:** Carne Suína Sadia
+*   **Peso:** 1kg
+*   **Preço:** R$ 17,99 por unidade (UN)
+*   **Outras formas de pagamento:** R$ 18,99 por unidade (UN)
 ========================================
 Imagem: 802.txt
 
 ========================================
 Imagem: 803.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Batata
-*   **Marca:** Bimbo
-*   **Preço Normal:** R$ 27,99
-*   **Preço com Desconto:** R$ 19,99
-*   **Unidade:** 2kg
+*   **Produto:** Batata Tradicional
+*   **Marca:** Bem Brasil
+*   **Peso:** 2 kg
+*   **Preço Unitário:** R$ 19,99
+*   **Preço Promocional (por pacote):** R$ 27,99
 ========================================
 Imagem: 803.txt
 
 ========================================
 Imagem: 804.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas da imagem:
 
-*   **Product Name:** Whisky Black and White
-*   **Brand:** James Buchanan & Co.
-*   **Normal Price:** R$ 39,99
-*   **Discounted Price:** R$ 29,99
-*   **Unit:** 700ml
+*   **Produto:** Whisky Black & White
+*   **Tamanho:** 700ml
+*   **Preço:** R$ 29,99
 ========================================
 Imagem: 804.txt
 
 ========================================
 Imagem: 805.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** OMO
-*   **Brand:** Lavagem Perfeita
-*   **Normal Price:** R$ 39,99
-*   **Discounted Price:** R$ 29,99
-*   **Unit:** 1 x 3L
+*   **Produto:** Detergente Líquido Omo Lavagem Perfeita
+*   **Tamanho:** 1,3L
+*   **Preço:** R$ 29,99 (produto limitado a 6 unidades por cliente)
 ========================================
 Imagem: 805.txt
 
 ========================================
 Imagem: 806.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** ICE ORIGINAL
-*   **Brand:** SMIRNOFF
-*   **Normal Price:** R$ 6,99
-*   **Discounted Price:** R$ 5,99
-*   **Unit:** 275ML
+*   **Produto:** Smirnoff Ice LN 275ml
+*   **Preço de Venda:** R$ 5,99
+*   **Quantidade:** 24 unidades
 ========================================
 Imagem: 806.txt
 
 ========================================
 Imagem: 807.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas da imagem:
 
-*   **Product Name:** LEITE EM PÓ
-*   **Brand:** SERENISSIMA
-*   **Normal Price:** 28,99
-*   **Unit:** 800g
-*   **Additional Text:** "Inteiro" and "1929"
+*   **Marca:** Sericina
+*   **Produto:** Leite em Pó Instantâneo
+*   **Peso:** 800g
+*   **Preço:** R$ 28,99
+*   **Código de barras:** 7890476003003
 ========================================
 Imagem: 807.txt
 
 ========================================
 Imagem: 808.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** FEIJOADA NOTA 10
-*   **Brand:** CARIOCA
-*   **Normal Price:** R$ 8,99
-*   **Discounted Price:** R$ 6,99
-*   **Unit:** 1kg
+*   **Marca:** Carioca
+*   **Tipo:** 10
+*   **Peso:** 1kg
+*   **Preço:** R$ 6,99
 ========================================
 Imagem: 808.txt
 
 ========================================
 Imagem: 809.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto da imagem:
 
-*   **Product Name:** Azeite de Oliva Extra Virgem
-*   **Brand:** Castelo de Olivas
-*   **Normal Price:** R$ 27,99
-*   **Discounted Price:** R$ 17,99
-*   **Unit:** 500 ml
+*   **Produto:** Azeite de Oliva Extra Virgem
+*   **Volume:** 500ml
+*   **Preço de Venda:** R$ 17,99
+*   **Quantidade Limitada:** 1 Unidade
+*   **Marca:** Rede Mais
 ========================================
 Imagem: 809.txt
 
 ========================================
 Imagem: 810.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CERVEJA PÚRO MALTE
-*   **Brand:** IMPERIAL
-*   **Normal Price:** R$ 8,99
-*   **Discounted Price:** R$ 5,99
-*   **Unit:** 600 ml
+*   **Produto:** Cerveja Imperio Lager
+*   **Volume:** 600 ml
+*   **Preço:** R$ 5,99
+*   **Quantidade:** 12 garrafas
 ========================================
 Imagem: 810.txt
 
 ========================================
 Imagem: 811.jpg
-Here's the extraction of information from the image, formatted as requested:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** PICANHA FATIADA
-*   **Marca:** MASTER BOI
-*   **Preço Normal:** R$ 79,99
-*   **Preço com Desconto:** R$ 39,99
-*   **Unidade:** KG
+*   **Produto:** Picanha Fatiada Master Boi
+*   **Preço:** R$39,99 por 1 KG
 ========================================
 Imagem: 811.txt
 
 ========================================
 Imagem: 812.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Campeiro
-*   **Marca:** Rede Mais
-*   **Normal:** R$ 25,99
-*   **Desconto:** R$ 15,49
-*   **Unidade:** 1 unidade
+*   **Preço de Venda (DE):** R$ 25,99
+*   **Preço Promocional (POR):** R$ 15,49
+*   **Unidade:** UN (provavelmente unidade)
+
+Espero que isso ajude!
 ========================================
 Imagem: 812.txt
 
 ========================================
 Imagem: 813.jpg
-Here's the extraction of information from the image, translated into English and formatted as requested:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Creme de Leite
-*   **Brand:** Betânia
-*   **Normal Price:** R$ 2,39
-*   **Unit:** 200g
+*   **Produto:** Creme de Leite
+*   **Marca:** Betânia
+*   **Peso:** 200g
+*   **Preço:** R$ 2,39
 ========================================
 Imagem: 813.txt
 
 ========================================
 Imagem: 814.jpg
-Here's the extracted information from the image, translated into Portuguese (Brazilian Portuguese):
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** Betânia Leite Condensado
 *   **Marca:** Betânia
-*   **Preço Normal:** R$ 4,99
-*   **Preço com Desconto:** R$ 2,99
-*   **Unidade:** 395g
+*   **Produto:** Leite Condensado Semidesnatado
+*   **Tamanho:** 395g
+*   **Preço:** R$ 4,99 (aparentemente para a compra de 27 unidades)
+*   **Outras informações:**
+    *   O texto inclui um QR code com a inscrição “para mais…” (provavelmente com mais detalhes da promoção).
+
+Espero que esta análise seja útil!
 ========================================
 Imagem: 814.txt
 
 ========================================
 Imagem: 815.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, aqui estão as informações identificadas sobre o produto e a promoção:
 
-*   **Produto:** Vinho Quinta do Mercado Suave
-*   **Marca:** Quinta do Mercado
-*   **Preço Normal:** R$ 15,99
-*   **Preço com Desconto:** R$ 9,99
-*   **Unidade:** 750ml
-*   **Quantidade:** 12 unidades por cliente
+*   **Produto:** Vinho Quinta do Morago Suave 750ml
+*   **Preço:** R$ 9,99
+*   **Quantidade:** Limitado a 12 unidades por cliente.
 ========================================
 Imagem: 815.txt
 
 ========================================
 Imagem: 816.jpg
-Here's the extracted information from the image:
+Here’s a breakdown of the information from the image text:
 
-*   **Product Name:** BISCO CREAM CRACKER
-*   **Brand:** MARILAN
-*   **Normal Price:** R$ 4,99
-*   **Discounted Price:** R$ 3,29
-*   **Unit:** 350g
+*   **Product:** Marilan Cream Crackers
+*   **Weight:** 350g
+*   **Price:** R$ 3,29 (approximately $1.65 USD)
+*   **Store:** Rede Mais
+*   **Expiration Date:** 65 meses (approximately 5 years)
 ========================================
 Imagem: 816.txt
 
 ========================================
 Imagem: 817.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações extraídas do texto da imagem:
 
-*   **Produto:** File de Peito de Frango
-*   **Marca:** Jaguá
-*   **Preço Normal:** 2,99
-*   **Preço com Desconto:** 1,99
-*   **Unidade:** 1,00 kg
+*   **Produto:** Peito de Frango
+*   **Marca:** Jagua
+*   **Peso:** 1kg
+*   **Preço:** R$ 18,99
 ========================================
 Imagem: 817.txt
 
 ========================================
 Imagem: 818.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
 *   **Produto:** Tomate
-*   **Marca:** Rede Mais
-*   **Preço Normal:** R$ 3,99
-*   **Preço com Desconto:** R$ 1,99
-*   **Unidade:** KG
+*   **Preço:** R$ 1,99 por kg
 ========================================
 Imagem: 818.txt
 
 ========================================
 Imagem: 819.jpg
-Here's the extracted information from the image, formatted as requested:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** CARRAPETADA
-*   **Marca:** CONSOLIDADORA
-*   **Preço Normal:** R$ 16,99
-*   **Preço com Desconto:** R$ 9,49
-*   **Unidade:** 300g
+*   **Produto:** Linguiça Cara Preta
+*   **Peso:** 300g
+*   **Preço:** R$ 9,49
+*   **Quantidade:** Produto limitado a 12 unidades por cliente.
 ========================================
 Imagem: 819.txt
 
 ========================================
 Imagem: 820.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Açúcar Branco Cristal
-*   **Brand:** Pindorama
-*   **Normal Price:** R$ 3,99
-*   **Discounted Price:** R$ 2,99
-*   **Unit:** 1kg
+*   **Produto:** Açúcar Branco Tipo Cristal Pindorama
+*   **Peso:** 1kg
+*   **Preço:** R$ 2,99
 ========================================
 Imagem: 820.txt
 
 ========================================
 Imagem: 821.jpg
-Here's the breakdown of the text extracted from the image:
+Com base na imagem, aqui estão os detalhes da promoção:
 
-*   **Produto:** Ovos
-*   **Marca:** Rede Mais
-*   **Normal Price:** R$ 19,90
-*   **Discounted Price:** R$ 15,99
-*   **Unit:** A unidade
+*   **Produto:** Ovos brancos
+*   **Quantidade:** 30 unidades
+*   **Preço:** R$ 15,99
 ========================================
 Imagem: 821.txt
 
 ========================================
 Imagem: 822.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** Manga Tommy
-*   **Brand:** Rede Mais
-*   **Normal Price:** R$ 4,49
-*   **Discounted Price:** R$ 2,99
-*   **Unit:** Kg
+**Produto:** Manga Tommy
+**Quantidade:** 1KG
+**Preço:** R$ 2,99
 ========================================
 Imagem: 822.txt
 
 ========================================
 Imagem: 823.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** LEITE INTEGRAL
-*   **Brand:** NATIVELLE
-*   **Normal Price:** R$ 6,49
-*   **Discounted Price:** R$ 4,29
-*   **Unit:** 1L
+*   **Produto:** Leite UHT Desnatado Nat.
+*   **Tamanho:** 1L
+*   **Quantidade:** 12 unidades
+*   **Preço:** R$ 6,49
+*   **Código do produto:** 9987-2350
 ========================================
 Imagem: 823.txt
 
 ========================================
 Imagem: 824.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CREME DE RICOTA Original
-*   **Brand:** TIOLEZ
-*   **Normal Price:** 12.99
-*   **Discounted Price:** 8.99
-*   **Unit:** 200g
+*   **Produto:** Creme de Ricota Traditional ou Light
+*   **Marca:** Tiolez
+*   **Peso:** 200g
+*   **Preço Unitário:** R$ 6,99
+*   **Preço do Pacote:** R$ 13,99
 ========================================
 Imagem: 824.txt
 
 ========================================
 Imagem: 825.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** File de Peito
-*   **Brand:** Somave
-*   **Normal Price:** R$ 17,99
-*   **Discounted Price:** R$ 14,99
-*   **Unit:** kg
+*   **Produto:** File de Peito Somave
+*   **Preço:** R$ 14,99 por kg
 ========================================
 Imagem: 825.txt
 
 ========================================
 Imagem: 826.jpg
-Here's the extracted information from the image:
+Com base no texto da imagem, temos as seguintes informações:
 
-*   **Product Name:** BOVINO
-*   **Brand:** CONGELADO
-*   **Normal Price:** 17,99
-*   **Discounted Price:** 10,99
-*   **Unit:** KG
+*   **Produto:** Carne congelada bovina
+*   **Preço:** R$ 17,99 por kg
 ========================================
 Imagem: 826.txt
 
 ========================================
 Imagem: 827.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Queijo Mussarela
-*   **Marca:** Natville
-*   **Preço Normal:** 39,99
-*   **Preço com Desconto:** 32,99
-*   **Unidade:** KG
+*   **Produto:** Queijo Mussarela Natville
+*   **Peso:** 1 kg
+*   **Preço de Exibição:** 39,99
+*   **Preço Promocional:** 32,99
 ========================================
 Imagem: 827.txt
 
 ========================================
 Imagem: 828.jpg
-Here's the extracted information from the image:
+Com base no texto da imagem:
 
-*   **Produto:** Mortadela
-*   **Marca:** Tradicola
-*   **Preço Normal:** 26,99
-*   **Preço com Desconto:** 23,99
-*   **Unidade:** kg
+*   **Produto:** Mortadela Seara Defumada
+*   **Peso:** 1 kg
+*   **Preço:** R$ 26,99 por unidade
+*   **Preço:** R$ 23,99 por unidade
 ========================================
 Imagem: 828.txt
 
 ========================================
 Imagem: 829.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CAFÉ DRIP CLARA OU TRÉS CORAÇÕES
-*   **Brand:** CLASSICO
-*   **Normal Price:** 25,99
-*   **Discounted Price:** 18,49
-*   **Unit:** UNIDADE 100G
+*   **Produto:** Café Drip Santa Clara ou Três Corações
+*   **Tamanhos:** 110g ou 100g
+*   **Preço:** R$ 25,99
+*   **Unidade:** 18,49 (presumivelmente o preço por unidade)
 ========================================
 Imagem: 829.txt
 
 ========================================
 Imagem: 830.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CHÁ CAPINHO
-*   **Brand:** TRÊS CORAÇÕES
-*   **Normal Price:** 24,99
-*   **Discounted Price:** 15,49
-*   **Unit:** UNIDADE
+*   **Produto:** Cápsula de Café/Chá - Três Corações
+*   **Sabor:** Doce de Leite
+*   **Preço:** R$ 24,99
+*   **Preço Unitário:** R$ 15,49
 ========================================
 Imagem: 830.txt
 
 ========================================
 Imagem: 831.jpg
-Here's the extracted information from the image:
+Aqui estão as informações identificadas a partir do texto da imagem:
 
-*   **Product Name:** CAFÉ TRÊS CORAÇÕES OU SANTA CLARA
-*   **Brand:** GOURMET
-*   **Normal Price:** 18,99
-*   **Discounted Price:** 13,89
-*   **Unit:** UNIDADE
+*   **Marca:** Três Corações ou Gourmet
+*   **Tipo de Café:** Café Torrado e Moído ou 100% Arábica
+*   **Tipo de Torra:** Dark Roast
+*   **Peso:** 250g
+*   **Preço Unitário:** R$ 13,89
+*   **Unidade:** Cada
 ========================================
 Imagem: 831.txt
 
 ========================================
 Imagem: 832.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Tripla Proteção
-*   **Brand:** Intimina
-*   **Normal Price:** 12,69
-*   **Discounted Price:** (Not specified in image)
-*   **Unit:** Undidade
+*   **Marca:** Intimina
+*   **Tipo de Produto:** Absorventes Higiênicos
+*   **Quantidade:** 32 unidades
+*   **Preço:** R$ 12,69 (considerando que o texto menciona "o mais barato e o massivo")
 ========================================
 Imagem: 832.txt
 
 ========================================
 Imagem: 833.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Moça
-*   **Brand:** Nestlé
-*   **Normal Price:** 7,49
-*   **Discounted Price:** 5,99
-*   **Unit:** Unidade
+*   **Produto:** Leite Condensado Moça 395g
+*   **Preço:** R$ 7,49
+*   **Preço por Unidade:** R$ 5,99
 ========================================
 Imagem: 833.txt
 
 ========================================
 Imagem: 834.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** REQUEIJO CREMOSO
-*   **Brand:** NATILLE
-*   **Normal Price:** 14,99
-*   **Discounted Price:** 4,99
-*   **Unit:** UNIDADE (Unit)
+*   **Marca:** Natilla
+*   **Produto:** Requeijão Cremoso
+*   **Sabor:** Cebola e Salsa
+*   **Tamanho:** 200g
+*   **Preço:** R$ 4,99
+*   **Unidade:** Unidade
 ========================================
 Imagem: 834.txt
 
 ========================================
 Imagem: 835.jpg
-Here's the extraction of information from the image, translated into English and then formatted for clarity:
+Com base no texto extraído da imagem, temos as seguintes informações sobre a promoção:
 
-*   **Product Name:** Manteiga
-*   **Brand:** Natilla
-*   **Normal Price:** 15,99
-*   **Discounted Price:** 15,99
-*   **Unit:** 500g
+*   **Produto:** Manteiga Natilla
+*   **Peso:** 500g
+*   **Preço:** R$ 15,79 (por unidade)
 ========================================
 Imagem: 835.txt
 
 ========================================
 Imagem: 836.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Ovos Brancos
-*   **Brand:** Almeire
-*   **Normal Price:** 18,99
-*   **Discounted Price:** 16,99
-*   **Unit:** 30 unidades
+*   **Produto:** Ovos brancos
+*   **Quantidade:** 30 unidades
+*   **Preço:** R$ 16,99
 ========================================
 Imagem: 836.txt
 
 ========================================
 Imagem: 837.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** ÓLEO DE SOJA
-*   **Marca:** VILA VELHA
-*   **Normal Price:** R$ 9,19
-*   **Discounted Price:** R$ 7,99
-*   **Unit:** 500ML
+*   **Produto:** Óleo de Soja Vila Velha
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 7,99
 ========================================
 Imagem: 837.txt
 
 ========================================
 Imagem: 838.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, podemos identificar as seguintes informações:
 
-*   **Product Name:** Muffins
-*   **Brand:** Krea
-*   **Normal Price:** 24.99
-*   **Discounted Price:** 19.98
-*   **Unit:** Undefined (likely "unidade" or "cada" -  information not clearly visible)
+*   **Produto:** Assadeira Krea Muffin 668
+*   **Preço:** 19,98 (probável valor promocional)
+*   **Preço Original (anterior):** 24,99
+
+Espero que esta informação seja útil!
 ========================================
 Imagem: 838.txt
 
 ========================================
 Imagem: 839.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Queijo Parmesão
-*   **Brand:** FAIXA AZUL
-*   **Normal Price:** 26,90
-*   **Discounted Price:** 12,89
-*   **Unit:** 195g
+*   **Produto:** Queijo Parmesão FAIXA AZUL Cilindro
+*   **Peso:** 195g
+*   **Preço:** R$ 12,89
+*   **Unidade:** UN (Provavelmente significa unidade)
+*   **Produto Próximo ao Vencimento:** Indicado no rótulo do produto.
 ========================================
 Imagem: 839.txt
 
 ========================================
 Imagem: 840.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Salsichas
-*   **Brand:** Perdigão
-*   **Normal Price:** R$ 16,99
-*   **Discounted Price:** R$ 9,90
-*   **Unit:** KG
+*   **Produto:** Salsichão Perdigão H. Dog Resf
+*   **Preço Original:** R$ 16,99
+*   **Preço Promocional:** R$ 7,99 (por kg)
+*   **Outra promoção:** R$ 9,00 (por 500g)
 ========================================
 Imagem: 840.txt
 
 ========================================
 Imagem: 841.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações extraídas do texto da imagem:
 
-*   **Product Name:** BEB GASEIF 200ml LIMONETO
-*   **Brand:** LIMONETO
-*   **Normal Price:** 27,48
-*   **Discounted Price:** 2,29
-*   **Unit:** 500ml
+*   **Produto:** Bebida Gaseificada H20H
+*   **Marca:** Limoneto
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 2,29
+*   **Código de barras:** 7002641264126412
+*   **Código do produto:** AM12
 ========================================
 Imagem: 841.txt
 
 ========================================
 Imagem: 842.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Tornado Pop
-*   **Brand:** Mallory
-*   **Normal Price:** RS 79,00
-*   **Discounted Price:** RS 69,00
-*   **Unit:** Cx6
+*   **Marca:** Mallory
+*   **Modelo:** Tornado Pop
+*   **Preço:** R$ 69,00
+*   **Moeda:** C$ 419,00
 ========================================
 Imagem: 842.txt
 
 ========================================
 Imagem: 843.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Mistura de Leite
 *   **Marca:** Mococa
-*   **Preço Normal:** 53,73
-*   **Preço Promocional:** 1,99
-*   **Unidade:** 200g
+*   **Tipo:** MOCOCA TP
+*   **Peso:** 200g
+*   **Preço:** R$ 1,99
 ========================================
 Imagem: 843.txt
 
 ========================================
 Imagem: 844.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Mussarela
-*   **Brand:** Reinzende
-*   **Normal Price:** R$ 131,76
-*   **Discounted Price:** R$ 10,98
-*   **Unit:** 400g
+*   **Marca:** Rezkende
+*   **Tipo de Produto:** Mussarela Congelada
+*   **Peso:** 400g
+*   **Preço:** R$ 10,98
 ========================================
 Imagem: 844.txt
 
 ========================================
 Imagem: 845.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Mussarela
-*   **Brand:** Mana
-*   **Price:** R$ 31,90
-*   **Unit:** Kg
+*   **Produto:** Queijo Mussarela Mana
+*   **Preço por Kg:** R$ 31,90
 ========================================
 Imagem: 845.txt
 
 ========================================
 Imagem: 846.jpg
-Here's the extracted information from the image:
+Aqui estão os detalhes do produto e da promoção extraídos do texto da imagem:
 
-*   **Product Name:** TOMATE HOLANDES
-*   **Brand:** HOLANDES
-*   **Normal Price:** 4,99
-*   **Discounted Price:** 4,99
-*   **Unit:** 500G
+*   **Produto:** Tomate Holandes
+*   **Peso:** 500g
+*   **Preço:** R$ 4,99
 ========================================
 Imagem: 846.txt
 
 ========================================
 Imagem: 847.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Tomate
-*   **Marca:** Farellas
-*   **Preço Normal:** 4,99
-*   **Unidade:** 250g
+*   **Marca:** Trebeschi
+*   **Produto:** Tomate Cereja
+*   **Peso:** 250g
+*   **Preço:** R$ 4,99
 ========================================
 Imagem: 847.txt
 
 ========================================
 Imagem: 848.jpg
-Here's the breakdown of the information extracted from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Tomate Cereja
-*   **Brand:** TREBESCHI
-*   **Normal Price:** 6,09
-*   **Unit:** 200g
+*   **Produto:** Tomate Cereja
+*   **Marca:** Trebeschi
+*   **Peso:** 200g
+*   **Preço:** R$ 6,09
+========================================
+Imagem: 848.txt
+
 ========================================
 Imagem: 849.jpg
-Here's the extracted information from the image:
+Aqui estão as informações que pude extrair do texto da imagem:
 
-*   **Produto:** Farinha de Trigo
-*   **Marca:** SergioPano
-*   **Preço Normal:** 6,73
-*   **Unidade:** 1kg
+*   **Produto:** Serigrano
+*   **Peso:** 1 kg
 ========================================
 Imagem: 849.txt
 
 ========================================
 Imagem: 850.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações do texto extraído da imagem:
 
-*   **Product Name:** BISROCK
-*   **Brand:** PEDIGREE
-*   **Normal Price:** R$ 31,99
-*   **Discounted Price:** R$ 24,99
-*   **Unit:** 1kg
+**Produto:** Pedigree Bisco Biscoix 1kg
+
+**Tipo:** Para Cães Adultos
+
+**Preço:** R$ 24,99
 ========================================
 Imagem: 850.txt
 
 ========================================
 Imagem: 851.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
 
-*   **Produto:** Água Sanitária
-*   **Marca:** Dragão
-*   **Preço Normal:** R$ 7,80
-*   **Preço Especial:** R$ 7,50
-*   **Unidade:** 5L
+*   **Produto:** Água Sanitária Dragão
+*   **Tamanho:** 5L
+*   **Preço por Unidade:** R$ 7,78
 ========================================
 Imagem: 851.txt
 
 ========================================
 Imagem: 852.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Arroz
-*   **Brand:** Urbano
-*   **Normal Price (per 1 kg):** R$ 3,86
-*   **Discounted Price (per 1 kg):** R$ 3,86
-*   **Unit:** 1 kg
+*   **Marca:** Urbano
+*   **Tipo:** Arroz Longo Fino
+*   **Subgrupo:** Boiled
+*   **Peso:** 1kg
+*   **Preço:** R$ 3,86
 ========================================
 Imagem: 852.txt
 
 ========================================
 Imagem: 853.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Azeitonas Verdes
-*   **Brand:** Raíola
-*   **Normal Price:** 42,8104
-*   **Discounted Price:** 17,98
-*   **Unit:** 20 unidades
+*   **Marca:** Raio
+*   **Produto:** Azeitonas verdes
+*   **Peso:** 420g
+*   **Preço por unidade:** R$ 17,98
+*   **Preço por Kg:** R$ 42,98 (calculado a partir do preço por unidade e peso)
 ========================================
 Imagem: 853.txt
 
 ========================================
 Imagem: 854.jpg
-Here's the extracted information from the image of the price tag:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Macarrão
-*   **Brand:** Divella
-*   **Normal Price:** R$ 14,99
-*   **Discounted Price:** R$ 6,99
-*   **Unit:** 500g
+*   **Marca:** Divella
+*   **Produto:** Pappardelle
+*   **Peso:** 500g
+*   **Preço:** 14,99 (possivelmente em Euros)
+*   **Promoção:** 100% (significando que a promoção é 100%)
+*   **Outro detalhe:** Outro detalhe não especificado.
 ========================================
 Imagem: 854.txt
 
 ========================================
 Imagem: 855.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CERVEJA PURO MALTE
-*   **Brand:** ESTRELLA GALICIA
-*   **Normal Price:** 3,99
-*   **Unit:** 350ml
+*   **Marca:** Estrella Galicia
+*   **Tipo de Cerveja:** Cerveja Puro Malte Lager
+*   **Volume:** 350ml
+*   **Preço:** R$ 3,99
 ========================================
 Imagem: 855.txt
 
 ========================================
 Imagem: 856.jpg
-Here's the extracted information from the image, presented in Portuguese (Brazilian Portuguese):
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** Cápsula Café Expresso Força 86
-*   **Marca:** Espresso
-*   **Preço Normal:** 23,99€
-*   **Preço com Desconto:** 15,39€
-*   **Unidade:** 8g
-*   **Produto:** Cápsula Café Expresso Atenção 86
-*   **Marca:** Espresso
-*   **Preço Normal:** 22,99€
-*   **Preço com Desconto:** 15,39€
-*   **Unidade:** 8g
+**Produto:** Cápsula Café Espresso
+
+**Marca:** Tres
+
+**Linha/Série:** Força ou Atenção (dependendo da cápsula)
+
+**Peso:** 8g
+
+**Quantidade:** 10 cápsulas
+
+**Preço:** R$ 15,39 (para a linha Força) ou R$ 22,39 (para a linha Atenção).
 ========================================
 Imagem: 856.txt
 
 ========================================
 Imagem: 857.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CORIFE
-*   **Brand:** CRISTAL
-*   **Normal Price:** 3,59
-*   **Discounted Price:** 3,39
-*   **Unit:** KG
+*   **Produto:** Tipo Cristal Branco
+*   **Quantidade:** 1kg
+*   **Preço:** R$ 3,39
 ========================================
 Imagem: 857.txt
 
 ========================================
 Imagem: 858.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Ovos
-*   **Marca:** Ovos de Ouro
-*   **Preço Normal:** R$ 18,99
-*   **Preço com Desconto:** R$ 16,99
-*   **Unidade:** Unds
+*   **Produto:** Ovos Brancos
+*   **Marca:** BJC
+*   **Quantidade:** 30 Unidades
+*   **Preço:** R$ 16,99
 ========================================
 Imagem: 858.txt
 
 ========================================
 Imagem: 859.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** FILETE DE PEITO
-*   **Brand:** COPACOL
-*   **Normal Price:** R$ 20,90
-*   **Discounted Price:** R$ 17,99
-*   **Unit:** 1KG
+*   **Marca:** Copacol
+*   **Produto:** Peito de Frango
+*   **Peso:** 1kg
+*   **Preço:** R$ 17,99
 ========================================
 Imagem: 859.txt
 
 ========================================
 Imagem: 860.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CERVEJA BLACK PRINCESS 600ml GOLD
-*   **Brand:** BLACK PRINCESS
-*   **Normal Price:** 9,48
-*   **Discounted Price:** 8,29
-*   **Unit:** 600ml
+*   **Produto:** Black Princess Gold
+*   **Volume:** 600ml
+*   **Preço por unidade:** R$8,29
 ========================================
 Imagem: 860.txt
 
 ========================================
 Imagem: 861.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** FEIJÃO PRETO
-*   **Marca:** Nota 10
-*   **Preço Normal:** R$ 56,90
-*   **Preço com Desconto:** R$ 56,90
-*   **Unidade:** 10 kg
+**Produto:** Nota 10 Preto
+**Peso:** 10kg
+**Preço:** R$ 5,90
+**Informações adicionais:** O texto original também inclui informações sobre o tamanho da unidade (provavelmente indicando que o feijão é vendido em embalagens de 1 kg) e o preço por unidade.
 ========================================
 Imagem: 861.txt
 
 ========================================
 Imagem: 862.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** FEIJOADA CARIOCA CHEEF T1
-*   **Marca:** CHEEF
-*   **Preço Normal:** R$ 6,29
-*   **Preço com Desconto:** R$ 6,29
-*   **Unidade:** 1 kg
+*   **Produto:** Feijão Carioca Cheef
+*   **Tamanho:** T1 (1kg)
+*   **Preço por unidade:** R$ 6,90
 ========================================
 Imagem: 862.txt
 
 ========================================
 Imagem: 863.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, aqui estão as informações específicas do produto e da promoção:
 
-*   **Product Name:** Mango Loco
-*   **Brand:** Monster Energy
-*   **Normal Price:** R$ 7,99
-*   **Unit:** Cx6
-*   **Quantity:** 473 ml
+*   **Produto:** Monster Energy 473ml
+*   **Sabor:** Mango Loco
+*   **Preço por Unidade:** R$ 7,99
+*   **CX6:** 47,94 (Número de caixas no pacote)
 ========================================
 Imagem: 863.txt
 
 ========================================
 Imagem: 864.jpg
-Here's the breakdown of the information extracted from the image:
+Here's the information extracted from the text in the image:
 
-*   **Product Name:** Goiava
-*   **Brand:** Caju
-*   **Normal Price:** 18.96
-*   **Discounted Price:** 2.37
-*   **Unit:** 200ml
+*   **Product:** Caju
+*   **Price:** R$ 0.79
+*   **Volume:** 200ml
 ========================================
 Imagem: 864.txt
 
 ========================================
 Imagem: 865.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Suco
-*   **Brand:** Suco Integral
-*   **Normal Price:** R$ 11,90
-*   **Discounted Price:** R$ 7,40
-*   **Unit:** 1,5L
+*   **Produto:** Suco de Uva Integral
+*   **Preço:** R$ 11,90
 ========================================
 Imagem: 865.txt
 
 ========================================
 Imagem: 866.jpg
-Here's the extracted information from the image:
+Here’s the information extracted from the image:
 
-*   **Product Name:** Fraldas da Monica M 90
-*   **Brand:** Monica
-*   **Normal Price:** R$ 64,90
-*   **Discounted Price:** R$ 259,60
-*   **Unit:**  Por Unidade
+*   **Product:** Fraldas da Monica (Monica Baby Diapers)
+*   **Size:** M / 90
+*   **Price per Unit:** R$ 64,90
+*   **Additional Information:** Includes a picture of a baby and text "Tecnologia QuatroSec"
 ========================================
 Imagem: 866.txt
 
 ========================================
 Imagem: 867.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Brand:** Raminelli
-*   **Product Name:** Arroz Branco
-*   **Normal Price:** 3,49
-*   **Discounted Price:** 3,49
-*   **Unit:** 1 kg
+*   **Marca:** Rampinelli
+*   **Tipo de Arroz:** BCO T1
+*   **Peso:** 1 kg
+*   **Preço por Unidade:** R$ 3,49
 ========================================
 Imagem: 867.txt
 
 ========================================
 Imagem: 868.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas da imagem:
 
-*   **Produto:** Açúcar Cristal Nota 10
-*   **Marca:** Cristal
+*   **Produto:** Açúcar Nota 10
+*   **Peso:** 1 kg
 *   **Preço Unitário:** R$ 3,19
-*   **Peso Lio:** 1 kg
+*   **Código:** FD30
+*   **Outras informações:** AM10
 ========================================
 Imagem: 868.txt
 
 ========================================
 Imagem: 869.jpg
-Here's the extracted information from the image:
+Com base no texto da imagem, podemos identificar as seguintes informações sobre o produto:
 
-*   **Produto:** Massa
 *   **Marca:** Dona Benta
-*   **Preço Normal:** 3,59
-*   **Unidade:** 200g
+*   **Produto:** Massa de Ovos
+*   **Peso:** 200g
+*   **Preço:** R$ 3,59
 ========================================
 Imagem: 869.txt
 
 ========================================
 Imagem: 870.jpg
-Here's the breakdown of the information extracted from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Cápsula Café 3 Corações
-*   **Marca:** NESPRESSO
-*   **Preço Normal:** 119,20
-*   **Preço com Desconto:** 14,90
-*   **Unidade:** 10 cápsulas de 8g
+*   **Produto:** Cápsula Café Tres 3 Corações 10x9g Pleno
+*   **Preço por Unidade:** R$ 19,90
 ========================================
 Imagem: 870.txt
 
 ========================================
 Imagem: 871.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações extraídas do texto da imagem:
 
-*   **Product Name:** Creame de Leite
-*   **Brand:** Piracanjuba
-*   **Normal Price:** R$ 2,69
-*   **Discounted Price:** R$ 2,79
-*   **Unit:** 200g
+*   **Produto:** Piracanjuba Creme de Leite UHT Homogeneizado
+*   **Peso:** 200g
+*   **Preço de Atacado:** R$ 2,69
+*   **Preço de Varejo:** R$ 2,79
 ========================================
 Imagem: 871.txt
 
 ========================================
 Imagem: 872.jpg
-Here's the extracted information from the image, formatted in Portuguese (PT-BR) as requested:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** CAFÉ MELITTA
-*   **Marca:** MELITTA
+*   **Produto:** Café Melitta 250g Tradicional
 *   **Preço Unitário:** R$ 7,45
-*   **Preço de Venda:** R$ 149,00
-*   **Peso:** 250g
+*   **Preço por KG:** R$ 149,00
+*   **Validade:** 29.08
 ========================================
 Imagem: 872.txt
 
 ========================================
 Imagem: 873.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Biscoito Cracker Marilan
-*   **Brand:** Marilan
-*   **Normal Price:** 3,95
-*   **Discounted Price:** 79,00
-*   **Unit:** Por Unidade
+*   **Marca:** Marilan
+*   **Produto:** Cream Cracker Especial
+*   **Peso:** 350g
+*   **Preço por Unidade:** R$ 3,95
 ========================================
 Imagem: 873.txt
 
 ========================================
 Imagem: 874.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** LEITE UHT NATIVELLE
-*   **Brand:** NATIVELLE
-*   **Normal Price:** 4,69
-*   **Discounted Price:** 4,80
-*   **Unit:** 1L
-*   **Quantidade:** A UNIDADE
+*   **Produto:** Leite UHT Natilla
+*   **Tamanho:** 1L
+*   **Preço no atacado:** R$ 4,69
+*   **Preço no varejo:** R$ 4,80
 ========================================
 Imagem: 874.txt
 
 ========================================
 Imagem: 875.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações que consigo identificar:
 
-*   **Product Name:** Kibe de Carne
-*   **Brand:** Friboi
-*   **Normal Price:** R$ 154,90
-*   **Discounted Price:** R$ 51,90
-*   **Unit:** 100g
+*   **Produto:** Kibe
+*   **Tipo:** Carne Bovina
+*   **Peso:** 500g
+*   **Preço por Unidade:** R$ 15,90
 ========================================
 Imagem: 875.txt
 
 ========================================
 Imagem: 876.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** Batata
-*   **Brand:** Monaliza
-*   **Normal Price:** 3,99
-*   **Unit:** KG
+*   **Produto:** Monaliza
+*   **Quantidade:** 1KG
+*   **Preço:** R$3,99
 ========================================
 Imagem: 876.txt
 
 ========================================
 Imagem: 877.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** SALAME ITAL ARORA 100g
-*   **Brand:** ARORA
-*   **Normal Price:** R$ 9,90
-*   **Unit:** 100g
+*   **Marca:** Aurora
+*   **Nome do Produto:** Salame Ital
+*   **Peso:** 100g
+*   **Preço por unidade:** R$ 9,90
+*   **Código de barras:** 7001620406179
 ========================================
 Imagem: 877.txt
 
 ========================================
 Imagem: 878.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações identificadas sobre o produto:
 
-*   **Product Name:** ovos
-*   **Brand:** Tamago
-*   **Normal Price:** 13,90
-*   **Unit:** médio
+*   **Marca:** Tamago
+*   **Tipo:** Ovos
+*   **Tamanho:** Médio
+*   **Quantidade:** 30 unidades
+*   **Preço:** R$ 13,90
 ========================================
 Imagem: 878.txt
 
 ========================================
 Imagem: 879.jpg
-Here's the extracted information from the image of the tomato price tag:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Tomate
-*   **Brand:** JOMART
-*   **Normal Price:** R$ 7.99
-*   **Discounted Price:** R$ 6.99
-*   **Unit:** kg
+*   **Produto:** Tomate
+*   **Preço:** R$ 99,00
+*   **Unidade:** (KG)
 ========================================
 Imagem: 879.txt
 
 ========================================
 Imagem: 880.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** LEITE
-*   **Brand:** BETANIA
-*   **Normal Price:** 4,69
-*   **Discounted Price:** 2,56
-*   **Unit:** 1L
+*   **Produto:** Leite UHT Betânia
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,69
 ========================================
 Imagem: 880.txt
 
 ========================================
 Imagem: 881.jpg
-Here's the extracted information from the image, as requested:
+Com base no texto bruto da imagem, podemos identificar as seguintes informações:
 
-*   **Product Name:** Cebola
-*   **Brand:**  Não Especificada
-*   **Normal Price:** 4,99
-*   **Unit:** kg
+*   **Produto:** Cebola
+*   **Preço:** R$ 4,99
 ========================================
 Imagem: 881.txt
 
 ========================================
 Imagem: 882.jpg
-Here's the breakdown of the information extracted from the image:
+Com base no texto da imagem, aqui estão as informações que pude identificar:
 
-*   **Product Name:** Leite
-*   **Brand:** Eleite
-*   **Normal Price:** R$ 2,49
-*   **Discounted Price:** R$ 12,59
-*   **Unit:** 500g
+*   **Produto:** Manteiga Elege
+*   **Tamanho:** 500g
+*   **Preço Original:** R$ 2,99
+*   **Preço Promocional:** R$ 12,59
 ========================================
 Imagem: 882.txt
 
 ========================================
 Imagem: 883.jpg
-Here's the extracted information from the image:
+Aqui estão as informações identificadas no texto da imagem:
 
-*   **Product Name:** MAIZENA
-*   **Brand:** VITARELLA
-*   **Normal Price:** R$ 5,29
-*   **Discounted Price:** R$ 4,99
-*   **Unit:** 250g
+*   **Produto:** Maizena (Tradicional)
+*   **Peso:** 350g
+*   **Preço:** R$ 4,99
 ========================================
 Imagem: 883.txt
 
 ========================================
 Imagem: 884.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Repelex
-*   **Brand:** Aerossol
-*   **Normal Price:** 27,50
-*   **Discounted Price:** 14,00
-*   **Unit:** 200ml
+*   **Produto:** Repelax Aerossol
+*   **Tamanho:** 200ml
+*   **Preço:** R$ 14,00
+*   **Condição:** 12 pagas R$ 14,00
+
+Espero que isso ajude!
 ========================================
 Imagem: 884.txt
 
 ========================================
 Imagem: 885.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Cooktop A Gas 4 Bocas
-*   **Brand:** Mundial
-*   **Normal Price:** R$ 529,90
-*   **Discounted Price:** R$ 399,90
-*   **Unit:** (Not Specified - It's a box)
+*   **Marca:** Mundial
+*   **Preço:** R$ 399,90
 ========================================
 Imagem: 885.txt
 
 ========================================
 Imagem: 886.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** KIT COMPLETO ENROLADOR DE MANGEIRA
-*   **Marca:** VITÓRIA PLAST
-*   **Preço Original:** R$ 589,90
-*   **Preço com Desconto:** R$ 399,90
-*   **Unidade:** UNIDADE
+*   **Produto:** Kit Completo Enrolador de Mangueira Resistente
+*   **Marca:** Vitória Plast
+*   **Preço:** R$ 399,90
 ========================================
 Imagem: 886.txt
 
 ========================================
 Imagem: 887.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Churrasqueira
-*   **Brand:** Gold
-*   **Normal Price:** R$ 399,90
-*   **Discounted Price:** R$ 259,90
-*   **Unit:** (Não especificado na imagem)
+*   **Produto:** Churrasqueira Gold 50cm
+*   **Preço:** R$ 259,90
 ========================================
 Imagem: 887.txt
 
 ========================================
 Imagem: 888.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Product Name:** BEL FIX
-*   **Brand:** BEL
-*   **Normal Price:** R$ 94,90
-*   **Discounted Price:** R$ 129,90
-*   **Unit:** 350 ml
+*   **Produto:** Caixa Térmica 34L
+*   **Marca:** Bel Fix
+*   **Preço:** R$ 94,90
 ========================================
 Imagem: 888.txt
 
 ========================================
 Imagem: 889.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Kit Completo Jardin
-*   **Marca:** Black Friday
-*   **Preço Normal:** 689.90
-*   **Preço Promocional:** 479.90
-*   **Unidade:** Não especificada (Not specified)
+*   **Produto:** Kit Completo
+*   **Marca:** Frigideira
+*   **Nome do Produto:** Frigideira
+*   **Preço:** R$479,90
 ========================================
 Imagem: 889.txt
 
 ========================================
 Imagem: 890.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Torneira Flexível
+*   **Produto:** Torneira Flexível para Cozinha
 *   **Marca:** Casa Ok
-*   **Preço Normal:** R$ 129,89
-*   **Preço com Desconto:** R$ 79,90
-*   **Unidade:** (Não identificável na imagem, assume-se "unidade")
+*   **Preço:** R$ 79,90
 ========================================
 Imagem: 890.txt
 
 ========================================
 Imagem: 891.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Brand:** Casa OK
-*   **Product Name:** Ducha Higiênica
-*   **Normal Price:** R$ 129,90
-*   **Discounted Price:** R$ 69,90
-*   **Unit:** Undidade
+*   **Marca:** Casa OK
+*   **Produto:** Duchas Higiênicas
+*   **Preço:** R$ 69,90
+*   **Validade:** Até 21/11
 ========================================
 Imagem: 891.txt
 
 ========================================
 Imagem: 892.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Brand:** Casa Ok
-*   **Product Name:** Kit de Acessórios Para Banheiro
-*   **Normal Price:** R$ 279,90
-*   **Discounted Price:** R$ 169,90
+*   **Marca:** Casa OK
+*   **Produto:** Kit de Acessórios para Banheiro (6 peças)
+*   **Preço:** R$ 169,90
 ========================================
 Imagem: 892.txt
 
 ========================================
 Imagem: 893.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Copo Térmico
-*   **Marca:** Preto
-*   **Preço Normal:** R$ 134,90
-*   **Preço com Desconto:** R$ 99,90
-*   **Unidade:** Unidade
+*   **Produto:** Copo Térmico Preto 473ml
+*   **Preço Unitário:** R$ 99,90
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 893.txt
 
 ========================================
 Imagem: 894.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** MOP GIRATÓRIO
-*   **Brand:** CASA OK
-*   **Normal Price:** R$ 69,90
-*   **Discounted Price:** R$ 39,90
-*   **Unit:** Não especificado (Not specified)
+*   **Produto:** Mop Giratório
+*   **Preço:** R$ 39,90
 ========================================
 Imagem: 894.txt
 
 ========================================
 Imagem: 895.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** Banana Da Terra
-*   **Marca:** Rede Mais
-*   **Preço Normal:** Z99,99
-*   **Preço com Desconto:** 5,99
-*   **Unidade:** KG
+*   **Produto:** Banana da Terra
+*   **Preço de Custo:** R$ 5,99
+*   **Preço Promocional:** R$ 7,99
+*   **Unidade:** Por KG
 ========================================
 Imagem: 895.txt
 
 ========================================
 Imagem: 896.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Lava e Imperfeita
-*   **Brand:** Omo
-*   **Normal Price:** (Not readable in the image)
-*   **Discounted Price:** 29,99
-*   **Unit:** 3L
+*   **Produto:** Omo Lavagem Perfeita
+*   **Tamanho:** 3L
+*   **Preço:** R$ 29,99
+*   **Quantidade:** 1 unidade
+*   **Outras informações:**
+    *   30 lavagens
+    *   100% eficaz no local
 ========================================
 Imagem: 896.txt
 
 ========================================
 Imagem: 897.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** COMPOSTO LÁCTEO
-*   **Brand:** Nestlé
-*   **Normal Price:** 34,99
-*   **Discounted Price:** 28,99
-*   **Unit:** 750g
+*   **Produto:** Composto Lácteo Forti+
+*   **Tamanho:** 750g
+*   **Preço:** R$ 28,99 (este é o preço promocional)
+*   **Promoção:** Oferta do dia (indica que é uma promoção especial)
 ========================================
 Imagem: 897.txt
 
 ========================================
 Imagem: 898.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Snickers
-*   **Brand:** Rede Mais
-*   **Normal Price:** 3,99
-*   **Discounted Price:** 2,89
-*   **Unit:** 45g
+*   **Produto:** Snickers
+*   **Peso:** 45g
+*   **Preço:** R$ 2,99
+*   **Quantidade:** 1 unidade
+*   **Loja:** Rede Mais
 ========================================
 Imagem: 898.txt
 
 ========================================
 Imagem: 899.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** REFRIG SOKITA 2L LIMÃO
-*   **Marca:** SOKITA
-*   **Preço Unitário:** R$ 3,99
+*   **Produto:** Refrigerante Sukiya 2L Limão
+*   **Preço:** R$ 3,99
 ========================================
 Imagem: 899.txt
 
 ========================================
 Imagem: 900.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, podemos identificar as seguintes informações:
 
-*   **Product Name:** QUADRO DECOR
-*   **Brand:**  (Not explicitly stated in the image, but likely)  (Assuming "Decorat" is the brand)
-*   **Normal Price:** 119,90
-*   **Discounted Price:** 69,90
-*   **Unit:** UNIDADE
+*   **Produto:** Decora
+*   **Preço:** R$ 19,90
+
+É importante notar que o texto original da imagem está levemente distorcido, o que pode ter afetado a leitura precisa de alguns valores.
 ========================================
 Imagem: 900.txt
 
 ========================================
 Imagem: 901.jpg
-Here's the extracted information from the image, in Portuguese (PT-BR):
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Gelati
-*   **Marca:** Black Friday
-*   **Preço Normal:** 129,90
-*   **Preço Promocional:** 89,90
-*   **Unidade:** Und.
+*   **Produto:** Gelato
+*   **Sabor:** Pistacchio
+*   **Preço:** 89,90
+*   **Unidade:**  A imagem não mostra a unidade específica, apenas indica o preço.
+*   **Promoção:** Black Friday (indicado pelo logotipo na imagem)
 ========================================
 Imagem: 901.txt
 
 ========================================
 Imagem: 902.jpg
-Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+Com base no texto bruto extraído da imagem, aqui estão as informações identificadas:
 
 *   **Produto:** Café
-*   **Marca:** Decora
-*   **Preço Normal:** 49,50
-*   **Preço com Desconto:** 29,90
-*   **Unidade:** Não informado (Not specified)
+*   **Promoção:** Black Friday
+*   **Preço:** 49,50 (possivelmente o preço original) com 29,90 (preço promocional)
+
+A promoção é do produto "Café" com um preço de 29,90 durante a Black Friday. O preço original do produto é 49,50.
 ========================================
 Imagem: 902.txt
 
 ========================================
 Imagem: 903.jpg
-Here's the extracted information from the image, translated into Portuguese (PT-BR):
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** QUADRO DECOR HDS218
-*   **Marca:** BLACK FRIDAY
-*   **Preço Normal:** R$ 49,90
-*   **Preço com Desconto:** R$ 39,90
-*   **Unidade:** (Não identificável na imagem)
+*   **Produto:** Quadro Decorat
+*   **Preço:** R$ 39,90
+*   **Unidade:** Cada um
 ========================================
 Imagem: 903.txt
 
 ========================================
 Imagem: 904.jpg
-Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Caixa
-*   **Marca:** Decor
-*   **Preço Normal:** R$ 99,90
-*   **Preço com Desconto:** R$ 49,90
-*   **Unidade:** Unidade
+*   **Produto:** BAU MDF 6 HD49136
+*   **Preço normal:** R$ 99,90
+*   **Preço promocional:** R$ 49,90
+*   **Validade da promoção:** até 27/11/2022
 ========================================
 Imagem: 904.txt
 
 ========================================
 Imagem: 905.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Produto:** 3 CUBOS
-*   **Marca:** DECOR HOME
-*   **Preço Normal:** R$ 85,90
-*   **Unit:** un
+**Informações do Produto:**
+
+*   **Nome do Produto:** Decor Cubos MDF
+*   **Material:** MDF
+*   **Quantidade:** 3
+
+**Informações da Promoção:**
+
+*   **Preço:** R$ 85,90
+*   **Vendedor:** Home Decor
+*   **Espessura:** 1,5mm
+
+Espero que isso ajude!
 ========================================
 Imagem: 905.txt
 
 ========================================
 Imagem: 906.jpg
-Here's the extracted information from the image:
+Com base na imagem do rótulo do produto, aqui estão as informações identificadas:
 
-*   **Brand:** Pisolar
-*   **Product Name:** Organizador de Cosméticos HD-54321
-*   **Normal Price:** R$ 19,66
-*   **Discounted Price:** R$ 11,90
+*   **Nome do Produto:** Organizador de Cosméticos
+*   **Marca:** Decor
+*   **Preço:** R$ 19,99
+*   **Observação:** R$ 1,66 de taxa
 ========================================
 Imagem: 906.txt
 
 ========================================
 Imagem: 907.jpg
-Here's the extracted information from the image:
+Com base no texto bruto fornecido ("ORGANIZADOR DE COSMÉTICOS"), podemos identificar as seguintes informações:
 
-*   **Produto:** ORGANIZADOR DE COSMÉTICOS
-*   **Marca:** HOME DECOR
-*   **Preço Original:** R$ 33,90
-*   **Preço com Desconto:** R$ 19,90
-*   **Unidade:** Não especificada na imagem (presumivelmente unidade de venda)
+*   **Produto:** Organizador de Cosméticos
+*   **Preço:** R$ 33,90 (embora o texto bruto não seja o preço final, ele sugere que o valor é R$33,90)
+*   **Marca:** Home Decor
+
+Sem mais contexto, não temos informações adicionais como o nome do produto específico ou outros detalhes da promoção.
 ========================================
 Imagem: 907.txt
 
 ========================================
 Imagem: 908.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** KIT DE ACESSÓRIOS
-*   **Brand:** CASA OK
-*   **Normal Price:** 162,90
-*   **Discounted Price:** 99,90
-*   **Unit:** UNIDADE
+*   **Marca:** Casa Ok
+*   **Tipo de Produto:** Kit de acessórios para banheiro
+*   **Quantidade:** 5 peças
+*   **Preço Unitário:** R$ 99,90
 ========================================
 Imagem: 908.txt
 
 ========================================
 Imagem: 909.jpg
-Here's the extracted information from the image:
+Here's a breakdown of the information extracted from the image's text:
 
-*   **Produto:** Desinfetante Spray
-*   **Marca:** Lysol
-*   **Preço Normal:** R$24,48
-*   **Preço com Desconto:** R$10,91
-*   **Unidade:** 440ml
+*   **Product:** Lysol Desinfetante Spray
+*   **Volume:** 440ml
+*   **Price:** R$ 9.99 (estimated, based on the text)
+*   **Promo/Discount:** Economica (Economical)
 ========================================
 Imagem: 909.txt
 
 ========================================
 Imagem: 910.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Mr Musculo Multiuso
-*   **Marca:** Johnson
-*   **Preço Original:** R$ 14,99
-*   **Preço com Desconto:** R$ 9,99
-*   **Unidade:** 750ml
+*   **Produto:** Mr. Musculo Multiuso
+*   **Tamanho:** 750ml
+*   **Preço Unitário:** R$ 14,90
+*   **Preço Promocional:** R$ 9,90
 ========================================
 Imagem: 910.txt
 
 ========================================
 Imagem: 911.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** AMANDITA
-*   **Brand:** AMANDITA
-*   **Normal Price:** R$ 9,8700
-*   **Discounted Price:** R$ 4,9350
-*   **Unit:** 200g
+*   **Nome do Produto:** Amandita
+*   **Peso Líquido:** 200g
+*   **Preço por Unidade:** R$ 9,87
+*   **Preço por 100g:** R$ 4,9350
 ========================================
 Imagem: 911.txt
 
 ========================================
 Imagem: 912.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Arroz
-*   **Marca:** Urbano
-*   **Preço Normal:** R$ 14,98
-*   **Unidade:** 1 kg
+*   **Marca:** Arboro
+*   **Tipo de Grão:** Classe Longo
+*   **Peso:** 1 kg
+*   **Preço Unitário:** R$ 14,90
 ========================================
 Imagem: 912.txt
 
 ========================================
 Imagem: 913.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto do rótulo do produto:
 
-*   **Product Name:** Arroz
-*   **Brand:** Urbano
-*   **Normal Price:** R$ 3,86
-*   **Discounted Price:** R$ 3,68
-*   **Unit:** 1kg
+*   **Marca:** Urbanova
+*   **Tipo:** Arroz Parboilizado Fino
+*   **Peso:** 1kg
+*   **Preço:** R$3,60 (por unidade)
 ========================================
 Imagem: 913.txt
 
 ========================================
 Imagem: 914.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Farinha de Trigo
 *   **Marca:** Finná
-*   **Preço Normal:** R$ 5,99
-*   **Preço com Desconto:** R$ 4,99
-*   **Unidade:** 1kg
+*   **Tipo de Produto:** Farinha Enriquecida
+*   **Peso:** 1kg
+*   **Preço:** R$ 4,99
 ========================================
 Imagem: 914.txt
 
 ========================================
 Imagem: 915.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Monster Energy 473ml
-*   **Brand:** Monster
-*   **Normal Price:** R$7,99
-*   **Unit:** 1
+*   **Produto:** Monster Energy 473ml
+*   **Preço por Unidade:** R$ 7,90
 ========================================
 Imagem: 915.txt
 
 ========================================
 Imagem: 916.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Catupiry
-*   **Marca:** Lacta
-*   **Preço Normal:** R$ 15,48
-*   **Preço com Desconto:** R$ 13,90
-*   **Unidade:** 500g
+*   **Marca:** Catupiry
+*   **Produto:** Light
+*   **Peso:** 500g
+*   **Preço:** R$ 13,90
 ========================================
 Imagem: 916.txt
 
 ========================================
 Imagem: 917.jpg
-Here's the extracted information from the image:
+Here's the information extracted from the image:
 
-*   **Produto:** LEITE DESNATADO
-*   **Marca:** Regina
-*   **Preço Normal:** R$ 6,98
-*   **Preço com Desconto:** R$ 2,99
-*   **Unidade:** 12 Potes de 1 Litro
+*   **Product:** Leite Desnatado Zero
+*   **Quantity:** 12 pacotes de 1 litro
+*   **Price:** R$ 2,99
+*   **Validity:** 01/12/2022
 ========================================
 Imagem: 917.txt
 
 ========================================
 Imagem: 918.jpg
-Here's the extracted information from the image:
+Aqui estão os detalhes extraídos do texto da imagem:
 
-*   **Product Name:** Panela de Pressão
-*   **Brand:** Panelux
-*   **Normal Price:** R$ 39,99
-*   **Discounted Price:** (Not visible in the image)
-*   **Unit:** Litros
+*   **Marca:** Panelux
+*   **Produto:** Panela de Pressão 4 Litros
+*   **Preço de Venda:** R$ 39,90
 ========================================
 Imagem: 918.txt
 
 ========================================
 Imagem: 919.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** CÂMERA DE SEGURANÇA COM INTELIGÊNCIA
-*   **Brand:** ELSYS
-*   **Normal Price:** 429,90
-*   **Discounted Price:** 249,90
-*   **Unit:** UNIDADE
+*   **Produto:** Câmera de Segurança com Inteligência
+*   **Modelo:** FULL HD ESW-3F
+*   **Preço:** R$ 249,90
+*   **Observação:** Promoção válida até 27/11/2021
 ========================================
 Imagem: 919.txt
 
 ========================================
 Imagem: 920.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Argamassa ACI 20kg Flex
-*   **Brand:** SAINT-GOBAIN
-*   **Normal Price:** R$ 29,89
-*   **Unit:** 20kg
+*   **Produto:** Argamassa ACI 20kg Flex Pouído
+*   **Marca:** Quartzolit
+*   **Preço:** R$ 23,89
+*   **Validade da promoção:** Até 27/11/2022
 ========================================
 Imagem: 920.txt
 
 ========================================
 Imagem: 921.jpg
-Here's the extracted information from the image:
+Aqui estão os detalhes extraídos do texto da imagem:
 
-*   **Product Name:** NOVA FORMA
-*   **Brand:** (Not explicitly stated, but the image suggests it's "Black Friday")
-*   **Normal Price:** 599,90
-*   **Discounted Price:** 599,90
-*   **Unit:** (Not specified, but likely "unidade" - unit)
+*   **Produto:** Nova Forma
+*   **Preço:** R$ 59,90
 ========================================
 Imagem: 921.txt
 
 ========================================
 Imagem: 922.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Produto:** Caixa Multiuso
-*   **Marca:** Sem Rebonda
-*   **Preço Normal:** R$ 234,90
-*   **Preço com Desconto:** R$ 139,90
-*   **Unidade:** Não especificada (not specified on the tag)
+**Produto:** Caixa Multiuso Sem Dobradiça 2000L
+**Preço:** R$ 1349,90
 ========================================
 Imagem: 922.txt
 
 ========================================
 Imagem: 923.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, aqui estão as informações sobre o produto e a promoção:
 
-*   **Product Name:** Pintalar
-*   **Brand:** Fosco Aveludado
-*   **Normal Price:** 124,90
-*   **Discounted Price:** 79,89
-*   **Unit:**  15L
+*   **Produto:** Tinta Pintalar Aquarela Foscamax
+*   **Cor:** Piscina 15
+*   **Preço Unitário:** R$ 79,89
+*   **Código:** 62631
+*   **Marca:** Foscamax
 ========================================
 Imagem: 923.txt
 
 ========================================
 Imagem: 924.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Acetinado Bianco
-*   **Marca:** Bianco
-*   **Preço Normal:** R$ 79,90
-*   **Preço com Desconto:** R$ 59,90
-*   **Unidade:** m²
+*   **Produto:** Porcelanato Bianco
+*   **Preço:** R$ 59,90 por metro quadrado (m²)
 ========================================
 Imagem: 924.txt
 
 ========================================
 Imagem: 925.jpg
-Here's the extracted information from the image:
+Aqui está a informação extraída do texto da imagem:
 
-*   **Product Name:** MATTE
-*   **Brand:** ARIELLE
-*   **Normal Price:** R$ 31,90
-*   **Discounted Price:** R$ 23,95
-*   **Unit:** m2
+*   **Marca:** Arielle
+*   **Modelo:** 37x59 Riviera
+*   **Preço:** R$ 23,95
+*   **Preço de Desconto:** R$ 31,90
 ========================================
 Imagem: 925.txt
 
 ========================================
 Imagem: 926.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** KIT BRAZEDA IMP 3/8 560W
-*   **Brand:** BLACK DECKER
-*   **Normal Price:** 299,89
-*   **Discounted Price:** 239,89
-*   **Unit:** UNIDADE
+*   **Marca:** Black Decker
+*   **Produto:** Kit Furadeira Imp 3/8 560W C/5 Branco 127V
+*   **Preço:** R$ 239,89
+*   **Unidade:** (Não especificada no texto, mas o preço sugere que a unidade é por "kit")
 ========================================
 Imagem: 926.txt
 
 ========================================
 Imagem: 927.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Anel de Vedação
-*   **Brand:** Casa Ok
-*   **Normal Price:** 11,90
-*   **Discounted Price:** 5,49
-*   **Unit:** Unidade
+*   **Marca:** Casa OK
+*   **Produto:** Anel de Vedação
+*   **Preço:** R$ 11,90 (Preço original) / R$ 5,49 (Preço promocional - Black Friday)
+*   **Data da Promoção:** 27/11/2022
 ========================================
 Imagem: 927.txt
 
 ========================================
 Imagem: 928.jpg
-Here's the breakdown of the information extracted from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Brand:** ELSYS
-*   **Product Name:** Vídeo Porteiro Wi-Fi
-*   **Normal Price:** 910,00
-*   **Discounted Price:** 599,90
-*   **Unit:** UNIDADE
+*   **Marca:** Elsys
+*   **Produto:** Vídeo Porteiro Wi-Fi Módulo Externo
+*   **Preço:** R$ 599,90
+*   **Validade da promoção:** 21/11/2023
 ========================================
 Imagem: 928.txt
 
 ========================================
 Imagem: 929.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Brand:** ELSYS
-*   **Product Name:** FECHADURA DIGITAL
-*   **Normal Price:** R$1679,90
-*   **Discounted Price:** R$999,90
-*   **Unit:**  (Not specified in the image, but inferred as "unidade")
+**Marca:** ELSYS
+**Produto:** Fechadura Digital
+**Modelo:** ELSYS WiFi de Embitrix
+**Preço:** R$ 699,90
 ========================================
 Imagem: 929.txt
 
 ========================================
 Imagem: 930.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, temos as seguintes informações:
 
-*   **BRAND:** BEL FIX
-*   **PRODUCT NAME:** CAIXA TÉRMICA
-*   **NORMAL PRICE:** 79,90
-*   **DISCOUNTED PRICE:** 65,90
-*   **UNIT:** PEÇA
+*   **Produto:** Caixa Térmica
+*   **Marca:** Bel Fix
+*   **Preço Unitário:** R$ 65,90
 ========================================
 Imagem: 930.txt
 
 ========================================
 Imagem: 931.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** Manga Tommy
-*   **Marca:** Tommy
-*   **Preço Normal:** R$5,99
-*   **Preço com Desconto:** R$2,99
-*   **Unidade:** Kg
+*   **Produto:** Manga Tommy (KG)
+*   **Preço:** R$ 2,99
 ========================================
 Imagem: 931.txt
 
 ========================================
 Imagem: 932.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Banana
-*   **Marca:** Supermercado
-*   **Preço Normal:** R$5,99
-*   **Preço com Desconto:** R$3,99
+*   **Produto:** Banana Prata
+*   **Preço:** R$ 3,99
 ========================================
 Imagem: 932.txt
 
 ========================================
 Imagem: 933.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** xícara vidro
-*   **Brand:** Ofertao
-*   **Normal Price:** R$6,99
-*   **Discounted Price:** R$9,99
-*   **Unit:**  (Not explicitly stated, implied as "each")
+*   **Produto:** Xícara de vidro
+*   **Capacidade:** 150ml
+*   **Preço:** R$ 6,99
 ========================================
 Imagem: 933.txt
 
 ========================================
 Imagem: 934.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Filet de Peito
-*   **Brand:** Friotto
-*   **Normal Price:** R$22,99
-*   **Discounted Price:** R$18,79
-*   **Unit:** kg
+*   **Produto:** Frito Frito de Peito
+*   **Preço:** R$18,79
 ========================================
 Imagem: 934.txt
 
 ========================================
 Imagem: 935.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Cream Cracker
-*   **Brand:** Marilan
-*   **Normal Price:** R$4,59
-*   **Discounted Price:** R$3,59
-*   **Unit:** 300g
+*   **Marca:** Marilan
+*   **Produto:** Cream Cracker
+*   **Peso:** 300g
+*   **Preço:** R$3,59
 ========================================
 Imagem: 935.txt
 
 ========================================
 Imagem: 936.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações extraídas:
 
-*   **Product Name:** Manga
-*   **Brand:** Tomy
-*   **Normal Price:** Não especificado
-*   **Discounted Price:** R$ 1,99
-*   **Unit:** kg
+*   **Produto:** Manga
+*   **Peso:** 1,99 kg
 ========================================
 Imagem: 936.txt
 
 ========================================
 Imagem: 937.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações identificadas:
 
-*   **Product Name:** Omo
-*   **Brand:** Ariel
-*   **Normal Price:** R$ 6,99
-*   **Unit:** 700 ml
+*   **Produto:** Omo
+*   **Tipo:** Líquido
+*   **Volume:** 700 ml
+*   **Preço:** R$ 6,99 (refil)
 ========================================
 Imagem: 937.txt
 
 ========================================
 Imagem: 938.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Tomate
-*   **Brand:** Não identificada
-*   **Normal Price:** R$ 2,99
-*   **Discounted Price:** R$ 2,99
-*   **Unit:** kg
+*   **Produto:** Tomate
+*   **Preço:** 2,99 kg
 ========================================
 Imagem: 938.txt
 
 ========================================
 Imagem: 939.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
 
-*   **Brand:** Protex
-*   **Product Name:** Sabonete Protex 850 Carvão Detox
-*   **Normal Price:** 28,69
-*   **Discounted Price:** 2,39
-*   **Unit:**  Não informado
+*   **Produto:** Sabonete Protex 85g Carvão Detox
+*   **Preço por Unidade:** R$ 2,39
 ========================================
 Imagem: 939.txt
 
 ========================================
 Imagem: 940.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, aqui estão as informações que podemos identificar:
 
-*   **Brand:** Always
-*   **Product Name:** Super Proteção
-*   **Normal Price:** 6.67
-*   **Discounted Price:** 5.27
-*   **Unit:**  (The text is partially obscured, but appears to be) "Por Unidade" (Per Unit)
+*   **Produto:** Always (proteção)
+*   **Preço por unidade:** R$ 2,89
+*   **Códigos de barras:** CX18 e AM3
+*   **Outras informações:**  O texto parece ser parte de uma promoção ou folheto de supermercado.
 ========================================
 Imagem: 940.txt
 
 ========================================
 Imagem: 941.jpg
-Here's the extracted information from the image:
+Aqui estão os detalhes extraídos do texto da imagem:
 
-*   **Product Name:** Açúcar
-*   **Brand:** Nota 10
-*   **Normal Price:** R$ 3,19
-*   **Discounted Price:** R$ 3,90
-*   **Unit:** 1 kg
+*   **Produto:** Açúcar Nota 10 Cristal
+*   **Peso:** 1kg
+*   **Preço por unidade:** R$ 3,19
 ========================================
 Imagem: 941.txt
 
 ========================================
 Imagem: 942.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Cápsula Espe 3 Corações 10x8g Vibrante
-*   **Brand:** NESCAFÉ
-*   **Normal Price:** R$ 14,90
-*   **Unit:** 10 capsules
+*   **Produto:** Cápsula Café Esпрессо 10x8g
+*   **Preço por Unidade:** R$ 14,90
+*   **Informações adicionais:** Cápsulas de 10x8g
 ========================================
 Imagem: 942.txt
 
 ========================================
 Imagem: 943.jpg
-Here's the extracted information from the image:
+Com base na imagem fornecida, podemos identificar as seguintes informações:
 
-*   **Product Name:** Abobrinha
-*   **Brand:** Abobrinha
-*   **Price:** R$ 1,99
-*   **Unit:** Unit
+*   **Produto:** Abobrinha Italiana (Abobrinha Italiana)
+*   **Preço:** R$ 1,99
 ========================================
 Imagem: 943.txt
 
 ========================================
 Imagem: 944.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** Cenoura
-*   **Brand:**  Não especificado
-*   **Normal Price:** Não especificado
-*   **Discounted Price:** R$ 1,99
-*   **Unit:** KG
+*   **Produto:** Cenoura
+*   **Preço:** 1,99
+*   **Unidade:** Kg (Kilograma)
 ========================================
 Imagem: 944.txt
 
 ========================================
 Imagem: 945.jpg
-Here's the extracted information from the image:
+Com base na imagem e no texto bruto gerado (OCR), aqui estão as informações identificadas:
 
-*   **Product Name:** FRITADEIRA ABN-40 BFS FAMILY 4L
-*   **Brand:** MONDIAL
-*   **Normal Price:** 549,89
-*   **Discounted Price:** 379,89
-*   **Unit:**  (Not explicitly stated, but implied to be "unidade" - unit)
+*   **Marca:** Mondial
+*   **Produto:** Frigideira AFN-90 BFS Family 4L
+*   **Preço:** R$ 379,89 (segundo o texto)
+*   **Promoção:** Black Friday (sugerido pelo texto)
 ========================================
 Imagem: 945.txt
 
 ========================================
 Imagem: 946.jpg
-Here's the extracted information from the image:
+Aqui está a informação extraída do texto da imagem:
 
-*   **Product Name:** DUCHA TOP JET
-*   **Brand:** LORENZETTI
-*   **Normal Price:** 139,90
-*   **Discounted Price:** 74,89
-*   **Unit:** UNIDADE
+*   **Marca:** Lorenzetti
+*   **Produto:** Ducha Jet Multitemporas
+*   **Potência:** 127V / 550W ou 220V / 550W
+*   **Preço:** 74,89
+*   **Unidade:** (não especificada)
 ========================================
 Imagem: 946.txt
 
 ========================================
 Imagem: 947.jpg
-Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Liquidificador EASY POWER 127W
-*   **Marca:** Mundial
-*   **Preço Normal:** R$ 79,90
-*   **Preço Promocional:** R$ 79,90
-*   **Unidade:** Peça
+*   **Marca:** Mondial
+*   **Modelo:** Easy Power L-550
+*   **Potência:** 550W
+*   **Preço:** R$ 79,90
+*   **Observação:** "Copo + Resistente"
 ========================================
 Imagem: 947.txt
 
 ========================================
 Imagem: 948.jpg
-Here's the extraction of information from the image, translated into Portuguese (Brazilian Portuguese):
+Aqui estão as informações extraídas da imagem da promoção:
 
-*   **Produto:** Chaveiro Diam Alumínio 71cm
+*   **Produto:** Churrasqueira Diam Alumínio 71cm
 *   **Marca:** Durafort
-*   **Preço Original:** R$ 760,90
-*   **Preço com Desconto:** R$ 499,90
-*   **Unidade:** Não especificada (Não está presente na imagem)
+*   **Preço:** R$ 499,90
+*   **Unidade:** Cada
 ========================================
 Imagem: 948.txt
 
 ========================================
 Imagem: 949.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
 *   **Produto:** Suporte para Mangueira
 *   **Marca:** Vitória Plast
-*   **Preço Normal:** R$ 14,69
+*   **Preço:** R$ 14,69
 *   **Preço com Desconto:** R$ 9,99
+*   **Código:** 72139
 ========================================
 Imagem: 949.txt
 
+========================================
+Imagem: 950.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Quine
+*   **Produto:** Massa Acrílica
+*   **Peso:** 25kg
+*   **Preço:** R$ 107,49
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 950.txt
 
 ========================================
 Imagem: 951.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** PORCELANATO 80X90
-*   **Brand:** RETIFICADO GRIGIO
-*   **Normal Price:** R$ 109,90
-*   **Discounted Price:** R$ 81,90
-*   **Unit:** m²
+*   **Produto:** Retificado Grigio
+*   **Tamanho:** 80x90
+*   **Preço:** R$ 1,90 por metro quadrado.
 ========================================
 Imagem: 951.txt
 
 ========================================
 Imagem: 952.jpg
-Here's the extracted information from the image:
+Aqui estão as informações identificadas a partir do texto bruto da imagem:
 
-*   **Brand:** ARIELLE
-*   **Product Name:** BRANCO MATE CX243
-*   **Normal Price:** R$ 31,90
-*   **Discounted Price:** R$ 23,95
-*   **Unit:** m²
+*   **Marca:** Ariel
+*   **Produto:** Revisto 37x59 Riviera
+*   **Preço:** R$ 23,95 por metro quadrado
+*   **Observação:** R$ 31,90
 ========================================
 Imagem: 952.txt
 
 ========================================
 Imagem: 953.jpg
-Here's the extracted information from the image:
+Aqui está a informação extraída do texto da imagem:
 
-*   **Product Name:** NICHO 60CM BRANCO
-*   **Brand:** NICHO DECOR
-*   **Normal Price:** R$ 99,90
-*   **Discounted Price:** R$ 59,90
-*   **Unit:** UNIDADE
+*   **Nome do Produto:** Nicho Decor
+*   **Dimensões:** 60cm
+*   **Preço:** R$ 59,90
+*   **Data da Promoção:** 27/11/2022
 ========================================
 Imagem: 953.txt
 
 ========================================
 Imagem: 954.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** VASO VIETNAM 38X50
-*   **Marca:** CASA OK
-*   **Preço Normal:** R$ 134,90
-*   **Preço Promocional:** R$ 69,90
-*   **Unidade:** Peça
+*   **Produto:** Vaso Cerâmico
+*   **Marca:** Casa OK
+*   **Modelo:** Viena 38x50
+*   **Preço de Custo:** R$ 134,90
+*   **Preço de Venda:** R$ 69,90
+*   **Validade:** 27/11/2022
 ========================================
 Imagem: 954.txt
 
 ========================================
 Imagem: 955.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Biscoito Uno
-*   **Marca:** Uno
+*   **Produto:** Biscoito BonO Nestle 126g
 *   **Sabor:** Chocolate
-*   **Peso:** 126 g
-*   **Preço Normal:** 3,29
-*   **Preço com Desconto:** 1,99
-*   **Unidade:** unidade(s)
+*   **Preço:** R$ 1,99 por unidade
+*   **Promoção:** Ofertas válidas nas lojas Renner de 24 a 27/11/2023
 ========================================
 Imagem: 955.txt
 
 ========================================
 Imagem: 956.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **BRAND:** COLGATE
-*   **PRODUCT NAME:** COLAGENE
-*   **NORMAL PRICE:** 28,85
-*   **DISCOUNTED PRICE:** 19,99
-*   **UNIT:** 300ML + 150ML
+*   **Marca:** Pantene
+*   **Produto:** Colágeno SH 300ml + Colágeno 150ml
+*   **Preço:** 28,85
+*   **Preço promocional:** 19,99
+*   **Desconto:** 8,86
 ========================================
 Imagem: 956.txt
 
 ========================================
 Imagem: 957.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Azeite Extra Virgem
-*   **Brand:** Andorinha
-*   **Normal Price:** 26,19
-*   **Discounted Price:** 18,99
-*   **Unit:** 500ml
+*   **Produto:** Azeite de Oliva Extra Virgem Andorinha
+*   **Marca:** Andorinha
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 18,99
 ========================================
 Imagem: 957.txt
 
 ========================================
 Imagem: 958.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** Ovos
-*   **Brand:** GranDol
-*   **Normal Price:** Não Informado
-*   **Discounted Price:** R$7,99
-*   **Unit:** 20
-*   **Peso Lio:** 1,2 kg
+*   **Produto:** Ovos C/20
+*   **Marca:**  (Não especificada na imagem)
+*   **Preço:** R$ 7,99
+*   **Peso Lote:** 1,2 kg
 ========================================
 Imagem: 958.txt
 
 ========================================
 Imagem: 959.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:**  Lixeira
-*   **Brand:** Krea
-*   **Normal Price:** 79,90
-*   **Discounted Price:** 49,90
-*   **Unit:** 5L
+*   **Produto:** Lixeira Krea
+*   **Material:** Inox
+*   **Capacidade:** 5 Litros
+*   **Preço:** 49,90 (provavelmente o preço promocional)
+*   **Outro preço:** 79,90 (presumivelmente o preço normal)
 ========================================
 Imagem: 959.txt
 
 ========================================
 Imagem: 960.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Chanty Mix
-*   **Brand:** Amelia
-*   **Normal Price:** 8,99
-*   **Discounted Price:** 3,99
-*   **Unit:** 200ml
+*   **Produto:** Chanty Mix
+*   **Tamanho:** 200ml
+*   **Preço de Oferta:** 3,99
+*   **Validade:** Até 27/11/2023
 ========================================
 Imagem: 960.txt
 
 ========================================
 Imagem: 961.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
 *   **Produto:** Cerveja Puro Malte
-*   **Marca:** Itaipava
-*   **Preço Normal:** R$ 2,59
-*   **Preço Desconto:** R$ 1,99
-*   **Unidade:** 350ml
+*   **Tamanho:** 350ml
+*   **Volume:** 4.8% VOL
+*   **Preço:** R$ 2,59 ou R$ 1,99 (dependendo da promoção)
 ========================================
 Imagem: 961.txt
 
 ========================================
 Imagem: 962.jpg
-Here's the extracted information from the image, in Portuguese (PT-BR):
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
 
-*   **Produto:** Baden
-*   **Marca:** Baden
-*   **Normal:** 5,69
-*   **Desconto:** 2,99
-*   **Unidade:** 350ml
+*   **Produto:** Baden Witbier
+*   **Tamanho:** 350ml
+*   **Preço:** 2,99
+*   **Marca:** Trigo
 ========================================
 Imagem: 962.txt
 
 ========================================
 Imagem: 963.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, aqui estão as informações que podemos extrair:
 
-*   **Product Name:** Vodka Absolut
-*   **Brand:** Absolut
-*   **Normal Price:** 119,90
-*   **Discounted Price:** 89,90
-*   **Unit:** 1L
+*   **Produto:** Absolut Vodka
+*   **Tamanho:** 1L
+*   **Preço:** R$ 89,90
 ========================================
 Imagem: 963.txt
 
 ========================================
 Imagem: 964.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** File de Peito
-*   **Brand:** Copacol
-*   **Normal Price:** 18,99
-*   **Discounted Price:** 14,99
-*   **Unit:** KG
+*   **Produto:** Peito Congelado
+*   **Marca:** Copaco
+*   **Preço:** R$ 14,99 por kg
 ========================================
 Imagem: 964.txt
 
 ========================================
 Imagem: 965.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, podemos identificar as seguintes informações:
 
-*   **Product Name:** Sanduicheira
-*   **Brand:** BLACK
-*   **Normal Price:** R$ 68,00
-*   **Discounted Price:** R$ 68,00 
-*   **Unit:** (Não especificado na imagem)
+*   **Produto:** Sanduicheira (Sanduicheira - Grelha para sanduíches)
+*   **Preço:** R$ 68,00 (sessenta e oito reais)
+*   **Promoção:**  A palavra "Friday" indica que a promoção é específica para o Dia das Bruxas (Black Friday).
 ========================================
 Imagem: 965.txt
 
 ========================================
 Imagem: 966.jpg
-Here's the extracted information from the image:
+Ok, aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** Panela de Pressão
-*   **Brand:** Exlux
-*   **Normal Price:** R$ 39,90
-*   **Unit:** (Não especificado na imagem)
+**Produto:** Panela de Pressão
+**Marca:** Tanchux
+**Preço:** R$ 39,90
+**Tamanho/Volume:** 4,5L
 ========================================
 Imagem: 966.txt
 
 ========================================
 Imagem: 967.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Product Name:** Omo
-*   **Brand:** Omo
-*   **Normal Price:** R$ 5,99
-*   **Discounted Price:** R$ 5,99
-*   **Unit:** Refil
+*   **Produto:** Omo (lavagem perfeita)
+*   **Tipo:** Refil
+*   **Tamanho:** 700ml
+*   **Preço:** R$ 5,99
 ========================================
 Imagem: 967.txt
 
 ========================================
 Imagem: 968.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** Ventilador
-*   **Marca:** Mundial
-*   **Preço Normal:** R$ 88,00
-*   **Preço Promocional:** R$ 88,00
+*   **Marca:** Mondial
+*   **Preço:** R$ 88,00
+*   **Tipo de Produto:** Ventilador (implícito pela imagem)
+*   **Promoção:** "É Agora ou Nunca Mais!" (Sugere uma oferta por tempo limitado)
 ========================================
 Imagem: 968.txt
 
 ========================================
 Imagem: 969.jpg
-Here's the extraction of information from the image, translated to Portuguese (Brazilian Portuguese):
+Com base no texto bruto extraído da imagem, aqui estão as informações que podemos identificar:
 
-*   **Produto:** Ovos
-*   **Marca:** Sem Marca
-*   **Preço Normal:** R$ 14,99
-*   **Preço Promocional:** R$ 14,99
+*   **Produto:** Ovos (são representados na imagem)
+*   **Quantidade:** 30 ovos
+*   **Preço:** R$ 14,99
+
+É uma promoção de Black Friday.
 ========================================
 Imagem: 969.txt
 
 ========================================
 Imagem: 970.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Mixer
-*   **Brand:** ADRATO
-*   **Normal Price:** R$ 68,00
-*   **Discounted Price:** R$ 68,00 (Price unchanged in this image)
-*   **Unit:** (Not specified in the image)
+*   **Produto:** Mixer (marca registrada)
+*   **Preço:** R$ 68,00
 ========================================
 Imagem: 970.txt
 
 ========================================
 Imagem: 971.jpg
-Here's the extracted information from the image:
+Aqui estão as informações que extraímos do texto da imagem:
 
-*   **Product Name:** Natilla
-*   **Brand:** Natilla
-*   **Normal Price:** R$ 4,19
-*   **Discounted Price:** R$ 4,19
-*   **Unit:** 1L
+*   **Marca:** Natilla
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,19!
 ========================================
 Imagem: 971.txt
 
 ========================================
 Imagem: 972.jpg
-Here's the extracted information from the image:
+Com base no texto bruto da imagem, podemos identificar as seguintes informações:
 
-*   **Product Name:** Airfryer
-*   **Brand:** Oster
-*   **Normal Price:** R$ 299,00
-*   **Unit:** (Não especificado na imagem, mas presumivelmente "unidade")
+*   **Marca:** Oster
+*   **Produto:** Airfryer
+*   **Preço:** R$ 299,00
+
+É importante notar que a imagem também sugere que o produto está em promoção (Black Friday).
 ========================================
 Imagem: 972.txt
 
 ========================================
 Imagem: 973.jpg
-Here's the extracted information from the image:
+Okay, let's break down the information from the OCR text:
 
-*   **Product Name:** Leite Integral
-*   **Brand:** Sadia
-*   **Normal Price:** R$ 16,99
-*   **Discounted Price:** R$ 6,79
-*   **Unit:** 200g
+*   **Product:** Sadia File de Peito (Sadia Shredded Chicken)
+*   **Weight:** 200g
+*   **Price:** R$ 16,99 (Brazilian Real - approximately $3.30 USD as of November 3, 2023)
+
+**Note:** It looks like there was a slight error in the original OCR text, stating "R$ 6,79" - it appears to be a typo and the correct price is R$16,99.
 ========================================
 Imagem: 973.txt
 
 ========================================
 Imagem: 974.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** AJU MAÇÃ
-*   **Brand:** AJU
-*   **Normal Price:** 1,79
-*   **Discounted Price:** 0,99
-*   **Unit:** unidade de 500ml
+*   **Produto:** Detergente Aju Maçã
+*   **Preço:** R$ 1,79
+*   **Unidade:** 500ml
+*   **Promoção:** R$ 0,99 (Unidade)
 ========================================
 Imagem: 974.txt
 
 ========================================
 Imagem: 975.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** LEITE EM INTEGRAL
-*   **Brand:** SERENISSIMA
-*   **Normal Price:** DE7,99
-*   **Discounted Price:** 6,49
-*   **Unit:** 200g
+*   **Marca:** Serengenisima
+*   **Tipo de Produto:** Leite em Pó Integral Instantâneo
+*   **Tamanho da Embalagem:** 200g
+*   **Preço:** R$ 6,49
+*   **Unidade:** 1 Unidade
 ========================================
 Imagem: 975.txt
 
 ========================================
 Imagem: 976.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Moça
-*   **Brand:** Nestlé
-*   **Normal Price:** 7,49
-*   **Discounted Price:** 5,89
-*   **Unit:** 395g
+*   **Produto:** Leite Condensado Nestlé
+*   **Tamanho:** 395g
+*   **Preço:** R$7,49
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 976.txt
 
 ========================================
 Imagem: 977.jpg
-Here's the extracted information from the image:
+Aqui estão os detalhes extraídos do texto da imagem:
 
-*   **Product Name:** CAPUCCINO
-*   **Brand:** CAPUCCINO
-*   **Normal Price:** 26,99
-*   **Discounted Price:** (Not visible in the image)
-*   **Unit:** UNIDADE
+*   **Produto:** Cápsulas de Café Coriá Express Coriá
+*   **Preço:** R$ 26,99 por unidade
+*   **Marca:** Cápsula Express
 ========================================
 Imagem: 977.txt
 
 ========================================
 Imagem: 978.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Natilla
-*   **Brand:** Natilla
-*   **Normal Price:** R$6,29
-*   **Discounted Price:** R$4,19
-*   **Unit:** Unidade
+*   **Marca:** Natilla
+*   **Tipo de Produto:** Leite UHT
+*   **Teor de Gordura:** 3%
+*   **Volume:** 1L
+*   **Preço Unitário:** R$4,19
 ========================================
 Imagem: 978.txt
 
 ========================================
 Imagem: 979.jpg
-Here's the extracted information from the image, in Portuguese (Brazilian Portuguese):
+Aqui estão as informações extraídas do texto da imagem:
 
 *   **Produto:** Macarrão Nissin
-*   **Marca:** Nissin
-*   **Preço Normal:** 72g por R$4,69
-*   **Preço Promocional:** R$3,49
-*   **Unidade:** Unidade
+*   **Tipo:** Cup
+*   **Sabor:** Bolonhesa
+*   **Quantidade:** 72g
+*   **Preço:** R$ 4,69
+*   **Unidade:** Por
+
+Espero que isso seja útil!
 ========================================
 Imagem: 979.txt
 
 ========================================
 Imagem: 980.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** AMACIANTE DOWNY
-*   **Brand:** DOWNY
-*   **Normal Price:** 11,99
-*   **Discounted Price:** 7,99
-*   **Unit:** 450/500ml
+*   **Marca:** Downy
+*   **Tipo de Produto:** Amaciante
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 7,99 por unidade (cada)
+*   **Promoção:** Black Friday (implícito)
+
+Espero que isso ajude!
 ========================================
 Imagem: 980.txt
 
 ========================================
 Imagem: 981.jpg
-Here's the breakdown of the information extracted from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** OVOS BRANCO
-*   **Brand:**  (The brand is not readable due to the image quality)
-*   **Normal Price:** R$ 19,99
-*   **Discounted Price:** R$ 14,99
-*   **Unit:** Und (Não identificado - Not identifiable)
+*   **Produto:** Ovos Brancos de Ouro
+*   **Preço:** R$ 14,99
 ========================================
 Imagem: 981.txt
 
 ========================================
 Imagem: 982.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Produto:** Filé de Peito
-*   **Marca:** So Mave
-*   **Preço Normal:** 19,99
-*   **Preço Promocional:** 12,99
-*   **Unidade:** KG
+*   **Produto:** Filet de Peixe Somave
+*   **Preço:** R$ 12,99 por KG
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 982.txt
 
 ========================================
 Imagem: 983.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações do produto e da promoção extraídas do texto bruto da imagem:
 
-*   **Produto:** Creme Dental Oral-B
-*   **Marca:** Oral-B
-*   **Preço Normal:** 2,19
-*   **Preço com Desconto:** 1,69
-*   **Unidade:** 70g (50ml)
+*   **Produto:** Creme Dental Oral-B Carios
+*   **Tamanho:** 70g
+*   **Promoção:** Black Friday (preço de R$1,69)
 ========================================
 Imagem: 983.txt
 
 ========================================
 Imagem: 984.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Batata
-*   **Brand:** Bem Brasil
-*   **Normal Price:** 24,99
-*   **Discounted Price:** 19,99
-*   **Unit:** kg
+*   **Marca:** Bem Brasil
+*   **Produto:** Batata Trad 2kg
+*   **Preço:** 19,99
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 984.txt
 
 ========================================
 Imagem: 985.jpg
-Here's the extracted information from the image:
+Aqui está a análise do texto bruto da imagem:
 
-*   **Product Name:** SHAMPOO ANTI-CASPA DIV
-*   **Brand:** SHOUDERS
-*   **Normal Price:** R$ 15,99
-*   **Discounted Price:** R$ 8,99
-*   **Unit:** 200ml
+**Produto:** Shampoo H&S Antigas Div 200ml
+
+**Preço:** R$ 8,99 cada
 ========================================
 Imagem: 985.txt
 
 ========================================
 Imagem: 986.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações extraídas do texto da imagem:
 
-*   **Product Name:** SOLUVEL INTENSO
-*   **Brand:** NESCAFE
-*   **Normal Price:** 27,99
-*   **Discounted Price:** 13,99
-*   **Unit:** UNIDADE (Unit)
+*   **Produto:** Café Nescafé Solúvel Gold Intenso 100g
+*   **Preço:** R$ 27,99
+*   **Preço Promocional (Black Friday):** R$ 13,99
+*   **Unidade:** 1 unidade
 ========================================
 Imagem: 986.txt
 
 ========================================
 Imagem: 987.jpg
-Here's the extracted information from the image:
+Com base no texto extraído da imagem, aqui estão as informações identificadas:
 
-*   **Produto:** Bebida Lacto Zero Proteína
-*   **Marca:** YOPRO
-*   **Preço Normal:** R$ 10,99
-*   **Preço com Desconto:** R$ 6,49
-*   **Unidade:** Unidade de 250ml
+*   **Produto:** Bebida Lacto Yopro Chocolate
+*   **Volume:** 250ml
+*   **Preço Unitário:** R$10,99
+*   **Quantidade:** 6 unidades
+*   **Promoção:** Black Friday
+
+Espero que isso ajude!
 ========================================
 Imagem: 987.txt
 
 ========================================
 Imagem: 988.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto da imagem:
 
-*   **Product Name:** Linguiça Carpereta
-*   **Brand:**  Costela
-*   **Normal Price:** R$ 18,99
-*   **Discounted Price:** R$ 13,99
-*   **Unit:** 300g
+*   **Produto:** Lingua de Carneiro
+*   **Marca:** Angus
+*   **Peso:** 300g
+*   **Preço:** R$ 18,99 por cada
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 988.txt
 
 ========================================
 Imagem: 989.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Produto:** PICANHA BOVINA ARGENTINA
-*   **Marca:** Massário
-*   **Preço Normal:** R$ 109,99
-*   **Preço com Desconto:** R$ 79,99
-*   **Unidade:** KG
+*   **Produto:** Picanha bovina argentina
+*   **Peso:** 10 kg
+*   **Preço:** R$ 79,99
 ========================================
 Imagem: 989.txt
 
 ========================================
 Imagem: 990.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações do texto bruto da imagem:
 
-*   **Product Name:** Mamirinha
-*   **Brand:** Boina
-*   **Original Price:** 69,99
-*   **Discounted Price:** 57,99
-*   **Unit:** Kg
+*   **Produto:** Carne da Alcatra
+*   **Tipo:** Congelada
+*   **Sem osso:** Sim
+*   **Embalagem:** Mamãe (KG)
+*   **Preço:** R$ 57,99
 ========================================
 Imagem: 990.txt
 
 ========================================
 Imagem: 991.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** ACUCAR CRISTAL
-*   **Brand:** TAQVARI
-*   **Normal Price:** DE: 3,99
-*   **Discounted Price:** POR: 2,99
-*   **Unit:** 1kg
-*   **Peso Líquido:** 1kg
+*   **Produto:** Açúcar Cristal
+*   **Marca:** Taquari
+*   **Peso:** 1 kg
+*   **Preço:** R$ 2,99 por kg
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 991.txt
 
 ========================================
 Imagem: 992.jpg
-Here's the extracted information from the image:
+Aqui está a análise das informações extraídas do texto da imagem:
 
-*   **Product Name:** Tomate Pelado
-*   **Brand:** Domex
-*   **Normal Price:** 7,99
-*   **Discounted Price:** 4,99
-*   **Unit:** 400g
+*   **Produto:** Tomate Pelado Canpez 400g
+*   **Preço:** R$ 4,49 cada.
+
+Espero que isso ajude!
 ========================================
 Imagem: 992.txt
 
 ========================================
 Imagem: 993.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas do texto bruto da imagem:
 
-*   **Product Name:** VINHO CHIA LOMA NEGRA
-*   **Brand:** LOMA NEGRA
-*   **Normal Price:** 65,99
-*   **Discounted Price:** 48,99
-*   **Unit:** 750ml
+*   **Nome do Vinho:** Loma Negra
+*   **Tipo de Vinho:** Chardonnay
+*   **País de Origem:** Chile
+*   **Volume:** 750ml
+*   **Preço:** 48,99 (provavelmente o preço da unidade)
+
+Espero que isso ajude!
 ========================================
 Imagem: 993.txt
 
 ========================================
 Imagem: 994.jpg
-Here's the extracted information from the image:
+Aqui estão as informações extraídas da imagem:
 
-*   **Product Name:** Mostarda Dijon Sab
-*   **Brand:** Lorena
-*   **Normal Price:** R$ 12,99
-*   **Unit:** 200g / 350g
+*   **Produto:** Mostarda Dijon Sab VD
+*   **Marca:** Chez Lorena
+*   **Tamanho:** 200g
+*   **Preço:** R$ 12,99
+*   **Peso:** 190g (mostarda amarela)
+*   **Tamanho:** 350g
 ========================================
 Imagem: 994.txt
 
 ========================================
 Imagem: 995.jpg
-Here's the extracted information from the image:
+Aqui estão as informações identificadas a partir do texto bruto da imagem:
 
-*   **Product Name:** Syrah
-*   **Brand:** Azeitao
-*   **Normal Price:** 54,99
-*   **Discounted Price:** 39,99
-*   **Unit:** 750ml
+*   **Marca:** Azeito
+*   **Tipo de Vinho:** Syrah
+*   **Volume:** 750ml
+*   **Preço:** 39,99
+*   **Unidade:** Cada
+
+O texto também indica que é uma promoção do Black Friday.
 ========================================
 Imagem: 995.txt
 
 ========================================
 Imagem: 996.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações identificadas:
 
-*   **Product Name:** Tomate
-*   **Brand:** Heinz
-*   **Original Price:** 13,99
-*   **Discounted Price:** 8,99
-*   **Unit:** 397g
+*   **Produto:** Ketchup Heinz
+*   **Peso:** 397g
+*   **Preço:** R$ 8,99
+*   **Promoção:** Black Friday
 ========================================
 Imagem: 996.txt
 
 ========================================
 Imagem: 997.jpg
-Here's the extracted information from the image, formatted as requested:
+Aqui está a análise do texto extraído da imagem:
 
-*   **Produto:** Vinho Urus
-*   **Marca:** Juan Carrau
-*   **Preço Normal:** 79,99
-*   **Preço com Desconto:** 39,99
-*   **Unidade:** 750ml
+*   **Marca:** Juan Carras
+*   **Tipo de Vinho:** Tannat Reserva
+*   **Volume:** 750ml
+*   **Preço:** 39,99 (Unidade)
 ========================================
 Imagem: 997.txt
 
 ========================================
 Imagem: 998.jpg
-Here's the extracted information from the image, translated into Portuguese (PT-BR):
+Com base no texto bruto extraído da imagem, aqui estão as informações relevantes sobre o produto e a promoção:
 
-*   **Produto:** Penne
-*   **Marca:** Regina
-*   **Preço Normal:** R$ 10,99
-*   **Preço com Desconto:** R$ 8,49
-*   **Unidade:** 500g
+*   **Produto:** Massa Granoturco Italiana
+*   **Peso:** 500g
+*   **Preço:** R$ 8,49
+*   **Unidade:** Unidade (provavelmente a embalagem)
 ========================================
 Imagem: 998.txt
 
 ========================================
 Imagem: 999.jpg
-Here's the extracted information from the image:
+Com base na imagem, aqui estão as informações identificadas:
 
-*   **Product Name:** Azeite de Oliva Extra Virgem
-*   **Brand:** Clássico
-*   **Normal Price:** 27,99
-*   **Discounted Price:** 17,99
-*   **Unit:** 500ml
+*   **Produto:** Azeite de Oliva Extra Virgem Borges 500ml
+*   **Preço:** R$ 27,99 (por unidade) ou R$ 17,99 (cada)
 ========================================
 Imagem: 999.txt
 

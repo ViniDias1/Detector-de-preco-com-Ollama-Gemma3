@@ -1,0 +1,2226 @@
+Imagem: 601.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Placa de ovos
+*   **Quantidade:** 30 unidades
+*   **Preço:** R$ 19,99
+========================================
+Imagem: 601.txt
+
+========================================
+Imagem: 602.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Tomate
+*   **Quantidade:** KG (Kilograma)
+*   **Preço:** R$ 1,99
+========================================
+Imagem: 602.txt
+
+========================================
+Imagem: 603.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Cerveja Puro Malte Lager
+*   **Tamanho:** 600ml
+*   **Preço de Custo:** R$ 7,88
+*   **Preço Promocional:** R$ 5,99
+*   **Quantidade:** 12 Unds (Unidades)
+*   **Marca:** Rede Mais
+========================================
+Imagem: 603.txt
+
+========================================
+Imagem: 604.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** MOR
+*   **Tamanho:** 34L
+*   **Preço normal:** R$ 119,90
+*   **Preço promocional:** R$ 69,99
+========================================
+Imagem: 604.txt
+
+========================================
+Imagem: 605.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Downy (fragrâncias)
+*   **Tamanho:** 450ml / 500ml
+*   **Preço:** R$ 6,99
+*   **Marca:** Rede Mais
+========================================
+Imagem: 605.txt
+
+========================================
+Imagem: 606.jpg
+Com base no texto bruto da imagem, aqui estão as informações identificadas sobre o produto e a promoção:
+
+**Produto:**
+
+*   **Marca:** Pantene
+*   **Tipo:** Shampoo e Condicionador
+*   **Tamanho:**
+    *   Shampoo: 350 ml
+    *   Condicionador: 175 ml
+
+**Promoção:**
+
+*   **Preço de Manter:** R$ 28,99
+*   **Preço Promocional:** R$ 19,99
+*   **Quantidade Limitada:** A 6 unidades por cliente.
+
+**Observação:** O texto também inclui um código de barras (998872350) que pode ser usado para identificar o produto em um sistema de ponto de venda.
+========================================
+Imagem: 606.txt
+
+========================================
+Imagem: 607.jpg
+Com base no texto extraído da imagem, aqui estão as informações que podemos identificar:
+
+*   **Produto:** Shampoo Head & Shoulders
+*   **Tamanho:** 200ml
+*   **Preço:** R$ 9,99
+*   **Quantidade:** A Unidade
+*   **Observação:** Produto limitado a 6 unidades por cliente.
+========================================
+Imagem: 607.txt
+
+========================================
+Imagem: 608.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Sabonete Líquido Lux Refil 200ml
+*   **Preço de Venda:** R$ 3,99
+*   **Quantidade:** 6 unidades por cliente
+*   **Código QR:** 99887-2350
+========================================
+Imagem: 608.txt
+
+========================================
+Imagem: 609.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Linguiça de Costela Fresca Apimentada
+*   **Peso:** 300g
+*   **Preço de Promoção:** R$ 15,99
+*   **Preço Normal:** R$ 9,49
+*   **Quantidade Limitada:** 12 unidades
+========================================
+Imagem: 609.txt
+
+========================================
+Imagem: 610.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Creme de Leite Leve Itálac
+*   **Peso:** 200g
+*   **Preço de Venda:** R$ 2,39
+*   **Quantidade Limitada:** 12 unidades
+========================================
+Imagem: 610.txt
+
+========================================
+Imagem: 611.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Detergente Líquido Omo Lavagem Perfeita
+*   **Tamanho:** 3L
+*   **Preço:** R$ 29,99
+*   **Marca:** Omo
+*   **Distribuidora:** Rede Mais
+========================================
+Imagem: 611.txt
+
+========================================
+Imagem: 612.jpg
+Aqui estão as informações identificadas no texto bruto da imagem:
+
+*   **Produto:** Leite UHT Integral
+*   **Marca:** Integral
+*   **Quantidade:** 12 unidades
+*   **Preço de custo:** R$ 4,29
+*   **Preço de venda:** R$ 6,99
+*   **Loja:** Rede Mais
+========================================
+Imagem: 612.txt
+
+========================================
+Imagem: 613.jpg
+Aqui está a análise do texto bruto da imagem:
+
+**Produto:** Queijo (Não especificado a marca, mas parece ser do "Rede Mais")
+**Preço:** R$ 29,99 por 5 kg
+**Observações:**
+*   O texto menciona que a promoção é válida para pessoas com CPF.
+========================================
+Imagem: 613.txt
+
+========================================
+Imagem: 614.jpg
+Aqui está a análise das informações do texto extraído da imagem:
+
+**Produto:** Mondial Easy Power L-550W
+
+**Características:**
+
+*   **Preço Original:** R$ 119,90
+*   **Preço Promocional:** R$ 89,90
+
+Espero que esta análise seja útil!
+========================================
+Imagem: 614.txt
+
+========================================
+Imagem: 615.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Massa Pastel Mago
+*   **Peso:** 200g
+*   **Preço:** R$1,99 (Originalmente R$5,97)
+========================================
+Imagem: 615.txt
+
+========================================
+Imagem: 616.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Filet de Frango Sadia Bio
+*   **Peso:** 1kg
+*   **Preço sem:** R$18,99
+*   **Preço com:** R$17,99
+========================================
+Imagem: 616.txt
+
+========================================
+Imagem: 617.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Île de France
+*   **Produto:** Petit Camembert
+*   **Peso:** 125g
+*   **Preço:** 27,99
+*   **Data de emissão:** 1936
+========================================
+Imagem: 617.txt
+
+========================================
+Imagem: 618.jpg
+Com base na imagem, aqui estão as informações do produto e da promoção:
+
+*   **Produto:** Granüva Zero Lacto
+*   **Peso Líquido:** 200g
+*   **Preço Original:** R$ 18,99
+*   **Preço Promocional:** R$ 9,99
+========================================
+Imagem: 618.txt
+
+========================================
+Imagem: 619.jpg
+Com base no texto bruto da imagem, aqui estão as informações relevantes sobre o produto:
+
+*   **Marca:** Carefree
+*   **Produto:** Tod Dia
+*   **Material:** 100% respirável
+*   **Quantidade:** 80 unidades
+*   **Preço por unidade:** R$ 0,182
+*   **Preço total (promocional):** R$ 14,57
+========================================
+Imagem: 619.txt
+
+========================================
+Imagem: 620.jpg
+Com base no texto da imagem, aqui estão as informações que posso identificar:
+
+*   **Produto:** Lysoform Original
+*   **Tamanho:** 500ml
+*   **Preço Unitário:** R$ 7,00
+*   **Preço por 10 unidades:** R$ 70,00 (inferido com base no preço unitário e na quantidade de unidades)
+
+Espero que isso ajude!
+========================================
+Imagem: 620.txt
+
+========================================
+Imagem: 621.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Amandita
+*   **Peso:** 200g
+*   **Preço por unidade:** R$ 9,78
+*   **Preço por 100g:** R$ 4,89
+========================================
+Imagem: 621.txt
+
+========================================
+Imagem: 622.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Nata Regina
+*   **Tamanho:** 300g
+*   **Preço:** R$ 7,98
+*   **Validade:** Não especificada na imagem.
+========================================
+Imagem: 622.txt
+
+========================================
+Imagem: 623.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Yogurte Desnatado sabor morango
+*   **Marca:** Natural
+*   **Tamanho:** 500g
+*   **Preço:** R$7,98
+*   **Restrição:** Sem Lactose
+========================================
+Imagem: 623.txt
+
+========================================
+Imagem: 624.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Quinta do Mercado Suave
+*   **Volume:** 750ml
+*   **Preço Unitário:** R$ 9,99
+*   **Quantidade:** 6 unidades
+========================================
+Imagem: 624.txt
+
+========================================
+Imagem: 625.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Damare 1L
+*   **Preço:** R$ 4,99 por unidade.
+
+Espero que isso ajude!
+========================================
+Imagem: 625.txt
+
+========================================
+Imagem: 626.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Limoneto Suco de Fruta Natural Zero Açúcares
+*   **Volume:** 500 ml
+*   **Preço:** R$ 2,79
+*   **Código de barras:** 22455
+========================================
+Imagem: 626.txt
+
+========================================
+Imagem: 627.jpg
+Here's the information extracted from the image:
+
+*   **Product:** Caldo Carne
+*   **Size:** 114g
+*   **Price:** R$ 0.99 per cada (each)
+========================================
+Imagem: 627.txt
+
+========================================
+Imagem: 628.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Baden (Cerveja de Trigo)
+*   **Tamanho:** 600ml
+*   **Preço:** R$ 9,99 cada
+========================================
+Imagem: 628.txt
+
+========================================
+Imagem: 629.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Feijão Carioca
+*   **Marca:** Feijão Carioca
+*   **Peso:** 1 kg
+*   **Preço:** R$ 6,99 por unidade
+========================================
+Imagem: 629.txt
+
+========================================
+Imagem: 630.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Somave
+*   **Produto:** Filé de Peito de Galinha Sem Osso
+*   **Preço Unitário:** R$ 16,99
+*   **Preço por KG:** R$ 16,99
+========================================
+Imagem: 630.txt
+
+========================================
+Imagem: 631.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Café Tradicional
+*   **Marca:** Almohada
+*   **Peso líquido:** 250g
+*   **Preço:** R$6,99
+*   **Unidade:** Cada
+========================================
+Imagem: 631.txt
+
+========================================
+Imagem: 632.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite UHT Integral
+*   **Marca:** Natilla
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,99
+*   **Unidade:** Undidade (provavelmente unidade de medida)
+========================================
+Imagem: 632.txt
+
+========================================
+Imagem: 633.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Hambúrguer Angus
+*   **Marca:** Fazenda Santa Mônica
+*   **Peso:** 360g
+*   **Preço por Unidade:** 14,99
+*   **Recomendação de Temperatura:**  Refrigerado a -12°C ou mais frio
+========================================
+Imagem: 633.txt
+
+========================================
+Imagem: 634.jpg
+Com base no texto extraído da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Sadia Fininha
+*   **Peso:** 240g
+*   **Preço:** R$ 8,99
+*   **Quantidade:** 69 unidades
+========================================
+Imagem: 634.txt
+
+========================================
+Imagem: 635.jpg
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
+
+*   **Marca:** SKOL
+*   **Tipo de Produto:** Cerveja Puro Malte
+*   **Volume:** 350ml
+*   **Quantidade:** 12 latas
+*   **Preço:** R$ 2,49 (por unidade)
+========================================
+Imagem: 635.txt
+
+========================================
+Imagem: 636.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** CHIVAS
+*   **Linha:** Regal 12 Years
+*   **Volume:** 750 ml
+*   **Preço:** 94,99
+*   **Unidade:** Unidade
+========================================
+Imagem: 636.txt
+
+========================================
+Imagem: 637.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Black & White
+*   **Tipo de Produto:** Scotch Whisky
+*   **Tamanho:** 700ml
+*   **Preço:** 31,99
+*   **Unidade:** Unidade
+========================================
+Imagem: 637.txt
+
+========================================
+Imagem: 638.jpg
+Com base no texto extraído da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Bebida Proteíca Whey LactoFree Sabor Chocolate
+*   **Marca:** LactoFree
+*   **Volume:** 250 ml
+*   **Preço por unidade:** R$ 7,99
+*   **Quantidade:** 1 unidade
+========================================
+Imagem: 638.txt
+
+========================================
+Imagem: 639.jpg
+Aqui está a análise do texto bruto da imagem:
+
+*   **Marca:** Estrella Galicia
+*   **Produto:** Lager
+*   **Tamanho da Garrafa:** 350ml
+*   **Preço:** 4,99
+*   **Quantidade:** 3
+
+Espero que esta análise seja útil!
+========================================
+Imagem: 639.txt
+
+========================================
+Imagem: 640.jpg
+Com base no texto bruto da imagem, aqui estão as informações identificadas sobre o produto:
+
+*   **Marca:** Nestlé
+*   **Produto:** Biscoito Choc Boni Westle
+*   **Peso:** 170g
+*   **Preço:** R$ 2,19 (possivelmente há um erro de digitação, o preço final é R$ 1,99)
+========================================
+Imagem: 640.txt
+
+========================================
+Imagem: 641.jpg
+Com base no texto bruto da imagem:
+
+*   **Produto:** Açúcar Cristal Corupipe
+*   **Peso:** 1kg
+*   **Preço:** R$ 3,39
+========================================
+Imagem: 641.txt
+
+========================================
+Imagem: 642.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Alecrim
+*   **Tipo de Produto:** Vinho Português
+*   **Volume:** 750ml
+*   **Preço:** 23,90
+*   **Validade da Oferta:** Até 04/11/2022
+========================================
+Imagem: 642.txt
+
+========================================
+Imagem: 643.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Macarrão Instantâneo com Tempero
+*   **Sabor:** Carne
+*   **Tamanho:** 85g
+*   **Preço:** R$ 11,09 por unidade
+========================================
+Imagem: 643.txt
+
+========================================
+Imagem: 644.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Limão Siciliano
+*   **Preço:** 6,99
+*   **Unidade:** KG
+========================================
+Imagem: 644.txt
+
+========================================
+Imagem: 645.jpg
+Com base no texto extraído da imagem, podemos identificar os seguintes detalhes:
+
+*   **Produto:** Folha, Espinafre, Cacheado, Couve, Rabane Fre, Rabane, Hortela, Hortela Grossa, Couve, Hortela
+*   **Preço:** 0,99 (provavelmente em euros ou outra moeda local)
+========================================
+Imagem: 645.txt
+
+========================================
+Imagem: 646.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Repolho Verde
+*   **Preço:** R$ 2,99 por KG
+========================================
+Imagem: 646.txt
+
+========================================
+Imagem: 647.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Tomate
+*   **Preço:** R$2,39 por Kg
+========================================
+Imagem: 647.txt
+
+========================================
+Imagem: 648.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Água Min. Crystal C/O
+*   **Volume:** 500ml
+*   **Preço:** R$ 0,99
+========================================
+Imagem: 648.txt
+
+========================================
+Imagem: 649.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Banqueta
+*   **Marca:** Bela Vist Plast
+*   **Preço:** R$ 19,90
+========================================
+Imagem: 649.txt
+
+========================================
+Imagem: 650.jpg
+Aqui está a análise das informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Mondial
+*   **Produto:** Liquidificador Easy Power
+*   **Potência:** 550W
+*   **Características:** Resistente
+*   **Preço:** R$ 78,90
+========================================
+Imagem: 650.txt
+
+========================================
+Imagem: 651.jpg
+Com base no texto da imagem, podemos identificar as seguintes informações:
+
+*   **Produto:** Azeite de Oliva Extra Virgem Filippo Berio
+*   **Tamanho:** 500ml
+*   **Preço:** 2,49€ (detectado no texto na imagem)
+    
+É importante notar que o texto original contendo o preço foi mal lido. O texto detectado é 2,49€, mas o preço real pode ser diferente.
+========================================
+Imagem: 651.txt
+
+========================================
+Imagem: 652.jpg
+Com base no texto bruto da imagem, podemos identificar as seguintes informações sobre a promoção:
+
+*   **Produto:** Gin Bombay London Dry
+*   **Tamanho:** 750ml
+*   **Preço:** 79,90 
+
+Espero que isso ajude!
+========================================
+Imagem: 652.txt
+
+========================================
+Imagem: 653.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Gin Beefeater London Dry 750ml
+*   **Preço:** 79,90
+========================================
+Imagem: 653.txt
+
+========================================
+Imagem: 654.jpg
+Aqui está a análise das informações do texto extraído da imagem:
+
+*   **Produto:** BEBIDA MISTA SKOL BEATS GT LN
+*   **Tamanho:** 269ML
+*   **Preço de Venda:** R$ 4,05
+*   **Preço de Custo:** R$ 7,89
+========================================
+Imagem: 654.txt
+
+========================================
+Imagem: 655.jpg
+Aqui estão as informações que consigo extrair do texto da imagem:
+
+*   **Produto:** H2O Limoneto
+*   **Volume:** 500 ml
+*   **Preço:** R$ 2,25
+
+Espero que isso ajude!
+========================================
+Imagem: 655.txt
+
+========================================
+Imagem: 656.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Refrigerante Coca-cola
+*   **Tamanho:** 350ml
+*   **Preço:** R$ 1,89
+*   **Código de barras:** 7892400000079
+========================================
+Imagem: 656.txt
+
+========================================
+Imagem: 657.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Purina
+*   **Produto:** Dog Chow
+*   **Tamanho da embalagem:** Sache 100g
+*   **Preço por unidade:** R$ 1,99
+*   **Unidade:** 5,97g
+*   **Slogan:** "Juntos, a vida é melhor"
+========================================
+Imagem: 657.txt
+
+========================================
+Imagem: 658.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Purina
+*   **Produto:** Friskies
+*   **Peso:** 85g
+*   **Preço Unitário:** R$ 1,99
+*   **Outras informações:** Pode conter traços de soja, trigo, leite, derivados de soja, trigo e/ou leite.
+========================================
+Imagem: 658.txt
+
+========================================
+Imagem: 659.jpg
+Aqui estão as informações extraídas do texto:
+
+*   **Produto:** Pão Int Plus Vita 480g
+*   **Preço:** R$ 4,99
+========================================
+Imagem: 659.txt
+
+========================================
+Imagem: 660.jpg
+Com base no texto extraído da imagem, aqui estão as informações relevantes:
+
+*   **Produto:** Mix de Maranga Linda Mineira
+*   **Tamanho:** 500g
+*   **Preço:** R$ 7,99
+========================================
+Imagem: 660.txt
+
+========================================
+Imagem: 661.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** PEPERI
+*   **Produto:** Presunto Cozido Sem Capa de Gordura
+*   **Tamanho da Embalagem:** 13g
+*   **Preço:** R$ 19,90
+*   **Informação adicional:** "Sem Glúten"
+========================================
+Imagem: 661.txt
+
+========================================
+Imagem: 662.jpg
+Aqui estão as informações identificadas a partir do texto da imagem:
+
+*   **Produto:** Alface
+*   **Promoção:** Desconhecida, pois o texto está incompleto. A única informação visível é que o produto em promoção é alface.
+
+Se você tiver mais informações do texto, por favor, compartilhe para que eu possa te ajudar a interpretá-lo com mais precisão.
+========================================
+Imagem: 662.txt
+
+========================================
+Imagem: 663.jpg
+Aqui estão as informações identificadas no texto bruto da imagem:
+
+*   **Produto:** Leite em Pó
+*   **Marca:** Serenissima
+*   **Peso:** 200g
+*   **Preço:** R$ 1,97
+
+Espero que isso ajude!
+========================================
+Imagem: 663.txt
+
+========================================
+Imagem: 664.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Natril
+*   **Produto:** Leite Integral
+*   **Tamanho:** 1L
+========================================
+Imagem: 664.txt
+
+========================================
+Imagem: 665.jpg
+Aqui está a análise do texto bruto da imagem, identificando informações específicas sobre o produto e a promoção:
+
+**Produto:**
+
+*   **Marca:** Maratá
+*   **Tipo de Produto:** Flocão
+
+**Detalhes da Promoção:**
+
+*   **Preço:** R$ 1,59
+*   **Tamanho da Embalagem:** 500g
+
+Espero que esta análise seja útil!
+========================================
+Imagem: 665.txt
+
+========================================
+Imagem: 666.jpg
+Com base no texto da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Café Maratá Moído
+*   **Peso:** 250g
+*   **Preço:** R$ 6,59
+========================================
+Imagem: 666.txt
+
+========================================
+Imagem: 667.jpg
+Aqui estão as informações que posso extrair do texto bruto da imagem:
+
+*   **Produto:** Max Pure
+*   **Preço:** R$ 12,90
+*   **Quantidade:** 30 unidades
+========================================
+Imagem: 667.txt
+
+========================================
+Imagem: 668.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Produto:** Óleo de Soja
+*   **Marca:** Soja
+*   **Tamanho:** 900ml
+*   **Preço:** R$ 7,49
+========================================
+Imagem: 668.txt
+
+========================================
+Imagem: 669.jpg
+Com base na imagem e no texto OCR, podemos identificar as seguintes informações:
+
+*   **Marca:** Heineken
+*   **Tamanho:** 60 ml
+*   **Promoção:** O texto "R$9" indica que o preço da promoção é de R$9.
+========================================
+Imagem: 669.txt
+
+========================================
+Imagem: 670.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Cerveja Itipira LT 269ml
+*   **Preço:** R$ 1,99
+========================================
+Imagem: 670.txt
+
+========================================
+Imagem: 671.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Cerveja Itipava Pilsen LT
+*   **Volume:** 350ml
+*   **Preço:** R$ 2,39
+========================================
+Imagem: 671.txt
+
+========================================
+Imagem: 672.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Cerveja TaiPava LT 550ml
+*   **Preço:** R$ 3,39
+========================================
+Imagem: 672.txt
+
+========================================
+Imagem: 673.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Monster Energy
+*   **Tamanho:** 473ml
+*   **Preço:** R$ 7,99
+========================================
+Imagem: 673.txt
+
+========================================
+Imagem: 674.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Arroz
+*   **Marca:** Sépé
+*   **Tipo:** Parboilizado
+*   **Classificação:** Longo Fino
+*   **Peso:** 1 kg
+*   **Preço:** R$ 3,89 (provavelmente o preço da unidade, pode ser o preço do pacote)
+========================================
+Imagem: 674.txt
+
+========================================
+Imagem: 675.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Huggies Triper Prot.
+*   **Quantidade:** 92 fraldas descartáveis
+*   **Preço:** R$ 69,90
+========================================
+Imagem: 675.txt
+
+========================================
+Imagem: 676.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Açúcar Nota 10
+*   **Peso:** 1 kg
+*   **Preço:** R$ 3,19
+========================================
+Imagem: 676.txt
+
+========================================
+Imagem: 677.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sarandi
+*   **Peso:** 1kg
+*   **Preço:** R$ 4,99
+========================================
+Imagem: 677.txt
+
+========================================
+Imagem: 678.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Betânia
+*   **Produto:** Leite Condensado
+*   **Tipo:** Semidesnatado
+*   **Tamanho:** 395g
+*   **Preço:** R$ 4,89
+*   **Promoção:** Economize R$ 0,60
+========================================
+Imagem: 678.txt
+
+========================================
+Imagem: 679.jpg
+Aqui está a análise do texto da imagem:
+
+*   **Produto:** Filezinho Copacol Frango Sossami
+*   **Peso:** 1kg
+*   **Preço:** R$ 17,99
+========================================
+Imagem: 679.txt
+
+========================================
+Imagem: 680.jpg
+Com base no texto da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Hamburger bovino CARRAPETA Angus
+*   **Preço:** R$ 14,99
+*   **Marca:** Fazenda Santa Brúnica
+========================================
+Imagem: 680.txt
+
+========================================
+Imagem: 681.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Fileto de Peito de Galinha
+*   **Marca:** Somave
+*   **Peso:** 1 kg
+*   **Preço:** R$ 17,99
+========================================
+Imagem: 681.txt
+
+========================================
+Imagem: 682.jpg
+Aqui estão as informações identificadas no texto da imagem:
+
+*   **Produto:** Leite Vitaminas UHT Desnatado
+*   **Marca:** Betânia
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,49
+========================================
+Imagem: 682.txt
+
+========================================
+Imagem: 683.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Cachepot
+*   **Preço:** R$ 19,90
+========================================
+Imagem: 683.txt
+
+========================================
+Imagem: 684.jpg
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Prato Redondo
+*   **Marca:** Oxford
+*   **Preço Original:** R$ 20,00
+*   **Desconto:** 49%
+*   **Preço Promocional:** R$ 9,99
+========================================
+Imagem: 684.txt
+
+========================================
+Imagem: 685.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Cadence
+*   **Tipo de Produto:** Sandeira Elétrica 750W
+*   **Cor:** Preta
+*   **Preço:** R$ 119,00
+*   **Desconto:** 32%
+========================================
+Imagem: 685.txt
+
+========================================
+Imagem: 686.jpg
+Aqui estão as informações identificadas a partir do texto bruto da imagem:
+
+*   **Marca:** Seara
+*   **Tipo de Produto:** Pizza Calabresa
+*   **Peso:** 680g
+*   **Preço:** 12,99 (possivelmente o preço da unidade)
+========================================
+Imagem: 686.txt
+
+========================================
+Imagem: 687.jpg
+Com base no texto extraído da imagem, temos as seguintes informações:
+
+*   **Marca:** Seara
+*   **Tipo:** Gourmet
+*   **Peso:** 100g
+*   **Preço:** R$ 9,49
+========================================
+Imagem: 687.txt
+
+========================================
+Imagem: 688.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Ice Limão LN
+*   **Tamanho:** 275 ml
+*   **Preço:** R$ 4,89
+*   **Quantidade:** UN (Unitário)
+========================================
+Imagem: 688.txt
+
+========================================
+Imagem: 689.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Seara
+*   **Produto:** Salsicha 500g
+*   **Preço:** R$ 7,99
+========================================
+Imagem: 689.txt
+
+========================================
+Imagem: 690.jpg
+Here’s the information extracted from the text on the image:
+
+*   **Product:** Queijo Mussarela Natulact
+*   **Price:** R$ 28,99 (Brazilian Real - approximately $5.80 USD as of November 3, 2023)
+========================================
+Imagem: 690.txt
+
+========================================
+Imagem: 691.jpg
+Aqui está a análise das informações extraídas da imagem do preço:
+
+*   **Produto:** Friele de Peito (Filé de Peito)
+*   **Preço:** R$ 16,90 por 1kg
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: 691.txt
+
+========================================
+Imagem: 692.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Batata
+*   **Marca:** UAI
+*   **Peso:** 2kg
+*   **Preço:** R$ 16,99 por 2kg
+========================================
+Imagem: 692.txt
+
+========================================
+Imagem: 693.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Betânia
+*   **Produto:** integral
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,99
+========================================
+Imagem: 693.txt
+
+========================================
+Imagem: 694.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Leite UHT Integral
+*   **Marca:** Ninho
+*   **Forti+:** Sim (aparente ser parte do nome/produto)
+*   **Tamanho da embalagem:** 1L
+*   **Preço:** R$ 5,89
+*   **Quantidade:** A Partir de 3 Unidades (aparente ser o preço por pacote de 3 unidades)
+*   **Observação:**  O texto menciona "Vitaminas A, D e E" e "Cálcio" (possivelmente nutrientes adicionados ao produto).
+========================================
+Imagem: 694.txt
+
+========================================
+Imagem: 695.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Desinfetante Omo Lava & Seca
+*   **Tamanho:** 500 ml
+*   **Preço:** R$ 2,99
+*   **Ação:** 3 dias de eficácia
+========================================
+Imagem: 695.txt
+
+========================================
+Imagem: 696.jpg
+Com base no texto bruto da imagem, aqui estão as informações identificadas:
+
+*   **Produto:** Óleo Soja Liza
+*   **Tamanho:** 900ml
+*   **Preço:** R$ 7,69 (por unidade) ou R$ 7,59 (a partir de 2 unidades)
+========================================
+Imagem: 696.txt
+
+========================================
+Imagem: 697.jpg
+Aqui está a análise do texto extraído da imagem:
+
+**Produto:** Biscoito Bonos
+**Peso:** 126g
+**Preço:** R$ 2,70 (com promoção) / R$ 1,99 (preço promocional)
+**Sabor:** Chocolate
+========================================
+Imagem: 697.txt
+
+========================================
+Imagem: 698.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Verza
+*   **Tipo de Vinho:** Tinto Suave
+*   **Volume:** 1L
+*   **Preço:** R$ 17,89
+========================================
+Imagem: 698.txt
+
+========================================
+Imagem: 699.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite Condensado Itambé 395g
+*   **Preço:** R$ 5,65
+*   **Promção**: R$ 5,89
+*   **Data**: 09.09.2023
+========================================
+Imagem: 699.txt
+
+========================================
+Imagem: 700.jpg
+Com base no texto extraído da imagem, podemos identificar as seguintes informações sobre o produto e a promoção:
+
+*   **Produto:** Açúcar Cristal da marca Cristal
+*   **Peso:** 1kg
+*   **Preço:** R$ 3,39 (O preço pode ter sido cortado na imagem, mas é visível)
+========================================
+Imagem: 700.txt
+
+========================================
+Imagem: 701.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Sapataria Bambu 70cm
+*   **Preço:** R$ 129,90
+========================================
+Imagem: 701.txt
+
+========================================
+Imagem: 702.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Café Extraforte Santa Clara
+*   **Preço:** R$ 6,99
+*   **Preço de Custo:** R$ 8,59
+*   **Unidade:** UN (provavelmente unidades)
+========================================
+Imagem: 702.txt
+
+========================================
+Imagem: 703.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** LEITE PASTEURIZADO
+*   **Marca:** RECANUDO BRASIL
+*   **CNPJ:** 004052
+*   **Peso:** 0,110 kg
+*   **Valor Nutricional por Porção (100g):**
+    *   Calorias: 98 kcal
+    *   Proteínas: 6,0 g
+    *   Gorduras: 6,0 g
+    *   Sódio: 151 mg
+    *   Ácido: 6,0 g
+*   **Valor Total:** R$ 4,05
+*   **Data:** 06/11/2022
+*   **Hora:** 08:01
+========================================
+Imagem: 703.txt
+
+========================================
+Imagem: 704.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Óleo de Soja Vila Velha
+*   **Tamanho:** 900ml
+*   **Preço:** R$ 7,99
+========================================
+Imagem: 704.txt
+
+========================================
+Imagem: 705.jpg
+Com base no texto extraído da imagem, temos as seguintes informações:
+
+*   **Produto:** Poltrona Rattán
+*   **Preço:** R$ 59,98
+========================================
+Imagem: 705.txt
+
+========================================
+Imagem: 706.jpg
+Aqui estão as informações que posso extrair do texto da imagem:
+
+*   **Produto:** Atol
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 1,69
+========================================
+Imagem: 706.txt
+
+========================================
+Imagem: 707.jpg
+Aqui estão as informações identificadas do texto da imagem:
+
+*   **Marca:** Always
+*   **Tipo de Produto:** Absorventes Noturnos
+*   **Quantidade:** 32
+*   **Preço:** R$ 19,99
+*   **Promoção:** "Saldão R$ 22,59 por 2" (Isso significa que se você comprar 2 pacotes, o preço total é de R$22,59)
+========================================
+Imagem: 707.txt
+
+========================================
+Imagem: 708.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Estrella Galicia
+*   **Tipo de Produto:** Lager
+*   **Volume:** 350ml
+*   **Preço:** 2,69
+========================================
+Imagem: 708.txt
+
+========================================
+Imagem: 709.jpg
+Com base no texto da imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Papel Higiênico Familiar Supreme
+*   **Preço por Unidade:** R$ 8,90
+*   **Quantidade por Embalagem:** 12 rolos
+*   **Dimensões dos Rolos:** 20m x 10cm
+*   **Outras Informações:** "Conte 12 rolos"
+========================================
+Imagem: 709.txt
+
+========================================
+Imagem: 710.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ype
+*   **Produto:** Refil Aconchego
+*   **Tamanho:** 1L
+*   **Preço por unidade:** R$ 3,95
+*   **Outras informações:** Cx12 - R$ 47,40, Am3 - R$ 11,85
+========================================
+Imagem: 710.txt
+
+========================================
+Imagem: 711.jpg
+Com base no texto da imagem, aqui estão as informações relevantes:
+
+*   **Produto:** Omo Lavaperfeita
+*   **Tamanho:** 3L
+*   **Preço:** R$ 37,99 (promocional)
+*   **Preço original (sem desconto):** R$ 44,99 (informação sobre o preço original para contexto)
+========================================
+Imagem: 711.txt
+
+========================================
+Imagem: 712.jpg
+Aqui estão as informações extraídas do texto da imagem do produto:
+
+*   **Marca:** Somave
+*   **Produto:** Filé de Galinha
+*   **Preço:** R$ 16,99
+*   **Observação:** "Direto do Galinheiro" (indicando a origem do produto)
+========================================
+Imagem: 712.txt
+
+========================================
+Imagem: 713.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Leite UHT Natilla
+*   **Tamanho:** 1L
+*   **Preço:** R$ 4,99 por unidade
+========================================
+Imagem: 713.txt
+
+========================================
+Imagem: 714.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** LeitoBom
+*   **Peso:** 200g
+*   **Preço:** 2,99
+*   **Quantidade:** 69 unidades
+========================================
+Imagem: 714.txt
+
+========================================
+Imagem: 715.jpg
+Com base na imagem, aqui estão as informações identificadas da etiqueta do produto:
+
+*   **Produto:** Tirolez Cremosa
+*   **Sabor:** Zero Lactose
+*   **Peso:** 200g
+*   **Preço:** R$ 6,99
+========================================
+Imagem: 715.txt
+
+========================================
+Imagem: 716.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Seda
+*   **Tipo de Produto:** Creme Pentear
+*   **Fragrância:** Fragâncias
+*   **Volume:** 300ml
+*   **Preço Unitário:** R$ 6,99
+========================================
+Imagem: 716.txt
+
+========================================
+Imagem: 717.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Niely
+*   **Linha de Produto:** Gold
+*   **Tipo de Produto:** Shampoo e Condicionador
+*   **Tamanho:** 175ml e 300ml
+*   **Preço:** R$ 12,99 por unidade.
+*   **Fragrância:** Flor de Bambu
+
+Espero que esta análise seja útil!
+========================================
+Imagem: 717.txt
+
+========================================
+Imagem: 718.jpg
+Aqui estão as informações identificadas no texto da imagem:
+
+*   **Produto:** Shampoo Clear Anticaspa
+*   **Tamanho:** 200ml
+*   **Preço:** R$ 13,99
+*   **Promoção:** Unidade
+========================================
+Imagem: 718.txt
+
+========================================
+Imagem: 719.jpg
+Com base no texto da imagem, podemos identificar as seguintes informações:
+
+*   **Produto:** Fermento Biológico
+*   **Marca:** Fermix
+*   **Peso:** 10g
+*   **Preço Unitário:** R$ 0,89
+========================================
+Imagem: 719.txt
+
+========================================
+Imagem: 720.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Carne Angus Fazenda Santa Mônica
+*   **Peso Líquido:** 360g
+*   **Quantidade:** 2 unidades
+*   **Instruções de Refrigeração:** Manter na geladeira a 0-4°C
+========================================
+Imagem: 720.txt
+
+========================================
+Imagem: 721.jpg
+Com base no texto da imagem, temos as seguintes informações:
+
+*   **Produto:** Cápsulas Tres Corações (Café Cappuccino)
+*   **Preço:** R$ 15,49
+*   **Unidade:** 10 cápsulas
+*   **Marca:** Hava Nena
+========================================
+Imagem: 721.txt
+
+========================================
+Imagem: 722.jpg
+Aqui está a análise do texto extraído da imagem:
+
+**Produto:** Pão Frances (Pão Francês)
+**Peso:** 1,99 KG
+========================================
+Imagem: 722.txt
+
+========================================
+Imagem: 723.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Vigor
+*   **Produto:** Iogurte de Frutas (Vitamina de Frutas e Morango)
+*   **Tamanho:** 1,26 kg
+*   **Preço:** R$ 9,99 unidade
+========================================
+Imagem: 723.txt
+
+========================================
+Imagem: 724.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite em Pó Integral Schar
+*   **Tamanho:** 200g
+*   **Preço:** R$ 7,99
+*   **Preço Unitário:** R$ 6,99
+========================================
+Imagem: 724.txt
+
+========================================
+Imagem: 725.jpg
+Here's the information extracted from the image:
+
+*   **Brand:** Reserva Família
+*   **Product:** Drip Coffee
+*   **Roast:** 100% Arabica Dark Roast
+*   **Size:** 100g
+*   **Unit Price:** R$18,49 (for a pack of 10 bags)
+========================================
+Imagem: 725.txt
+
+========================================
+Imagem: 726.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Seara Gourmet (Lombo Canadense)
+*   **Quantidade:** 1KG
+*   **Preço:** R$ 26,99
+*   **Validade:** Próximo a 11/07/2024
+========================================
+Imagem: 726.txt
+
+========================================
+Imagem: 727.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Caldo Fradinho
+*   **Tipo:** Caldo Líquido
+*   **Peso:** 1 kg
+*   **Preço por unidade:** R$ 5,89
+========================================
+Imagem: 727.txt
+
+========================================
+Imagem: 728.jpg
+Com base no texto extraído da imagem:
+
+*   **Produto:** Feijão Carioca
+*   **Peso:** 1kg
+*   **Preço por unidade:** R$ 5,69
+========================================
+Imagem: 728.txt
+
+========================================
+Imagem: 729.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Limão Minuano
+*   **Tamanho:** 500ml
+*   **Preço por unidade:** R$ 1,99
+========================================
+Imagem: 729.txt
+
+========================================
+Imagem: 730.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite Integral
+*   **Marca:** Natril
+*   **Volume:** 1L
+*   **Preço Unitário:** R$ 4,19
+*   **Embalagem:** Cx12 (Caixa com 12 unidades)
+========================================
+Imagem: 730.txt
+
+========================================
+Imagem: 731.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sadia
+*   **Produto:** Filé de Peito
+*   **Preço:** R$ 18,50
+*   **Peso:** 1 kg
+*   **Código de barras:** 930004624071
+*   **Observação:** É um produto congelado.
+========================================
+Imagem: 731.txt
+
+========================================
+Imagem: 732.jpg
+Aqui estão as informações identificadas do texto da imagem:
+
+*   **Marca:** Lysol
+*   **Tipo de Produto:** Desinfetante Spray
+*   **Nome do Produto:** Pureza do Algodão
+*   **Tamanho:** 440ml
+*   **Preço:** R$ 9,90
+========================================
+Imagem: 732.txt
+
+========================================
+Imagem: 733.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Huggies
+*   **Tipo de Produto:** Fraldas
+*   **Quantidade:** 92 fraldas
+*   **Promoção:** "Mais sequinho por toda a noite"
+*   **Preço Unitário:** R$ 0,687
+*   **Preço da Unidade:** R$ 0,597
+========================================
+Imagem: 733.txt
+
+========================================
+Imagem: 734.jpg
+Aqui está a análise do texto da imagem:
+
+*   **Marca:** Amandita
+*   **Tipo de Produto:** Chocolate
+*   **Peso:** 200g
+*   **Preço:** R$ 9,80 (ou R$ 9,80 por unidade)
+========================================
+Imagem: 734.txt
+
+========================================
+Imagem: 735.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Urbano
+*   **Tipo de Arroz:** Longo Fino
+*   **Peso:** 1kg
+*   **Preço:** R$ 3,86
+========================================
+Imagem: 735.txt
+
+========================================
+Imagem: 736.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Kenko
+*   **Produto:** Yaki Sushi Nori (Alga Marinha)
+*   **Quantidade:** 10 Folhas
+*   **Peso:** 27g
+*   **Preço:** R$ 10,98
+========================================
+Imagem: 736.txt
+
+========================================
+Imagem: 737.jpg
+Com base no texto da imagem, aqui estão as informações do produto e da promoção:
+
+*   **Marca:** Pietro Coricelli Spa
+*   **Produto:** Azeite de Oliva Extra Virgem
+*   **Tamanho:** 1L
+*   **Preço por Unidade:** R$ 34,98
+*   **Origem:** Spoleto (PG) - Itália
+*   **Marca de Referência:** Tradizione di Famiglia
+========================================
+Imagem: 737.txt
+
+========================================
+Imagem: 738.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Gorgonzola Frac
+*   **Peso:** 10,98g
+*   **Preço:** R$ 10,32
+========================================
+Imagem: 738.txt
+
+========================================
+Imagem: 739.jpg
+Here's the information extracted from the text in the image:
+
+*   **Product:** Monster Energy
+*   **Volume:** 473ml
+*   **Price per Unit:** R$ 7,99 (Approximately $1.57 USD)
+========================================
+Imagem: 739.txt
+
+========================================
+Imagem: 740.jpg
+Com base no texto bruto fornecido:
+
+*   **Produto:** Cerveja Mahua Estrelas
+*   **Volume:** 330 ml
+*   **Preço por unidade:** R$ 4,98
+========================================
+Imagem: 740.txt
+
+========================================
+Imagem: 741.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Piracanjuba Leite Condensado TP
+*   **Peso:** 395g
+*   **Preço:** R$ 5,97
+========================================
+Imagem: 741.txt
+
+========================================
+Imagem: 742.jpg
+Com base na imagem e no texto bruto fornecido, aqui estão as informações que podemos extrair:
+
+*   **Produto:** Lacaos (presumo que seja um tipo de chocolate ou barra de chocolate)
+*   **Peso:** 250g
+*   **Preço:** R$8,99
+========================================
+Imagem: 742.txt
+
+========================================
+Imagem: 743.jpg
+Here's the information extracted from the image:
+
+*   **Product:** Bestway Steel Pro
+*   **Price:** R$ 59,90 (Brazilian Real)
+*   **Volume:** 1,236 L
+========================================
+Imagem: 743.txt
+
+========================================
+Imagem: 744.jpg
+Com base no texto bruto da imagem, podemos extrair as seguintes informações:
+
+*   **Preço:** R$ 499,90
+*   **Preço com desconto:** R$ 83,32
+========================================
+Imagem: 744.txt
+
+========================================
+Imagem: 745.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Produto:** Bowl Korea Inox 236ml
+*   **Preço:** 14,98
+*   **Preço promocional:** 9,98
+*   **Preço da promoção (desconto):** 2,00
+========================================
+Imagem: 745.txt
+
+========================================
+Imagem: 746.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mondial
+*   **Produto:** Liquidificador 550W
+*   **Voltagem:** 127V
+*   **Preço:** R$ 89,90 (R$119,90 era o preço anterior)
+*   **Observação:** O texto menciona "10 anos de garantia".
+========================================
+Imagem: 746.txt
+
+========================================
+Imagem: 747.jpg
+Aqui está a análise do texto bruto da imagem:
+
+*   **Produto:** Fogão Consul CF48 BC0
+*   **Preço Original:** R$ 749,90
+*   **Preço com Desconto:** R$ 599,90
+*   **Desconto:** R$ 150,00 (749,90 - 599,90)
+========================================
+Imagem: 747.txt
+
+========================================
+Imagem: 748.jpg
+Com base no texto bruto da imagem, podemos extrair as seguintes informações:
+
+*   **Produto:** Leite Condensado Itralac 395g Semidesnatado
+*   **Preço Unitário:** R$ 5,49
+*   **Código de Barras:** CX27 148,23 AM6 32,94
+*   **Data de Validade:** 7089004413 (verifique a data exata na imagem original)
+========================================
+Imagem: 748.txt
+
+========================================
+Imagem: 749.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Detergente Ariel Refil 3L
+*   **Preço:** R$ 29,99
+*   **Unidade:** 3L
+========================================
+Imagem: 749.txt
+
+========================================
+Imagem: 750.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Ovos GDE Branco de Galinha C/30
+*   **Preço de Venda:** R$ 19,99
+*   **Preço Promocional:** R$ 15,99
+========================================
+Imagem: 750.txt
+
+========================================
+Imagem: 751.jpg
+Aqui estão as informações que posso extrair do texto bruto da imagem:
+
+*   **Produto:** Natilla
+*   **Tamanho:** 1L
+*   **Preço:** R$ 6,90
+*   **Promoção:** Por R$ 4,20 (comprando 2 unidades)
+*   **Marca:** Rede Mais
+========================================
+Imagem: 751.txt
+
+========================================
+Imagem: 752.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** SKOL
+*   **Tipo:** SKOL LT
+*   **Volume:** 350 ml
+*   **Preço:** R$ 2,69
+========================================
+Imagem: 752.txt
+
+========================================
+Imagem: 753.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Produto:** Cerveja Itipava Pilsen LT 350ml
+*   **Preço:** R$ 2,39
+========================================
+Imagem: 753.txt
+
+========================================
+Imagem: 754.jpg
+Here's the breakdown of the information from the provided text:
+
+*   **Product:** Monster Energy Ultra Paradise Acucar
+*   **Volume:** 473 ml
+*   **Price:** R$ 7,99 (Brazilian Real - approximately $1.50 USD as of today's exchange rate)
+*   **Promotion:** Economize R$ 0,46 (Saving R$ 0.46)
+========================================
+Imagem: 754.txt
+
+========================================
+Imagem: 755.jpg
+Com base no texto extraído da imagem, aqui estão as informações do produto:
+
+*   **Produto:** Nectar dafruta 1L
+*   **Sabor:** Manga
+*   **Preço:** R$ 2,99
+========================================
+Imagem: 755.txt
+
+========================================
+Imagem: 756.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Suco de Uva Integral
+*   **Volume:** 7,5L
+*   **Preço:** R$ 12,89
+========================================
+Imagem: 756.txt
+
+========================================
+Imagem: 757.jpg
+Aqui estão as informações identificadas no texto da imagem:
+
+*   **Marca:** Semente
+*   **Tipo de Arroz:** Arroz Parboilizado
+*   **Peso:** 1 kg
+*   **Preço:** R$ 3,39
+========================================
+Imagem: 757.txt
+
+========================================
+Imagem: 758.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Limpa Vidro Drago
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 2,75
+========================================
+Imagem: 758.txt
+
+========================================
+Imagem: 759.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Fofuna
+*   **Linha do Produto:** Baby Prático
+*   **Tamanho:** C/24
+*   **Preço:** R$ 13,49
+========================================
+Imagem: 759.txt
+
+========================================
+Imagem: 760.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Huggies Fralda Hipér Proteção
+*   **Pacote:** G 78
+*   **Preço:** R$ 89,90
+*   **Oferta:** R$ 29,90
+========================================
+Imagem: 760.txt
+
+========================================
+Imagem: 761.jpg
+Here's the information extracted from the text in the image:
+
+*   **Product:** Pampers Super Sec M
+*   **Quantity:** 90
+*   **Price:** R$ 59,90
+========================================
+Imagem: 761.txt
+
+========================================
+Imagem: 762.jpg
+Here's a breakdown of the information extracted from the image text:
+
+*   **Product:** Açucar Cristal (Cristal Sugar)
+*   **Quantity:** 1 kg (1 kilogram)
+*   **Brand:** Cristal (Grupo 1)
+*   **Price:** R$ 3,50 (approximately $0.70 USD)
+========================================
+Imagem: 762.txt
+
+========================================
+Imagem: 763.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Beneditto
+*   **Produto:** Leite Condensado Semidesnatado
+*   **Peso:** 395g
+*   **Preço:** R$ 5,29
+========================================
+Imagem: 763.txt
+
+========================================
+Imagem: 764.jpg
+Aqui estão as informações extraídas da imagem do rótulo do produto:
+
+*   **Produto:** Leite Condensado Betânia TP
+*   **Peso:** 395g
+*   **Preço:** R$ 4,99
+*   **Código de barras:** 789083187508
+*   **Economia:** R$ 0,50
+========================================
+Imagem: 764.txt
+
+========================================
+Imagem: 765.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Molico Fibras Sachê
+*   **Peso:** 175g
+*   **Preço:** R$ 4,99
+========================================
+Imagem: 765.txt
+
+========================================
+Imagem: 766.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Tradicional
+*   **Produto:** Moído
+*   **Peso:** 250g (tanto líquido quanto moído)
+*   **Preço:** R$ 7,05
+========================================
+Imagem: 766.txt
+
+========================================
+Imagem: 767.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Seara Turma da Mônica
+*   **Variedade:** Extrato de Frutas
+*   **Tamanho:** 300g
+*   **Preço:** R$ 4,99
+*   **Promoção:** R$ 9,80 (com 2)
+*   **Ingredientes:** Frutas Concentradas
+========================================
+Imagem: 767.txt
+
+========================================
+Imagem: 768.jpg
+Here's the information extracted from the image:
+
+*   **Brand:** Sadia
+*   **Product:** Frango Empanadas
+*   **Weight:** 400g
+*   **Price:** R$8,00 per unit
+========================================
+Imagem: 768.txt
+
+========================================
+Imagem: 769.jpg
+Aqui estão as informações identificadas no texto bruto da imagem:
+
+*   **Produto:** Manteiga Natilla
+*   **Peso:** 500g
+*   **Preço:** R$ 15,90 (possivelmente por unidade ou por quilo)
+*   **Validade:** 08/11/2024
+========================================
+Imagem: 769.txt
+
+========================================
+Imagem: 770.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Carne Frango Sadia Bio 1kg
+*   **Preço:** R$ 11,99
+========================================
+Imagem: 770.txt
+
+========================================
+Imagem: 771.jpg
+Aqui estão as informações que posso extrair do texto bruto da imagem:
+
+*   **Produto:** Studio Hair
+*   **Linha:** Hidratação & Força
+*   **Preço:** R$ 7,90 por unidade.
+*   **Observação:** O texto indica que se trata de uma promoção especial.
+========================================
+Imagem: 771.txt
+
+========================================
+Imagem: 772.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Deli Master
+*   **Modelo:** Classic
+*   **Preço:** 13,48 (provavelmente o preço por unidade/pacote)
+*   **Quantidade:** 8 unidades
+*   **Características:** Com Gel Hipoalergênico
+========================================
+Imagem: 772.txt
+
+========================================
+Imagem: 773.jpg
+Aqui está a análise do texto da imagem:
+
+*   **Produto:** Farinha Trigo Finna com Fermento
+*   **Peso:** 1 kg
+*   **Preço:** R$ 4,89
+========================================
+Imagem: 773.txt
+
+========================================
+Imagem: 774.jpg
+Com base no texto bruto extraído da imagem, aqui estão as informações relevantes sobre o produto e a promoção:
+
+*   **Produto:** CIF MultiBloc Antiqueda
+*   **Tamanho:** 500ml
+*   **Preço:** R$ 10,68 (por unidade)
+*   **Marca:** CIF
+========================================
+Imagem: 774.txt
+
+========================================
+Imagem: 775.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Escorredor
+*   **Marca:** Krea
+*   **Modelo:** Louça
+*   **Dimensões:** 44 cm x 35 cm
+*   **Preço:** 29,98 (provavelmente o preço promocional)
+========================================
+Imagem: 775.txt
+
+========================================
+Imagem: 776.jpg
+Com base no texto extraído da imagem, aqui está a análise:
+
+*   **Produto:** Manga
+*   **Marca:** Tommy
+*   **Preço:** 2,99 por kg
+========================================
+Imagem: 776.txt
+
+========================================
+Imagem: 777.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Óleo Soja
+*   **Tamanho:** 900ml
+*   **Preço:** R$ 7,59
+*   **Promoção:** R$ 7,29 (para outras formas de pagamento)
+========================================
+Imagem: 777.txt
+
+========================================
+Imagem: 778.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Flocão Nordestino
+*   **Peso:** 500g
+*   **Preço:** R$ 1,59
+========================================
+Imagem: 778.txt
+
+========================================
+Imagem: 779.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Serissima
+*   **Produto:** Instantaneo
+*   **Peso:** 200g
+*   **Preço de Venda:** 6,95
+*   **Preço de Venda (antigo):** 8,45
+========================================
+Imagem: 779.txt
+
+========================================
+Imagem: 780.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite UHT Integral Vitaminas 1L
+*   **Preço:** R$ 4,49
+========================================
+Imagem: 780.txt
+
+========================================
+Imagem: 781.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Produto:** Filet de Peixe
+*   **Marca:** Copacol
+*   **Tipo:** Copacol BD
+*   **Peso:** 1kg
+*   **Preço:** R$ 18,90
+*   **Preço Unitário:** R$ 5,59
+========================================
+Imagem: 781.txt
+
+========================================
+Imagem: 782.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Produto:** Omo Econômico
+*   **Tamanho:** 700ml
+*   **Preço por unidade:** R$ 5,99
+========================================
+Imagem: 782.txt
+
+========================================
+Imagem: 783.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Produto:** Shampoo Head & Shoulders
+*   **Tamanho:** 200ml
+*   **Preço:** R$ 9,99
+*   **Unidade:** 3 unidades
+========================================
+Imagem: 783.txt
+
+========================================
+Imagem: 784.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sadia
+*   **Tipo de Produto:** Frango
+*   **Peso:** 100g
+*   **Preço:** R$1,35
+========================================
+Imagem: 784.txt
+
+========================================
+Imagem: 785.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Produto:** LeitoBom Creme de Leite Leve
+*   **Peso:** 200g
+*   **Preço:** R$ 2,69 por unidade
+========================================
+Imagem: 785.txt
+
+========================================
+Imagem: 786.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Nome do Produto:** Hamburger Carne Bovina Angus da Fazenda Santa Mônica
+*   **Peso:** 360g
+*   **Preço:** R$ 11,99
+========================================
+Imagem: 786.txt
+
+========================================
+Imagem: 787.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Coxas Levedas
+*   **Peso:** 1kg
+*   **Preço:** R$ 10,99
+========================================
+Imagem: 787.txt
+
+========================================
+Imagem: 788.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mimmo
+*   **Produto:** Papel Higiênico LV12 PG11
+*   **Quantidade:** 12 rolos
+*   **Preço:** R$ 11,99
+*   **Unidade:** Doce
+========================================
+Imagem: 788.txt
+
+========================================
+Imagem: 789.jpg
+Com base na imagem e no texto bruto extraído, aqui estão as informações identificadas sobre o produto:
+
+*   **Marca:** Natilla
+*   **Produto:** Leite UHT
+*   **Tipo:** UHT de Gordura
+*   **Unidade:** 1 Litro
+*   **Preço:** R$ 4,29
+
+Espero que esta análise seja útil!
+========================================
+Imagem: 789.txt
+
+========================================
+Imagem: 790.jpg
+Aqui está a análise do texto extraído da imagem:
+
+*   **Produto:** Água Sanitária Tubarão
+*   **Tamanho:** 1 Litro
+*   **Preço por unidade:** R$ 1,79
+========================================
+Imagem: 790.txt
+
+========================================
+Imagem: 791.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Leite Condensado Moça
+*   **Peso:** 395g
+*   **Preço:** R$ 5,69 por unidade
+========================================
+Imagem: 791.txt
+
+========================================
+Imagem: 792.jpg
+Com base no texto extraído da imagem, as informações relevantes sobre o produto e a promoção são:
+
+*   **Produto:** Integral
+*   **Preço:** R$ 4,99 por cada unidade.
+========================================
+Imagem: 792.txt
+
+========================================
+Imagem: 793.jpg
+Aqui está a análise do texto bruto da imagem:
+
+*   **Produto:** Vinho Nac Pergola Bco Suave 1L
+*   **Preço:** R$ 17,39
+*   **Condição:** Economize R$ 3,50
+========================================
+Imagem: 793.txt
+
+========================================
+Imagem: 794.jpg
+Aqui está a análise do texto bruto da imagem:
+
+**Produto:** Arroz Sepé
+**Tipo:** Parboilizado
+**Classe:** Longo Fino
+**Peso:** 1 kg
+**Preço:** R$ 3,49
+========================================
+Imagem: 794.txt
+
+========================================
+Imagem: 795.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Pampers
+*   **Tipo de Produto:** Super Sec
+*   **Quantidade:** 26
+*   **Peso:** 12 kg
+*   **Preço:** R$ 19,99
+*   **Economia:** R$ 12,99 (Este é o valor da compra de 12 unidades)
+========================================
+Imagem: 795.txt
+
+========================================
+Imagem: 796.jpg
+Com base no texto extraído da imagem, aqui estão as informações identificadas:
+
+*   **Marca:** Pampers
+*   **Linha:** Supersock
+*   **Tamanho:** M
+*   **Quantidade:** 90
+*   **Preço:** R$ 64,90
+========================================
+Imagem: 796.txt
+
+========================================
+Imagem: 797.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Liza
+*   **Produto:** Óleo de Soja
+*   **Embalagem:** PET
+*   **Volume:** 900ml
+*   **Preço:** R$ 7,89
+========================================
+Imagem: 797.txt
+
+========================================
+Imagem: 798.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Azeite do Mediterrâneo
+*   **Linha:** Azeite
+*   **Volume:** 500ml
+*   **Preço:** 19,98€
+*   **Quantidade:** 3 unidades
+========================================
+Imagem: 798.txt
+
+========================================
+Imagem: 799.jpg
+Aqui está a informação extraída do texto da imagem:
+
+*   **Marca:** Mococa
+*   **Tipo de Produto:** Leite Condensado
+*   **Tamanho:** 395g
+*   **Preço:** R$ 5,99
+*   **Embalagem:** 6 unidades.
+========================================
+Imagem: 799.txt
+
+========================================
+Imagem: 800.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Produto:** Frango Sadia Bio 1kg
+*   **Preço:** R$ 11,99
+*   **Promoção:** R$ 6,20 (valor da promoção)
+*   **Período da Promoção:** 18/19
+========================================
+Imagem: 800.txt
+
+========================================

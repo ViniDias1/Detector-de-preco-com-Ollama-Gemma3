@@ -1,4 +1,3 @@
-version: '3.9'
 
 services:
   ollama:
@@ -25,6 +24,7 @@ services:
       - ./app/imagens:/app/imagens
       - ./app/dataset-images:/app/dataset-images
       - ./app/resultados.txt:/app/resultados.txt
+      - ./app/resultado_valid.txt:/app/resultado_valid.txt
     stdin_open: true
     tty: true
 
