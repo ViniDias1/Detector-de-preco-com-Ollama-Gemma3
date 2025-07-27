@@ -41,7 +41,7 @@ def processar_imagem(caminho):
     resultado = enviar_para_ollama(imagem_base64)
     print(resultado)
     # Salva o resultado em um arquivo txt
-    with open("resultado_valid.txt", "a", encoding="utf-8") as f:
+    with open("resultado_train.txt", "a", encoding="utf-8") as f:
         f.write(f"Imagem: {os.path.basename(caminho)}\n")
         f.write(resultado + "\n")
         f.write("="*40 + "\n")
@@ -57,7 +57,7 @@ def salvar_ultima_imagem_processada(nome):
         f.write(nome)
 
 if __name__ == "__main__":
-    pasta_imagens = "/app/dataset-images/valid/valid"
+    pasta_imagens = "/app/dataset-images/train/train"
     caminhos = [os.path.join(pasta_imagens, f) for f in sorted(os.listdir(pasta_imagens)) if os.path.isfile(os.path.join(pasta_imagens, f))]
     if not caminhos:
         print(f"Nenhuma imagem encontrada em {pasta_imagens}.")

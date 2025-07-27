@@ -25,6 +25,7 @@ services:
       - ./app/dataset-images:/app/dataset-images
       - ./app/resultados.txt:/app/resultados.txt
       - ./app/resultado_valid.txt:/app/resultado_valid.txt
+      - ./app/resultado_train.txt:/app/resultado_train.txt
     stdin_open: true
     tty: true
 
