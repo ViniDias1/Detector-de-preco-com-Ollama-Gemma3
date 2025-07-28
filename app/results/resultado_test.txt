@@ -1,0 +1,2602 @@
+Imagem: 1000.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** OLIVIA
+*   **Linha de Produto:** Extra Virgem
+*   **Produto:** Azeite
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 44,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações específicas no texto.
+========================================
+Imagem: 801.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sadia
+*   **Linha de Produto:** Frango
+*   **Produto:** Peito
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 23,99
+*   **Preço por Unidade/Kg:** R$ 23,99
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 802.jpg
+Aqui estão as informações extraídas da imagem da embalagem:
+
+*   **Marca:** Sadia
+*   **Linha de Produto:** Original
+*   **Produto:** Frango em Cubos
+*   **Peso/Tamanho:** 700g
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** R$ 2,85/100g
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 7891450300327
+*   **Observação:** Promoção
+========================================
+Imagem: 803.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Mais
+*   **Linha de Produto:** Batata
+*   **Produto:** Batata
+*   **Peso/Tamanho:** 2kg
+*   **Preço:** R$ 27,99
+*   **Preço por Unidade/Kg:** R$ 13,99
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Imagem de promoção.
+========================================
+Imagem: 804.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Scotch & Co
+*   **Linha de Produto:** Whisky
+*   **Produto:** (Não especificado no texto, apenas "Whisky")
+*   **Peso/Tamanho:** 700ml
+*   **Preço:** R$ 29,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 8872350
+*   **Observação:** Não há observações específicas no texto.
+========================================
+Imagem: 805.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Omo
+*   **Linha de Produto:** Lavagem Perfeita
+*   **Produto:** Detergente
+*   **Peso/Tamanho:** 1,5 Litros
+*   **Preço:** R$ 39,99
+*   **Preço por Unidade/Kg:** Não informado
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não informado
+*   **Observação:** Não há observações adicionais no texto fornecido.
+========================================
+Imagem: 806.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Smirnoff
+*   **Linha de Produto:** Vodka
+*   **Produto:** Smirnoff Vodka
+*   **Peso/Tamanho:** 275ml
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 807.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sericina
+*   **Linha de Produto:** Leite
+*   **Produto:** Leite em Pó
+*   **Peso/Tamanho:** 800g
+*   **Preço:** 28,99
+*   **Preço por Unidade/Kg:** (Não especificado, mas pode ser calculado considerando o preço e o peso)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** 789048706003
+*   **Observação:** (Não especificado)
+========================================
+Imagem: 808.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** FEIO CA
+*   **Linha de Produto:** CA
+*   **Produto:** CARIO CA
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 6,99
+*   **Preço por Unidade/Kg:** R$ 6,99/kg
+*   **Quantidade no Kit/Pacote:** (não especificada no texto, assume-se que é por unidade)
+*   **Códigos de Barras:** (não especificado no texto)
+*   **Observação:** (nenhuma observação especificada no texto)
+========================================
+Imagem: 809.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Extra
+*   **Linha de Produto:** Azeite
+*   **Produto:** Azeite Extra Virgem
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 27,99
+*   **Preço por Unidade/Kg:** Não disponível no texto.
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 7899999999999
+*   **Observação:** Não disponível no texto.
+========================================
+Imagem: 810.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Corona
+*   **Linha de Produto:** Cerveja
+*   **Produto:** Corona
+*   **Peso/Tamanho:** 600 ml
+*   **Preço:** R$ 8,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 811.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** PICANHA ARGENTINA
+*   **Linha de Produto:**  (Não especificado no texto)
+*   **Produto:** PICANHA
+*   **Peso/Tamanho:** 900g
+*   **Preço:** R$ 79,99
+*   **Preço por Unidade/Kg:** (Não especificado, apenas o preço total)
+*   **Quantidade no Kit/Pacote:** (Não especificado)
+*   **Códigos de Barras:** 72001208604045
+*   **Observação:** (Não há observações no texto)
+========================================
+Imagem: 812.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Não identificada
+*   **Peso/Tamanho:** Não identificada
+*   **Preço:** R$ 49,99
+*   **Preço por Unidade/Kg:** Não aplicável (o preço é por pacote)
+*   **Quantidade no Kit/Pacote:** Não identificada
+*   **Códigos de Barras:** 7006797006797
+*   **Observação:** Não identificada
+========================================
+Imagem: 813.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Lactol
+*   **Linha de Produto:** Creme de Leite
+*   **Produto:** Creme de Leite Lactol
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** (Não informado diretamente, mas pode ser calculado como R$ 3,99 / 200g = R$ 0,0199 por grama)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não informado na imagem)
+*   **Observação:** (Não há observações específicas no texto da imagem)
+========================================
+Imagem: 814.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Parmalat
+*   **Linha de Produto:** Leite Condensado
+*   **Produto:** Leite Condensado Morangos
+*   **Peso/Tamanho:** 395g
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas presumivelmente calculado a partir do peso e preço)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** 99870009987000
+*   **Observação:** (Não há observações específicas no texto fornecido)
+========================================
+Imagem: 815.jpg
+Aqui está a análise do texto da imagem, organizada conforme as suas instruções:
+
+*   **Marca:** NÃO INFORMADA
+*   **Linha de Produto:** NÃO INFORMADA
+*   **Produto:** NÃO INFORMADA
+*   **Peso/Tamanho:** 900g
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** NÃO INFORMADO
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** NÃO INFORMADA
+*   **Observação:**  Promoção.
+========================================
+Imagem: 816.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Oreo
+*   **Linha de Produto:** Chocolate
+*   **Produto:** Bis Oreo Chocolate
+*   **Peso/Tamanho:** 350g
+*   **Preço:** R$ 29,90
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas é o preço por 350g)
+*   **Quantidade no Kit/Pacote:** 1 pacote
+*   **Códigos de Barras:** 9887-2350
+*   **Observação:** (Não há observações específicas no texto).
+========================================
+Imagem: 817.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Frango
+*   **Linha de Produto:** Frango
+*   **Produto:** Frango
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 18,99
+*   **Preço por Unidade/Kg:** R$ 18,99
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 818.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada (imagem desfocada)
+*   **Linha de Produto:** Tomate
+*   **Produto:** Tomate
+*   **Peso/Tamanho:** Não identificado
+*   **Preço:** R$ 1,99
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** Não identificado
+*   **Códigos de Barras:** Não identificado
+*   **Observação:** Não identificada
+========================================
+Imagem: 819.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Rede
+*   **Linha de Produto:** Carro
+*   **Produto:** Limpa Carro
+*   **Peso/Tamanho:** 500g
+*   **Preço:** R$ 49,90
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas infere-se que é o preço total dividido pelo peso)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** 72987230
+*   **Observação:** (A imagem não contém outras observações relevantes)
+========================================
+Imagem: 820.jpg
+Aqui está a análise das informações do preço extraído da imagem:
+
+*   **Marca:** Cristal
+*   **Linha de Produto:** Açúcar
+*   **Produto:** Açúcar Refinado
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 2,99
+*   **Preço por Unidade/Kg:**  R$ 2,99/kg
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 821.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ovos
+*   **Linha de Produto:** Grandes
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** Grandes
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** Não especificado no texto.
+*   **Observação:** Não especificado no texto.
+========================================
+Imagem: 822.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Rede
+*   **Linha de Produto:** Alface
+*   **Produto:** Alface
+*   **Peso/Tamanho:** 1,30 kg
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** R$ 4,99
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 823.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** PAMPOS
+*   **Linha de Produto:** Massas
+*   **Produto:** Massas de Pão
+*   **Peso/Tamanho:** 235g
+*   **Preço:** R$ 4,29
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** 12 unidades
+*   **Códigos de Barras:** 9987235
+*   **Observação:** Oferta com o pacote de biscoito de chocolate.
+========================================
+Imagem: 824.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** O Boticário
+*   **Linha de Produto:**  Ritual de beleza
+*   **Produto:** Creme de Corpo
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 8,99
+*   **Preço por Unidade/Kg:**  Não especificado (informação não presente no texto)
+*   **Quantidade no Kit/Pacote:**  Não especificado (informação não presente no texto)
+*   **Códigos de Barras:**  Não especificado (informação não presente no texto)
+*   **Observação:**  Ritual de beleza
+========================================
+Imagem: 825.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** Somme
+*   **Linha de Produto:** Galinha Caseira
+*   **Produto:** Peito de Frango
+*   **Peso/Tamanho:** 14
+*   **Preço:** 99
+*   **Preço por Unidade/Kg:** 99
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Promoção
+========================================
+Imagem: 826.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Não identificada
+*   **Peso/Tamanho:** Não identificada
+*   **Preço:** 17,99
+*   **Preço por Unidade/Kg:** Não identificada
+*   **Quantidade no Kit/Pacote:** Não identificada
+*   **Códigos de Barras:** Não identificada
+*   **Observação:** Não identificada
+========================================
+Imagem: 827.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Mussarela
+*   **Linha de Produto:**
+*   **Produto:** Mussarela
+*   **Peso/Tamanho:** 58
+*   **Preço:** 39,99
+*   **Preço por Unidade/Kg:**  (Informação não disponível no texto)
+*   **Quantidade no Kit/Pacote:** (Informação não disponível no texto)
+*   **Códigos de Barras:** (Informação não disponível no texto)
+*   **Observação:** (Informação não disponível no texto)
+========================================
+Imagem: 828.jpg
+Aqui está a análise do texto da imagem, formatada conforme solicitado:
+
+*   **Marca:**  Massa de Sourdé
+*   **Linha de Produto:**  Pizza
+*   **Produto:**  Massa de Pizza
+*   **Peso/Tamanho:** 250g
+*   **Preço:** R$ 26,99
+*   **Preço por Unidade/Kg:**  Não especificado, mas dado o peso, o preço por grama é R$ 1,04
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:**  Não especificado
+*   **Observação:**  Promoção (não detalhada no texto)
+========================================
+Imagem: 829.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Café D'ric
+*   **Linha de Produto:** Trés Coffee
+*   **Produto:** Café
+*   **Peso/Tamanho:** 100g
+*   **Preço:** R$ 25,99
+*   **Preço por Unidade/Kg:** (Não especificado diretamente, apenas o preço por pacote de 100g)
+*   **Quantidade no Kit/Pacote:** 1 pacote de 100g
+*   **Códigos de Barras:** (Não especificado)
+*   **Observação:** (Não especificado)
+========================================
+Imagem: 830.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Cappuccino
+*   **Linha de Produto:** Capsulas de Café
+*   **Produto:** Capsulas de Café
+*   **Peso/Tamanho:** 25g
+*   **Preço:** 15,49
+*   **Preço por Unidade/Kg:** Não especificado (informação não disponível no texto)
+*   **Quantidade no Kit/Pacote:** Não especificado (informação não disponível no texto)
+*   **Códigos de Barras:** Não especificado (informação não disponível no texto)
+*   **Observação:** Promoção
+========================================
+Imagem: 831.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Santa Coffee
+*   **Linha de Produto:** Café
+*   **Produto:** Café Torrado e Moído
+*   **Peso/Tamanho:** 250g
+*   **Preço:** R$ 18,99
+*   **Preço por Unidade/Kg:** Não especificado (deduzindo da informação do peso)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Produto em promoção.
+========================================
+Imagem: 832.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Intimina
+*   **Linha de Produto:** Tripla Cobertura
+*   **Produto:** Lenços Umedecidos
+*   **Peso/Tamanho:** 96 unidades
+*   **Preço:** R$ 14,99
+*   **Preço por Unidade/Kg:** R$ 0,63 (aproximadamente)
+*   **Quantidade no Kit/Pacote:** 96 unidades
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Promoção – Comprar 2 e levar 3.
+========================================
+Imagem: 833.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Nestlé
+*   **Linha de Produto:** Moca
+*   **Produto:** TP395g
+*   **Peso/Tamanho:** 395g
+*   **Preço:** 7,49
+*   **Preço por Unidade/Kg:** (Não especificado no texto, precisa ser calculado a partir do peso e preço)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não especificado no texto, precisa ser obtido na imagem ou em outro local)
+*   **Observação:** (Não há observações específicas no texto fornecido)
+========================================
+Imagem: 834.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Natilla
+*   **Linha de Produto:** Cremosa
+*   **Produto:** Diversão
+*   **Peso/Tamanho:** 600g
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** Não especificado no texto
+*   **Observação:** Cremosa
+========================================
+Imagem: 835.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Natilla
+*   **Linha de Produto:** N/A (não especificado no texto)
+*   **Produto:** N/A (não especificado no texto)
+*   **Peso/Tamanho:** 500g
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** N/A (Não há informação sobre preço por kg)
+*   **Quantidade no Kit/Pacote:** N/A (Não especificado no texto)
+*   **Códigos de Barras:** N/A (Não especificado no texto)
+*   **Observação:** N/A (Não especificado no texto)
+========================================
+Imagem: 836.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ovos
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 18,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** 30 unidades
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 837.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** OLEO VILA HELHA
+*   **Linha de Produto:** PET
+*   **Produto:** ÓLEO
+*   **Peso/Tamanho:** 500ML
+*   **Preço:** R$7,99
+*   **Preço por Unidade/Kg:** Não fornecido no texto.
+*   **Quantidade no Kit/Pacote:** Não fornecido no texto.
+*   **Códigos de Barras:** Não fornecido no texto.
+*   **Observação:**  (A imagem mostra um cartaz de promoção)
+========================================
+Imagem: 838.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** KROÉRIA
+*   **Linha de Produto:** (Não especificado no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** (Não especificado no texto)
+*   **Preço:** 19,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 668
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 839.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Queijo Parmesão
+*   **Linha de Produto:** Limão
+*   **Produto:** Queijo Parmesão Limão
+*   **Peso/Tamanho:** 195g
+*   **Preço:** R$ 12,89
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 840.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Lactalis
+*   **Linha de Produto:** Salsichão
+*   **Produto:** Salsichão
+*   **Peso/Tamanho:** 90g
+*   **Preço:** R$ 7,99
+*   **Preço por Unidade/Kg:** (Não especificado, dado o peso)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** (Sem observações específicas no texto fornecido)
+========================================
+Imagem: 841.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Gaseif
+*   **Linha de Produto:** Não especificado no texto
+*   **Produto:** Água Gaseificada
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 27,99
+*   **Preço por Unidade/Kg:** Não aplicável (produto líquido)
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** 7065412005
+*   **Observação:** Promoção de 2 unidades por R$ 27,99
+========================================
+Imagem: 842.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mallory
+*   **Linha de Produto:** Não especificado no texto.
+*   **Produto:** Não especificado no texto.
+*   **Peso/Tamanho:** Não especificado no texto.
+*   **Preço:** R$ 69,00
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** Não especificado no texto.
+*   **Observação:** Não especificado no texto.
+========================================
+Imagem: 843.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** MOCOCA
+*   **Linha de Produto:** CREME
+*   **Produto:** CREME
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 1,99
+*   **Preço por Unidade/Kg:** R$ 0,0975/g (R$ 9,75/Kg)
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** 788405449668
+*   **Observação:** Promoção
+========================================
+Imagem: 844.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** REZENE
+*   **Linha de Produto:** Massa de Pizza
+*   **Produto:** Massa de Pizza Congelada
+*   **Peso/Tamanho:** 400g
+*   **Preço:** R$ 13,76
+*   **Preço por Unidade/Kg:** Não especificado (apenas o preço total do produto)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações adicionais no texto.
+========================================
+Imagem: 845.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mussarela
+*   **Linha de Produto:** (Não especificado no texto)
+*   **Produto:** Mussarela
+*   **Peso/Tamanho:** 266g
+*   **Preço:** R$ 31,90
+*   **Preço por Unidade/Kg:** (Não especificado, mas o preço é por 266g)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 789387120397
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 846.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** O Boticário
+*   **Linha de Produto:** Essências
+*   **Produto:** Amor em Flor
+*   **Peso/Tamanho:** 100ml
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** Não aplicável (produto líquido)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 7891440172017
+*   **Observação:** Kit com 3 fragrâncias (Amor em Flor, Alma Infiel, Emoção).
+========================================
+Imagem: 847.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Treviso
+*   **Linha de Produto:** Premium
+*   **Produto:** Mussarela de Queijo
+*   **Peso/Tamanho:** 250g
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, apenas o preço por peso)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Premium
+========================================
+Imagem: 848.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Bresso
+*   **Linha de Produto:** Tomates Cereja
+*   **Produto:** Tomates Cereja
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$6,09
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Tomates Cereja
+========================================
+Imagem: 849.jpg
+Aqui está a análise do texto extraído da imagem, organizada conforme as instruções:
+
+*   **Marca:** Sergio
+*   **Linha de Produto:** Granulado
+*   **Produto:** Granulado de Arroz
+*   **Peso/Tamanho:** 5kg
+*   **Preço:** R$ 34,90
+*   **Preço por Unidade/Kg:** R$ 6,98
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 7290000168703
+*   **Observação:** Kit com 2 unidades
+========================================
+Imagem: 850.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Pedigree
+*   **Linha de Produto:** Adultos
+*   **Produto:** Rações
+*   **Peso/Tamanho:** 12.5 kg
+*   **Preço:** R$ 34,99
+*   **Preço por Unidade/Kg:** R$ 2,79
+*   **Quantidade no Kit/Pacote:** Não especificado (considerar que se trata de um pacote grande)
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Promocional (Preço indicado é promocional)
+========================================
+Imagem: 851.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Drago
+*   **Linha de Produto:** Água Sanitária
+*   **Produto:** Água Sanitária
+*   **Peso/Tamanho:** 5 Litros
+*   **Preço:** R$ 1,55
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Promoção de R$ 1,55
+========================================
+Imagem: 852.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Arroz União
+*   **Linha de Produto:** Arroz Tipo 1
+*   **Produto:** Arroz Tipo 1
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** Não especificado
+*   **Preço por Unidade/Kg:** R$ 9,80
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 7899700000006
+*   **Observação:** Pacote de 1kg
+========================================
+Imagem: 853.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Aceitona S/
+*   **Linha de Produto:** Conserva
+*   **Produto:** Azeitona
+*   **Peso/Tamanho:** 420g
+*   **Preço:** (Não especificado no texto)
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 854.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Dielva
+*   **Linha de Produto:** Macarão
+*   **Produto:** Macarão
+*   **Peso/Tamanho:** 500g
+*   **Preço:** 14,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas inferido pelo peso e preço)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 99
+*   **Observação:** (Não presente no texto)
+========================================
+Imagem: 855.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Galicia
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 350ml
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Promocional
+========================================
+Imagem: 856.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Cafea
+*   **Linha de Produto:** Nescafé
+*   **Produto:** Nescafé
+*   **Peso/Tamanho:** 80g
+*   **Preço:** 22,99
+*   **Preço por Unidade/Kg:** 15,39
+*   **Quantidade no Kit/Pacote:** 10
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Kit com 10 cápsulas.
+========================================
+Imagem: 857.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** 3,30
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 3,30
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 858.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Ovos
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** Não identificado
+*   **Preço:** R$ 16,99
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** 30
+*   **Códigos de Barras:** Não identificada
+*   **Observação:** Não identificada
+========================================
+Imagem: 859.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Copacabana
+*   **Linha de Produto:** Peito de Frango
+*   **Produto:** Peito de Frango
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 22,90
+*   **Preço por Unidade/Kg:** R$ 22,90
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** 789123456789
+*   **Observação:** Produto com preço promocional.
+========================================
+Imagem: 860.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Princess
+*   **Linha de Produto:** Cerveja
+*   **Produto:** Gold
+*   **Peso/Tamanho:** 600ml
+*   **Preço:** R$ 2,89
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** 7777009037132
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 861.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:**  Feijão
+*   **Linha de Produto:**  (Não especificado no texto)
+*   **Produto:** Feijão
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 5,90
+*   **Preço por Unidade/Kg:** R$ 5,90
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 862.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Chefe
+*   **Linha de Produto:** Feijão
+*   **Produto:** Feijão
+*   **Peso/Tamanho:** 500g
+*   **Preço:** R$ 6,29
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas inferido como R$ 12,58 por kg, considerando o preço da unidade e o peso)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 863.jpg
+Aqui estão as informações extraídas do texto OCR da imagem:
+
+*   **Marca:** Monster
+*   **Linha de Produto:** Energy
+*   **Produto:** (Informação não especificada no texto)
+*   **Peso/Tamanho:** 473 ml
+*   **Preço:** R$ 7,99
+*   **Preço por Unidade/Kg:** (Informação não especificada no texto)
+*   **Quantidade no Kit/Pacote:** (Informação não especificada no texto)
+*   **Códigos de Barras:** (Informação não especificada no texto)
+*   **Observação:** (Informação não especificada no texto)
+========================================
+Imagem: 864.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Caju
+*   **Linha de Produto:** Caju
+*   **Produto:** Caju
+*   **Peso/Tamanho:** 200ml
+*   **Preço:** R$ 18,96
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações específicas no texto.
+========================================
+Imagem: 865.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:**  Lider
+*   **Linha de Produto:**  Cremosa
+*   **Produto:**  Manteiga Cremosa
+*   **Peso/Tamanho:** 250g
+*   **Preço:** R$ 11,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** 2 unidades
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Com 25% a mais de creme.
+========================================
+Imagem: 866.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mônica
+*   **Linha de Produto:** Baby
+*   **Produto:**  (Informação não especificada no texto, provavelmente referente a um produto específico da linha Baby)
+*   **Peso/Tamanho:** 90g
+*   **Preço:** R$ 2,60
+*   **Preço por Unidade/Kg:** (Não aplicável, pois o produto é expresso em gramas)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 7708637001290
+*   **Observação:** (Texto genérico de promoção)
+========================================
+Imagem: 867.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Rommel
+*   **Linha de Produto:** BCO
+*   **Produto:** T1
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 34,90
+*   **Preço por Unidade/Kg:** R$ 34,90
+*   **Quantidade no Kit/Pacote:** (informação não presente no texto)
+*   **Códigos de Barras:** (informação não presente no texto)
+*   **Observação:**  (informação não presente no texto)
+========================================
+Imagem: 868.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** ACUCAR
+*   **Linha de Produto:** NOTA
+*   **Produto:** ACUCAR
+*   **Peso/Tamanho:** 1KG
+*   **Preço:** R$ 19,90
+*   **Preço por Unidade/Kg:** R$ 19,90
+*   **Quantidade no Kit/Pacote:** Não especificado (apenas "nota")
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  (Não há observação específica no texto fornecido)
+========================================
+Imagem: 869.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Massa
+*   **Linha de Produto:**  Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  A imagem é de uma promoção
+========================================
+Imagem: 870.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** NESPRESSO
+*   **Linha de Produto:** Cápsulas
+*   **Produto:**  Cápsulas de Café
+*   **Peso/Tamanho:** 10 Cápsulas
+*   **Preço:** 14,90
+*   **Preço por Unidade/Kg:**  Não especificado (apenas preço por pacote)
+*   **Quantidade no Kit/Pacote:** 10 Cápsulas
+*   **Códigos de Barras:** 44 012000 947001
+*   **Observação:**  Promoção de 10 cápsulas por R$ 14,90
+========================================
+Imagem: 871.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Piracanjuba
+*   **Linha de Produto:**  Não especificada no texto
+*   **Produto:** Não especificado no texto
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 2,69
+*   **Preço por Unidade/Kg:** Não especificado, mas pode ser calculado a partir do preço total.
+*   **Quantidade no Kit/Pacote:** Não especificada no texto
+*   **Códigos de Barras:** 70902151704
+*   **Observação:**  A promoção é de R$ 2,69 por 200g.
+========================================
+Imagem: 872.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Melitta
+*   **Linha de Produto:** Café
+*   **Produto:** 250g
+*   **Peso/Tamanho:** 250g
+*   **Preço:** R$ 7,45
+*   **Preço por Unidade/Kg:** (Não especificado diretamente, apenas o preço unitário)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** (Nenhuma observação presente no texto)
+========================================
+Imagem: 873.jpg
+Aqui está a análise do texto extraído da imagem:
+
+*   **Marca:** Marilan
+*   **Linha de Produto:** Crackers
+*   **Produto:** Crackers
+*   **Peso/Tamanho:** 350g
+*   **Preço:** R$ 3,95
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** 7800256229519
+*   **Observação:** Produto em promoção.
+========================================
+Imagem: 874.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** LEITE UVIT
+*   **Linha de Produto:** Não especificado no texto.
+*   **Produto:** Não especificado no texto.
+*   **Peso/Tamanho:** 1L
+*   **Preço:** R$ 4,69
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** 4,80
+*   **Códigos de Barras:** Não especificado no texto.
+*   **Observação:** Pacote de 4 unidades de 1L.
+========================================
+Imagem: 875.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Bovina
+*   **Linha de Produto:**  Não especificado no texto
+*   **Produto:** Frango em Cubos
+*   **Peso/Tamanho:** 500g
+*   **Preço:** R$ 51,00
+*   **Preço por Unidade/Kg:** Não especificado no texto
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** Não especificado no texto
+*   **Observação:**  Promoção (a promoção não está descrita no texto)
+========================================
+Imagem: 876.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Não informada
+*   **Linha de Produto:** Batata
+*   **Produto:** Batata
+*   **Peso/Tamanho:** Não informado
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** Não informado
+*   **Quantidade no Kit/Pacote:** Não informado
+*   **Códigos de Barras:** Não informado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 877.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Aurora
+*   **Linha de Produto:** Salmão
+*   **Produto:** Salmão
+*   **Peso/Tamanho:** 100g
+*   **Preço:** 9,90
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 7001670016700
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 878.jpg
+Aqui está a análise das informações do texto da imagem:
+
+*   **Marca:** ASSAI
+*   **Linha de Produto:** Ovos
+*   **Produto:** Ovos caipiras
+*   **Peso/Tamanho:** 30 unidades
+*   **Preço:** Não especificado no texto
+*   **Preço por Unidade/Kg:** Não especificado no texto
+*   **Quantidade no Kit/Pacote:** 30 unidades
+*   **Códigos de Barras:** Não especificado no texto
+*   **Observação:** Não há observações no texto fornecido.
+========================================
+Imagem: 879.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** [Não identificada no texto]
+*   **Linha de Produto:** Tomates
+*   **Produto:** Tomates Cereja
+*   **Peso/Tamanho:** 150g
+*   **Preço:** R$ 6,99
+*   **Preço por Unidade/Kg:** (Não especificado, calculado a partir do peso e preço)
+*   **Quantidade no Kit/Pacote:** 200g
+*   **Códigos de Barras:** (Não identificados no texto)
+*   **Observação:** (Não identificada no texto)
+========================================
+Imagem: 880.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Leite
+*   **Linha de Produto:** Integral
+*   **Produto:** Leite Integral
+*   **Peso/Tamanho:** 1L
+*   **Preço:** R$6,28
+*   **Preço por Unidade/Kg:** Não informado
+*   **Quantidade no Kit/Pacote:** Não informado
+*   **Códigos de Barras:** 69, 56, 28
+*   **Observação:**  Promoção
+========================================
+Imagem: 881.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada no texto.
+*   **Linha de Produto:** Cebola
+*   **Produto:** Cebola
+*   **Peso/Tamanho:** Não identificado no texto.
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** Não identificado no texto.
+*   **Quantidade no Kit/Pacote:** Não identificado no texto.
+*   **Códigos de Barras:** Não identificado no texto.
+*   **Observação:** Não identificado no texto.
+========================================
+Imagem: 882.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Dale
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** 500g
+*   **Preço:** 2,49
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 310856
+*   **Observação:** Não especificado
+========================================
+Imagem: 883.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Maizena
+*   **Linha de Produto:** Biscoito
+*   **Produto:** Biscoito Maizena
+*   **Peso/Tamanho:** 350g
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** Não especificado no texto.
+*   **Observação:**  (Apenas "R$ 4,99" indicando o preço)
+========================================
+Imagem: 884.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Repel
+*   **Linha de Produto:** Gel
+*   **Produto:** Repel Gel contra Mosquitos
+*   **Peso/Tamanho:** 200ml
+*   **Preço:** R$ 27,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 885.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:**  (Não identificada no texto)
+*   **Linha de Produto:** (Não identificada no texto)
+*   **Produto:** (Não identificado no texto)
+*   **Peso/Tamanho:** 529.90
+*   **Preço:** 39.90
+*   **Preço por Unidade/Kg:** Não fornecido (apenas o peso total do kit)
+*   **Quantidade no Kit/Pacote:** Não especificada
+*   **Códigos de Barras:** Não identificados
+*   **Observação:**  (Não há observações no texto)
+========================================
+Imagem: 886.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Victoria Plast
+*   **Linha de Produto:**  Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 39,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Kit Completo
+========================================
+Imagem: 887.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Gold
+*   **Linha de Produto:** Cromo
+*   **Produto:** Chave
+*   **Peso/Tamanho:** 50cm
+*   **Preço:** Não especificado
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 888.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** BEL
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Chocolate
+*   **Peso/Tamanho:** 350g
+*   **Preço:** R$ 129,89
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** Não identificado
+*   **Códigos de Barras:** Não identificada
+*   **Observação:** Não identificada
+========================================
+Imagem: 889.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** BLACK
+*   **Linha de Produto:** FRIDAY
+*   **Produto:**  (Informação não presente no texto)
+*   **Peso/Tamanho:** (Informação não presente no texto)
+*   **Preço:** 47,90
+*   **Preço por Unidade/Kg:** (Informação não presente no texto)
+*   **Quantidade no Kit/Pacote:** (Informação não presente no texto)
+*   **Códigos de Barras:** (Informação não presente no texto)
+*   **Observação:** (Informação não presente no texto)
+========================================
+Imagem: 890.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** CasaOK
+*   **Linha de Produto:** Torneira
+*   **Produto:** Torneira
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$79,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 891.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** OK
+*   **Linha de Produto:** Higiênica
+*   **Produto:** (Não especificado no texto, apenas "Higiênica")
+*   **Peso/Tamanho:** (Não especificado no texto)
+*   **Preço:** (Não especificado no texto)
+*   **Preço por Unidade/Kg:** 0,90
+*   **Quantidade no Kit/Pacote:** 21
+*   **Códigos de Barras:** 5640
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 892.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Casa OK
+*   **Linha de Produto:** Banheiro
+*   **Produto:** Kit
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 29,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Kit
+========================================
+Imagem: 893.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:**  (não identificada no texto fornecido)
+*   **Linha de Produto:** (não identificada no texto fornecido)
+*   **Produto:**  (não identificado no texto fornecido)
+*   **Peso/Tamanho:** 470ml
+*   **Preço:** 13,90
+*   **Preço por Unidade/Kg:** (não identificado no texto fornecido)
+*   **Quantidade no Kit/Pacote:** (não identificado no texto fornecido)
+*   **Códigos de Barras:** (não identificado no texto fornecido)
+*   **Observação:** (não identificado no texto fornecido)
+========================================
+Imagem: 894.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** OK
+*   **Linha de Produto:**  (Não especificado no texto)
+*   **Produto:**  (Não especificado no texto)
+*   **Peso/Tamanho:**  69,90
+*   **Preço:** 69,90
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:**  (Não especificado no texto)
+*   **Observação:**  (Não especificado no texto)
+========================================
+Imagem: 895.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada (texto ilegível)
+*   **Linha de Produto:** Banana
+*   **Produto:** Banana
+*   **Peso/Tamanho:** Não identificado (texto ilegível)
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** Não identificável
+*   **Quantidade no Kit/Pacote:** Não identificável
+*   **Códigos de Barras:** Não identificável
+*   **Observação:**  Preço promocional.
+========================================
+Imagem: 896.jpg
+Aqui está a análise do texto da imagem, listada conforme suas instruções:
+
+*   **Marca:** Omo
+*   **Linha de Produto:** Limpeza
+*   **Produto:** Detergente
+*   **Peso/Tamanho:** 1 Litro
+*   **Preço:** R$ 29,90
+*   **Preço por Unidade/Kg:** Não especificado (informação faltante)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** Não especificado (informação faltante)
+*   **Observação:** Não há observações específicas no texto fornecido.
+========================================
+Imagem: 897.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Nutri Kids
+*   **Linha de Produto:** Forti Kids
+*   **Produto:** Forti Kids
+*   **Peso/Tamanho:** 750g
+*   **Preço:** R$ 28,99
+*   **Preço por Unidade/Kg:** (Não identificado no texto, apenas o preço do pacote)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não identificado no texto)
+*   **Observação:** (O texto parece ser uma promoção/oferta de preço)
+========================================
+Imagem: 898.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Snickers
+*   **Linha de Produto:** Chocolate
+*   **Produto:** Barra
+*   **Peso/Tamanho:** 90g
+*   **Preço:** R$ 2,89
+*   **Preço por Unidade/Kg:** Não disponível no texto.
+*   **Quantidade no Kit/Pacote:** Não disponível no texto.
+*   **Códigos de Barras:** 789147205360
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 899.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** SUKITA
+*   **Linha de Produto:** REFRIG
+*   **Produto:**  (Informação não especificada no texto)
+*   **Peso/Tamanho:** 2L
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** (Informação não especificada no texto)
+========================================
+Imagem: 900.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Decorat
+*   **Linha de Produto:** N/D
+*   **Produto:** N/D
+*   **Peso/Tamanho:** N/D
+*   **Preço:** 11,90
+*   **Preço por Unidade/Kg:** N/D
+*   **Quantidade no Kit/Pacote:** N/D
+*   **Códigos de Barras:** N/D
+*   **Observação:** N/D
+========================================
+Imagem: 901.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Não informada.
+*   **Linha de Produto:** Chocolate
+*   **Produto:** Chocolate
+*   **Peso/Tamanho:** Não informado.
+*   **Preço:** R$ 89,90
+*   **Preço por Unidade/Kg:** Não informado.
+*   **Quantidade no Kit/Pacote:** Não informado.
+*   **Códigos de Barras:** H052860
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 902.jpg
+Aqui está a análise do texto extraído da imagem, organizado conforme as instruções:
+
+*   **Marca:** BISSOTTO
+*   **Linha de Produto:** Caffè
+*   **Produto:** Caffè
+*   **Peso/Tamanho:** 29,90
+*   **Preço:** 29,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 903.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** BLACK
+*   **Linha de Produto:** ENJOY
+*   **Produto:**  (informação não identificada no texto, apenas "produto")
+*   **Peso/Tamanho:** (não identificado no texto)
+*   **Preço:** 3,90
+*   **Preço por Unidade/Kg:** (não identificado no texto)
+*   **Quantidade no Kit/Pacote:** (não identificado no texto)
+*   **Códigos de Barras:** (não identificado no texto)
+*   **Observação:** (não identificada no texto)
+========================================
+Imagem: 904.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** MDF
+*   **Linha de Produto:**  Não especificado no texto
+*   **Produto:** Não especificado no texto
+*   **Peso/Tamanho:** 49,90
+*   **Preço:** Não especificado no texto
+*   **Preço por Unidade/Kg:** Não especificado no texto
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** 6135
+*   **Observação:**  Não especificado no texto
+========================================
+Imagem: 905.jpg
+Aqui estão as informações extraídas do texto bruto da imagem:
+
+*   **Marca:** Decor
+*   **Linha de Produto:** Nicho MDF
+*   **Produto:** MDF
+*   **Peso/Tamanho:** 15mm
+*   **Preço:** R$ 89,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** 3
+*   **Códigos de Barras:** HD42793
+*   **Observação:** Não especificada
+========================================
+Imagem: 906.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** DECÓSMO
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 19,66
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 4006473321
+*   **Observação:** Não especificado
+========================================
+Imagem: 907.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Decor
+*   **Linha de Produto:** HD
+*   **Produto:** Não especificado (texto truncado)
+*   **Peso/Tamanho:** Não especificado (texto truncado)
+*   **Preço:** R$ 33,90
+*   **Preço por Unidade/Kg:** Não especificado (texto truncado)
+*   **Quantidade no Kit/Pacote:** Não especificado (texto truncado)
+*   **Códigos de Barras:** Não especificado (texto truncado)
+*   **Observação:** Não especificado (texto truncado)
+========================================
+Imagem: 908.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Casa OK
+*   **Linha de Produto:** Banheiro
+*   **Produto:** (Informação não especificada no texto, apenas "Banheiro")
+*   **Peso/Tamanho:** (Informação não especificada no texto)
+*   **Preço:** (Informação não especificada no texto)
+*   **Preço por Unidade/Kg:** (Informação não especificada no texto)
+*   **Quantidade no Kit/Pacote:** 5
+*   **Códigos de Barras:** (Informação não especificada no texto)
+*   **Observação:** (Informação não especificada no texto)
+========================================
+Imagem: 909.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** Lysol
+*   **Linha de Produto:** Desinfetante
+*   **Produto:** Spray
+*   **Peso/Tamanho:** 400ml
+*   **Preço:** R$ 9,90
+*   **Preço por Unidade/Kg:** (Não especificado no texto fornecido)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto fornecido)
+*   **Códigos de Barras:** (Não especificado no texto fornecido)
+*   **Observação:** (Não especificado no texto fornecido)
+========================================
+Imagem: 910.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Johnson
+*   **Linha de Produto:** Multiuso
+*   **Produto:** Multiuso
+*   **Peso/Tamanho:** 750ml
+*   **Preço:** R$ 9,98
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 911.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Creme
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** 200g
+*   **Preço:** Não especificado
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 912.jpg
+Aqui está a análise do texto extraído da imagem, formatada conforme solicitado:
+
+*   **Marca:** ARBO
+*   **Linha de Produto:** ARBO
+*   **Produto:** ARO
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 14,90
+*   **Preço por Unidade/Kg:** R$ 14,90
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Promoção
+========================================
+Imagem: 913.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Urbano
+*   **Linha de Produto:** (Não especificado no texto)
+*   **Produto:**  (Não especificado no texto)
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 3,60
+*   **Preço por Unidade/Kg:** R$ 3,60
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 914.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Farinha de Trigo
+*   **Linha de Produto:** Farinha de Trigo
+*   **Produto:** Farinha de Trigo
+*   **Peso/Tamanho:** 1kg
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** R$ 4,99
+*   **Quantidade no Kit/Pacote:** Não especificado na imagem
+*   **Códigos de Barras:** Não especificado na imagem
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 915.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Monster
+*   **Linha de Produto:** Energia
+*   **Produto:** Original
+*   **Peso/Tamanho:** 473ml
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto fornecido)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto fornecido)
+*   **Códigos de Barras:** (Não especificado no texto fornecido)
+*   **Observação:** (Não especificado no texto fornecido)
+========================================
+Imagem: 916.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** C a t u r i
+*   **Linha de Produto:**  
+*   **Produto:**  
+*   **Peso/Tamanho:** 500g
+*   **Preço:**  
+*   **Preço por Unidade/Kg:**  
+*   **Quantidade no Kit/Pacote:**  
+*   **Códigos de Barras:**  
+*   **Observação:**  
+
+**Nota:** O texto da imagem é incompleto e contém informações faltando, o que dificulta a extração completa das informações do produto.
+========================================
+Imagem: 917.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** ZERO
+*   **Linha de Produto:** LEITE
+*   **Produto:** LEITE DESNATADO
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 2,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 4037
+*   **Observação:** Validade: 01/12/2022
+========================================
+Imagem: 918.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Panex
+*   **Linha de Produto:**  (Não identificada no texto)
+*   **Produto:**  Limpa Pesado
+*   **Peso/Tamanho:** 4 Litros
+*   **Preço:** R$ 39,90
+*   **Preço por Unidade/Kg:** (Não identificado no texto)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não identificado no texto)
+*   **Observação:** (Não identificada no texto)
+========================================
+Imagem: 919.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** CYBER SECURITY
+*   **Linha de Produto:** FULL 74579
+*   **Produto:** FULL 74579
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** 29,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 74579
+*   **Observação:** Não especificado
+========================================
+Imagem: 920.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** ACII
+*   **Linha de Produto:** Flex
+*   **Produto:** 9243
+*   **Peso/Tamanho:** 20kg
+*   **Preço:** R$ 89,90
+*   **Preço por Unidade/Kg:** Não especificado no texto, mas infere-se que é o preço total dividido pelo peso.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto.
+*   **Códigos de Barras:** 9243
+*   **Observação:** Promocional.
+========================================
+Imagem: 921.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** 59,99
+*   **Linha de Produto:** Não especificado no texto
+*   **Produto:** Não especificado no texto
+*   **Peso/Tamanho:** Não especificado no texto
+*   **Preço:** 59,99
+*   **Preço por Unidade/Kg:** Não especificado no texto
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** Não especificado no texto
+*   **Observação:** Não especificado no texto
+========================================
+Imagem: 922.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Black
+*   **Linha de Produto:** Cereal
+*   **Produto:** Cereal Granola
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 923.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Pintaral
+*   **Linha de Produto:** Acrílica
+*   **Produto:** Tinta Acrílica
+*   **Peso/Tamanho:** 150 ml
+*   **Preço:** R$ 2,89
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 7890004051637
+*   **Observação:** R$ 2,89
+========================================
+Imagem: 924.jpg
+Aqui está a análise do texto extraído da imagem:
+
+*   **Marca:** Acetina
+*   **Linha de Produto:** Panos de Limpeza
+*   **Produto:** Pano de Limpeza
+*   **Peso/Tamanho:** 60 x 90
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** Não especificado (Preço unitário)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 925.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ariel
+*   **Linha de Produto:**  
+*   **Produto:**  
+*   **Peso/Tamanho:** 2.3kg
+*   **Preço:** R$ 31,90
+*   **Preço por Unidade/Kg:** R$ 23,95
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 70664
+*   **Observação:** Nenhuma observação especificada.
+========================================
+Imagem: 926.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** BLACK+DECKER
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 8/5
+*   **Preço:** 299,89
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 927.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** OK
+*   **Linha de Produto:** Não identificada no texto.
+*   **Produto:**  Não identificada no texto.
+*   **Peso/Tamanho:**  Não identificada no texto.
+*   **Preço:** R$ 7,99
+*   **Preço por Unidade/Kg:** Não identificada no texto.
+*   **Quantidade no Kit/Pacote:** Não identificada no texto.
+*   **Códigos de Barras:** 789123456789
+*   **Observação:** "Promoção"
+========================================
+Imagem: 928.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** ELSYS
+*   **Linha de Produto:** Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 59,90
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Promocao.
+========================================
+Imagem: 929.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** ELSYS
+*   **Linha de Produto:** Não especificado no texto
+*   **Produto:** Não especificado no texto
+*   **Peso/Tamanho:** Não especificado no texto
+*   **Preço:** R$ 6,99
+*   **Preço por Unidade/Kg:** Não especificado no texto
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** Não especificado no texto
+*   **Observação:** Não especificado no texto
+========================================
+Imagem: 930.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** BELFIX
+*   **Linha de Produto:**  Caixa
+*   **Produto:**  Caixa 
+*   **Peso/Tamanho:**  18 Litros
+*   **Preço:** 69,90
+*   **Preço por Unidade/Kg:**  N/A (Não fornecido diretamente)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** 7891400089000
+*   **Observação:** N/A
+========================================
+Imagem: 931.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Tommy
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** R$ 4,99
+*   **Quantidade no Kit/Pacote:** (Não especificada no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 932.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não informada
+*   **Linha de Produto:** Banana
+*   **Produto:** Banana
+*   **Peso/Tamanho:** Não informado
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** Não aplicável
+*   **Quantidade no Kit/Pacote:** Não informado
+*   **Códigos de Barras:** Não informado
+*   **Observação:** Não identificada
+========================================
+Imagem: 933.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Copo
+*   **Peso/Tamanho:** 150ml
+*   **Preço:** R$ 6,99
+*   **Preço por Unidade/Kg:** Não aplicável (preço unitário)
+*   **Quantidade no Kit/Pacote:** Não identificada
+*   **Códigos de Barras:** Não identificada
+*   **Observação:** Não identificada
+========================================
+Imagem: 934.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Friboi
+*   **Linha de Produto:** Filé Moído
+*   **Produto:** Filé Moído
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 22,90
+*   **Preço por Unidade/Kg:** R$ 22,90/kg
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** (Não identificado no texto)
+*   **Observação:** (Não identificada no texto)
+========================================
+Imagem: 935.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Marilan
+*   **Linha de Produto:** Crackers
+*   **Produto:** Crackers
+*   **Peso/Tamanho:** 300g
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 936.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada na imagem
+*   **Linha de Produto:** Manga
+*   **Produto:** Manga
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 29,90
+*   **Preço por Unidade/Kg:** R$ 14,95/kg
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não identificados
+*   **Observação:** "Promoção"
+========================================
+Imagem: 937.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ariel
+*   **Linha de Produto:** Lava e Cicla
+*   **Produto:** Lava e Cicla
+*   **Peso/Tamanho:** 900ml
+*   **Preço:** R$ 27,99
+*   **Preço por Unidade/Kg:** Não especificado no texto.
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** 889698009005
+*   **Observação:**  Compre 2 pague 1.
+========================================
+Imagem: 938.jpg
+Aqui estão as informações extraídas da imagem, formatadas conforme solicitado:
+
+*   **Marca:** (Não identificada na imagem)
+*   **Linha de Produto:** Tomate
+*   **Produto:** Tomate
+*   **Peso/Tamanho:** 99g
+*   **Preço:** Não identificado
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** Não identificado
+*   **Observação:** (A imagem mostra um pacote de tomate com 99g)
+========================================
+Imagem: 939.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Dove
+*   **Linha de Produto:** Sabonete
+*   **Produto:** Sabonete 85g Carvão
+*   **Peso/Tamanho:** 85g
+*   **Preço:** 2,39
+*   **Preço por Unidade/Kg:** (Não especificado no texto, presumindo ser por 85g)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** CX72, AM12
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 940.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:**  CX18
+*   **Linha de Produto:**  (Não especificado no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 52.07
+*   **Preço:** 2,89
+*   **Preço por Unidade/Kg:**  Não aplicável (Preço unitário fornecido)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** (Não especificado)
+========================================
+Imagem: 941.jpg
+Aqui estão as informações extraídas do texto da imagem, formatadas conforme solicitado:
+
+*   **Marca:** Crystal
+*   **Linha de Produto:**  Não especificado (apenas "Crystal")
+*   **Produto:**  Não especificado (apenas "Crystal")
+*   **Peso/Tamanho:**  1 kg
+*   **Preço:** R$ 3,19
+*   **Preço por Unidade/Kg:** R$ 3,19
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  "Manter o produto fresco"
+========================================
+Imagem: 942.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Café
+*   **Linha de Produto:**  Não especificado
+*   **Produto:** 10 Corações
+*   **Peso/Tamanho:** 8g
+*   **Preço:** 14,90
+*   **Preço por Unidade/Kg:**  Não especificado
+*   **Quantidade no Kit/Pacote:** 10
+*   **Códigos de Barras:** 7100850000016
+*   **Observação:**  Pacote com 10 unidades.
+========================================
+Imagem: 943.jpg
+Aqui está a análise do texto da imagem do preço do supermercado, formatada conforme suas instruções:
+
+*   **Marca:** Não disponível no texto.
+*   **Linha de Produto:** Melão
+*   **Produto:** Melão Amarelo
+*   **Peso/Tamanho:** 1,9 kg
+*   **Preço:** R$ 10,99
+*   **Preço por Unidade/Kg:** R$ 5,62/kg
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não disponível no texto.
+*   **Observação:** Nenhum.
+========================================
+Imagem: 944.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada (texto em branco)
+*   **Linha de Produto:** Cenouras
+*   **Produto:** Cenouras
+*   **Peso/Tamanho:** Não identificado (texto em branco)
+*   **Preço:** Não identificado (texto em branco)
+*   **Preço por Unidade/Kg:** Não identificado (texto em branco)
+*   **Quantidade no Kit/Pacote:** Não identificado (texto em branco)
+*   **Códigos de Barras:** Não identificado (texto em branco)
+*   **Observação:** Não identificada (texto em branco)
+========================================
+Imagem: 945.jpg
+Aqui está a análise do texto extraído da imagem da promoção:
+
+*   **Marca:** Family
+*   **Linha de Produto:** 40
+*   **Produto:** Air Fryer
+*   **Peso/Tamanho:** 12 Tvn
+*   **Preço:** 379,89
+*   **Preço por Unidade/Kg:** Não especificado (apenas o preço total do kit)
+*   **Quantidade no Kit/Pacote:** Não especificado (assume-se que o preço indica o preço do kit)
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Air Fryer
+========================================
+Imagem: 946.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Lorenzetti
+*   **Linha de Produto:** MultiJet
+*   **Produto:** 139.50mm
+*   **Peso/Tamanho:** 139.50mm
+*   **Preço:** 74,89
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Não há observações no texto.
+========================================
+Imagem: 947.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mondial
+*   **Linha de Produto:** Power
+*   **Produto:** Liquidificador
+*   **Peso/Tamanho:** 550ml
+*   **Preço:** R$ 79,90
+*   **Preço por Unidade/Kg:** (Informação não disponível no texto)
+*   **Quantidade no Kit/Pacote:** Não especificado no texto
+*   **Códigos de Barras:** 7890008740337
+*   **Observação:** (Não há observações específicas no texto)
+========================================
+Imagem: 948.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Duratex
+*   **Linha de Produto:** MDF
+*   **Produto:** Porta
+*   **Peso/Tamanho:** 72mm
+*   **Preço:** 499,90
+*   **Preço por Unidade/Kg:** Informação não disponível no texto
+*   **Quantidade no Kit/Pacote:** Informação não disponível no texto
+*   **Códigos de Barras:** 760160160160
+*   **Observação:** Informação não disponível no texto
+========================================
+Imagem: 949.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Não identificada
+*   **Peso/Tamanho:** Não identificada
+*   **Preço:** R$ 2,90
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** Não identificado
+*   **Códigos de Barras:** 72139
+*   **Observação:** Não identificada
+========================================
+Imagem: 950.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Suvin
+*   **Linha de Produto:** Acrílica
+*   **Produto:** Acrílica
+*   **Peso/Tamanho:** 2,5kg
+*   **Preço:** R$ 139,90
+*   **Preço por Unidade/Kg:** R$ 139,90 / 2,5kg = R$ 55,96/kg
+*   **Quantidade no Kit/Pacote:** Não especificado na imagem
+*   **Códigos de Barras:** Não especificado na imagem
+*   **Observação:** Promocional
+========================================
+Imagem: 951.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Cimento
+*   **Peso/Tamanho:** 80x90
+*   **Preço:** Não identificado
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** Não identificado
+*   **Códigos de Barras:** Não identificado
+*   **Observação:** Não identificada
+========================================
+Imagem: 952.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Riviera
+*   **Linha de Produto:** CKX
+*   **Produto:** 31,90
+*   **Peso/Tamanho:** N/A
+*   **Preço:** 31,90
+*   **Preço por Unidade/Kg:** N/A
+*   **Quantidade no Kit/Pacote:** N/A
+*   **Códigos de Barras:** CKX
+*   **Observação:** N/A
+========================================
+Imagem: 953.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Nicho
+*   **Linha de Produto:** Decor
+*   **Produto:** (Informação não especificada no texto)
+*   **Peso/Tamanho:** (Informação não especificada no texto)
+*   **Preço:** (Informação não especificada no texto)
+*   **Preço por Unidade/Kg:** (Informação não especificada no texto)
+*   **Quantidade no Kit/Pacote:** (Informação não especificada no texto)
+*   **Códigos de Barras:** (Informação não especificada no texto)
+*   **Observação:** (Informação não especificada no texto)
+========================================
+Imagem: 954.jpg
+Aqui está a análise do texto da imagem, formatada conforme suas instruções:
+
+*   **Marca:** Vietnam
+*   **Linha de Produto:** 38x50
+*   **Produto:** (Não especificado no texto, presumivelmente um tipo de frasco)
+*   **Peso/Tamanho:** 38x50
+*   **Preço:** 9,90
+*   **Preço por Unidade/Kg:** Não aplicável (informação desconhecida)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** 70108
+*   **Observação:** (Não há observação no texto)
+========================================
+Imagem: 955.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Nestlé
+*   **Linha de Produto:** Barras
+*   **Produto:** Chocolate
+*   **Peso/Tamanho:** 126g
+*   **Preço:** 2,99
+*   **Preço por Unidade/Kg:** (Não especificado, mas implica em um preço por grama/kilograma)
+*   **Quantidade no Kit/Pacote:** (Não especificado)
+*   **Códigos de Barras:** (Não especificado)
+*   **Observação:** (Não especificado)
+========================================
+Imagem: 956.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** COLAGEN
+*   **Linha de Produto:** SH
+*   **Produto:** 300ML
+*   **Peso/Tamanho:** 150ML
+*   **Preço:** 19,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** 150ml
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:**  (Não especificado no texto)
+========================================
+Imagem: 957.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Extra Virgem
+*   **Linha de Produto:** Azeite
+*   **Produto:** Azeite Extra Virgem
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 18,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto fornecido)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto fornecido)
+*   **Códigos de Barras:** 7891400089147
+*   **Observação:** (Não especificado no texto fornecido)
+========================================
+Imagem: 958.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Todos
+*   **Linha de Produto:** Ovos
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** 1,2 kg
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** Não especificado (calculado a partir do preço total e peso)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 959.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Inox
+*   **Linha de Produto:** Lixeira
+*   **Produto:** Lixeira
+*   **Peso/Tamanho:** 2.5 kg
+*   **Preço:** 79,90
+*   **Preço por Unidade/Kg:** Não especificado no texto fornecido.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto fornecido.
+*   **Códigos de Barras:** Não especificado no texto fornecido.
+*   **Observação:** Não especificado no texto fornecido.
+========================================
+Imagem: 960.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Chantilly
+*   **Linha de Produto:** Creme
+*   **Produto:** Chantilly Creme
+*   **Peso/Tamanho:** 200ml
+*   **Preço:** R$ 3,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto fornecido)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto fornecido)
+*   **Códigos de Barras:** (Não especificado no texto fornecido)
+*   **Observação:** Validade até 27/11/2023
+========================================
+Imagem: 961.jpg
+Aqui está a análise das informações extraídas do texto da imagem:
+
+*   **Marca:** 350ml
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 350ml
+*   **Preço:** R$ 1,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificada no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 962.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Bady
+*   **Linha de Produto:** Dark
+*   **Produto:** Lager
+*   **Peso/Tamanho:** 350 ml
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 963.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Absolut
+*   **Linha de Produto:** Vodka
+*   **Produto:** Absolut
+*   **Peso/Tamanho:** 1L
+*   **Preço:** R$ 89,90
+*   **Preço por Unidade/Kg:** (Não especificado, pois é volume)
+*   **Quantidade no Kit/Pacote:** (Não especificado na imagem)
+*   **Códigos de Barras:** 70240552053
+*   **Observação:** (Não especificado na imagem)
+========================================
+Imagem: 964.jpg
+Aqui está a análise do texto bruto da imagem, organizada conforme as instruções:
+
+*   **Marca:** Frango
+*   **Linha de Produto:** Congelado
+*   **Produto:** Frango em Cubos
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** R$ 19,99
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Sem observações adicionais no texto.
+========================================
+Imagem: 965.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada (a imagem não contém o nome da marca)
+*   **Linha de Produto:** Não identificada (a imagem não especifica a linha do produto)
+*   **Produto:** Sanduicheira (Sanduicheira – Traduzido como "Sanduicheira", que significa "sanduicheira" em português)
+*   **Peso/Tamanho:** Não identificado
+*   **Preço:** R$ 68,00
+*   **Preço por Unidade/Kg:** Não identificado
+*   **Quantidade no Kit/Pacote:** Não identificado
+*   **Códigos de Barras:** Não identificado
+*   **Observação:** Imagem de uma sanduicheira.
+========================================
+Imagem: 966.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Panela
+*   **Linha de Produto:**  Panela
+*   **Produto:** Panela de Pressão
+*   **Peso/Tamanho:** 3.5 Litros
+*   **Preço:** R$ 39,90
+*   **Preço por Unidade/Kg:** Não especificado (o preço é por litro)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Imagem de promoção de produto de supermercado.
+========================================
+Imagem: 967.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ariel
+*   **Linha de Produto:** Líquido Concentrado
+*   **Produto:** Ariel Líquido Concentrado
+*   **Peso/Tamanho:** 1,5L
+*   **Preço:** R$ 5,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, necessita de cálculo baseado no volume)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 968.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mondial
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** Torradeira
+*   **Peso/Tamanho:** (Não especificado no texto)
+*   **Preço:** R$ 88,00
+*   **Preço por Unidade/Kg:** (Não aplicável a torradeiras)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 969.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada
+*   **Linha de Produto:** Não identificada
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** Não identificada (imagem sem detalhes)
+*   **Preço:** R$ 14,99
+*   **Preço por Unidade/Kg:** Não identificada
+*   **Quantidade no Kit/Pacote:** Não identificada (imagem sem detalhes)
+*   **Códigos de Barras:** Não identificada
+*   **Observação:** Não identificada
+========================================
+Imagem: 970.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Não identificada na imagem.
+*   **Linha de Produto:** Não identificada na imagem.
+*   **Produto:** Frutas
+*   **Peso/Tamanho:** Não identificada na imagem.
+*   **Preço:** R$ 6,00
+*   **Preço por Unidade/Kg:** Não identificada na imagem.
+*   **Quantidade no Kit/Pacote:** Não identificada na imagem.
+*   **Códigos de Barras:** Não identificada na imagem.
+*   **Observação:** Promoção de frutas.
+========================================
+Imagem: 971.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Nata
+*   **Linha de Produto:** Nata Fresca
+*   **Produto:** Nata Fresca Integral 200g
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 4,19
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Promoção
+========================================
+Imagem: 972.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Oster
+*   **Linha de Produto:** Airfryer
+*   **Produto:** Airfryer
+*   **Peso/Tamanho:** Não especificado
+*   **Preço:** R$ 299,00
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Preço promocional
+========================================
+Imagem: 973.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Sadia
+*   **Linha de Produto:** Leite
+*   **Produto:** Leite Integral
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 16,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas inferido do peso e preço)
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 974.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ariel
+*   **Linha de Produto:** Lavanderia
+*   **Produto:** Detergente Liquido
+*   **Peso/Tamanho:** 1,79 Litros
+*   **Preço:** R$ 9,99
+*   **Preço por Unidade/Kg:** Não especificado (informação não presente no texto)
+*   **Quantidade no Kit/Pacote:** Não especificado (informação não presente no texto)
+*   **Códigos de Barras:** Não especificado (informação não presente no texto)
+*   **Observação:** Promoção
+========================================
+Imagem: 975.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** LEITE SERENÍSSIMA
+*   **Linha de Produto:** NENÚMIA
+*   **Produto:** LEITE SERENÍSSIMA NENÚMIA
+*   **Peso/Tamanho:** 200g
+*   **Preço:** 49
+*   **Preço por Unidade/Kg:** (não especificado no texto, mas pode ser inferido como aproximadamente R$ 2,45 por 100g)
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** (não especificado no texto, mas provavelmente no rótulo do produto)
+*   **Observação:**  (não especificado no texto)
+========================================
+Imagem: 976.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Nestle
+*   **Linha de Produto:** Kit
+*   **Produto:** Doce de Leite
+*   **Peso/Tamanho:** 395g
+*   **Preço:** R$ 4,89
+*   **Preço por Unidade/Kg:** Não especificado, mas calculado com base no peso e preço.
+*   **Quantidade no Kit/Pacote:** 1 unidade
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Kit de Doce de Leite Nestle.
+========================================
+Imagem: 977.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** CAPRICCIO
+*   **Linha de Produto:** Chocolate
+*   **Produto:** Chocolate
+*   **Peso/Tamanho:** 90g
+*   **Preço:** 2.99
+*   **Preço por Unidade/Kg:** (Não especificado no texto fornecido. Poderia ser calculado se o peso/tamanho e o preço fossem suficientes)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto fornecido)
+*   **Códigos de Barras:** (Não especificado no texto fornecido)
+*   **Observação:** Promoção
+========================================
+Imagem: 978.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Leite 19
+*   **Linha de Produto:** Leite Integral
+*   **Produto:** Integral
+*   **Peso/Tamanho:** 2 litros
+*   **Preço:** R$ 19,00
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 979.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Bologna
+*   **Linha de Produto:** Noodles
+*   **Produto:** Noodle
+*   **Peso/Tamanho:** 72g
+*   **Preço:** R$ 4,49
+*   **Preço por Unidade/Kg:**  (Não identificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não identificado no texto)
+*   **Códigos de Barras:** (Não identificado no texto)
+*   **Observação:**  Promoção Black Friday
+========================================
+Imagem: 980.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Downy
+*   **Linha de Produto:** Limpeza
+*   **Produto:** Multiuso
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 7,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações específicas no texto fornecido.
+========================================
+Imagem: 981.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Ovos BRANCO
+*   **Linha de Produto:** Ovos
+*   **Produto:** Ovos
+*   **Peso/Tamanho:** Não especificado (presume-se que seja o peso padrão de um pacote de ovos)
+*   **Preço:** Não especificado
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 982.jpg
+Aqui está a análise das informações do texto da imagem:
+
+*   **Marca:** Black
+*   **Linha de Produto:** Original
+*   **Produto:** Frango
+*   **Peso/Tamanho:** 1,99 kg
+*   **Preço:** Não especificado
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 983.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Oral-B
+*   **Linha de Produto:** Gel de Dente
+*   **Produto:** Gel de Dente
+*   **Peso/Tamanho:** 70g
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** (Não especificado, pois o produto é vendido por peso)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** (Não há observações específicas no texto)
+========================================
+Imagem: 984.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Batata
+*   **Linha de Produto:**
+*   **Produto:** Batata
+*   **Peso/Tamanho:** 2kg
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** R$ 9,99
+*   **Quantidade no Kit/Pacote:** 2kg
+*   **Códigos de Barras:** (Não especificado na imagem)
+*   **Observação:** (Não especificado na imagem)
+========================================
+Imagem: 985.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Topz
+*   **Linha de Produto:** Anti Rugas
+*   **Produto:** Creme
+*   **Peso/Tamanho:** 200ml
+*   **Preço:** R$ 15,99
+*   **Preço por Unidade/Kg:** Não informado no texto.
+*   **Quantidade no Kit/Pacote:** 1
+*   **Códigos de Barras:** Não informado no texto.
+*   **Observação:** Não presente no texto.
+========================================
+Imagem: 986.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** NESCAFE GOLD
+*   **Linha de Produto:** SOLUVEL
+*   **Produto:** Cápsulas
+*   **Peso/Tamanho:** 100g
+*   **Preço:** R$ 7,99
+*   **Preço por Unidade/Kg:** (Não especificado, pois o peso é dado em gramas)
+*   **Quantidade no Kit/Pacote:** (Não especificado, pois é apenas a cápsula individual)
+*   **Códigos de Barras:** (Não especificado, pois a imagem não apresenta o código)
+*   **Observação:** Cápsulas.
+========================================
+Imagem: 987.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** YOPRO
+*   **Linha de Produto:** Lacto
+*   **Produto:** Bebida
+*   **Peso/Tamanho:** 250ml
+*   **Preço:** 49
+*   **Preço por Unidade/Kg:** Não especificado no texto fornecido.
+*   **Quantidade no Kit/Pacote:** Não especificado no texto fornecido.
+*   **Códigos de Barras:** 7700700192210
+*   **Observação:** Não há observações explícitas no texto fornecido.
+========================================
+Imagem: 988.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Carpeata
+*   **Linha de Produto:**  Não especificado
+*   **Produto:** Não especificado
+*   **Peso/Tamanho:** 300g
+*   **Preço:** 18,99
+*   **Preço por Unidade/Kg:** Não especificado
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:**  Não especificado
+========================================
+Imagem: 989.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** PICANHA BOVINA
+*   **Linha de Produto:**
+*   **Produto:** PICANHA
+*   **Peso/Tamanho:**
+*   **Preço:** R$ 79,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 990.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Margarina
+*   **Linha de Produto:** Princesa
+*   **Produto:** Margarina
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 6,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, presumindo que é o preço por 200g)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 7763441305705
+*   **Observação:**  (Não especificada no texto)
+========================================
+Imagem: 991.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Taqari
+*   **Linha de Produto:**  Não especificado
+*   **Produto:**  Não especificado
+*   **Peso/Tamanho:** 1 kg
+*   **Preço:** R$ 2,99
+*   **Preço por Unidade/Kg:** R$ 2,99
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não há observações no texto.
+========================================
+Imagem: 992.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** CANEPEZ
+*   **Linha de Produto:** (Não especificada no texto)
+*   **Produto:** (Não especificado no texto)
+*   **Peso/Tamanho:** 400g
+*   **Preço:** R$ 4,99
+*   **Preço por Unidade/Kg:** (Não calculado a partir do preço unitário)
+*   **Quantidade no Kit/Pacote:** (Não especificada no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificada no texto)
+========================================
+Imagem: 993.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Loma
+*   **Linha de Produto:**  Vinho
+*   **Produto:**  Loma
+*   **Peso/Tamanho:** 750ml
+*   **Preço:** 48,99
+*   **Preço por Unidade/Kg:** Não especificado (apenas o preço do kit)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificada
+========================================
+Imagem: 994.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Mostarda Lorena
+*   **Linha de Produto:** Extra
+*   **Produto:** Mostarda Extra
+*   **Peso/Tamanho:** 200g
+*   **Preço:** R$ 19,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas inferido pelo peso e preço)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 7757501100864
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 995.jpg
+Aqui está a análise do texto da imagem, organizada conforme as instruções:
+
+*   **Marca:** Azeito
+*   **Linha de Produto:** Vinho
+*   **Produto:** Vinho Rosé
+*   **Peso/Tamanho:** 750ml
+*   **Preço:** R$ 49,99
+*   **Preço por Unidade/Kg:** (Não especificado, mas presumivelmente o preço por unidade, R$ 49,99)
+*   **Quantidade no Kit/Pacote:** (Não especificado)
+*   **Códigos de Barras:** (Não especificado)
+*   **Observação:** (Não especificado)
+========================================
+Imagem: 996.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Heinz
+*   **Linha de Produto:** Ketchup
+*   **Produto:** Ketchup
+*   **Peso/Tamanho:** 397g
+*   **Preço:** 1,39
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas inferimos que é o preço por grama, então aproximadamente 0,34€/100g)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** 87100372747
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 997.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** CARU
+*   **Linha de Produto:** Vinho
+*   **Produto:** Vinho
+*   **Peso/Tamanho:** 750ml
+*   **Preço:** R$ 39,99
+*   **Preço por Unidade/Kg:** Não especificado (preço por garrafa)
+*   **Quantidade no Kit/Pacote:** Não especificado
+*   **Códigos de Barras:** Não especificado
+*   **Observação:** Não especificado
+========================================
+Imagem: 998.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Barilla
+*   **Linha de Produto:** Fusilli
+*   **Produto:** Fusilli
+*   **Peso/Tamanho:** 500g
+*   **Preço:** 4,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto, mas pode ser inferido que é o preço por 500g)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** (Não especificado no texto)
+========================================
+Imagem: 999.jpg
+Aqui estão as informações extraídas do texto da imagem:
+
+*   **Marca:** Borges
+*   **Linha de Produto:** Azeite
+*   **Produto:** Azeite Virgin Extra
+*   **Peso/Tamanho:** 500ml
+*   **Preço:** R$ 29,99
+*   **Preço por Unidade/Kg:** (Não especificado no texto)
+*   **Quantidade no Kit/Pacote:** (Não especificado no texto, presumivelmente unidade)
+*   **Códigos de Barras:** (Não especificado no texto)
+*   **Observação:** Azeite Virgin Extra
+========================================

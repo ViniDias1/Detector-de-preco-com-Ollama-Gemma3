@@ -1,0 +1,21 @@
+# app/Dockerfile.eancalculator
+# Este Dockerfile é para o serviço que infere os EANs.
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Copia apenas o arquivo requirements.txt primeiro para otimizar o cache do Docker
+COPY requirements.txt .
+
+# Instala as dependências listadas no requirements.txt.
+# Neste contêiner, 'pandas', 'fuzzywuzzy' e 'python-Levenshtein' são cruciais.
+# 'ollama' e 'requests' NÃO são estritamente necessários aqui, pois este script não se comunica com a API do Ollama.
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copia todo o restante do código da sua pasta 'app' para dentro do contêiner.
+COPY . .
+
+# Define o comando que será executado quando o contêiner iniciar.
+# Ele rodará seu novo script 'infer_ean.py'.
+CMD ["python", "infer_ean.py"]

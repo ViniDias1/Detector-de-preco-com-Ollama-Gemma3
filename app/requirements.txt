@@ -1,3 +1,6 @@
-requests
-tk
-Pillow
+# app/requirements.txt
+pandas
+fuzzywuzzy
+python-Levenshtein # Recomendado para performance do fuzzywuzzy
+ollama             # Necessário para 'extract_data.py' interagir com o Ollama
+requests           # Necessário para 'extract_data.py' fazer chamadas HTTP

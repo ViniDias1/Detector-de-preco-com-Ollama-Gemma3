@@ -1,5 +1,8 @@
+# docker-compose.yml (na raiz do seu projeto)
+version: '3.8'
 
 services:
+  # Serviço Ollama (inalterado, mantendo a configuração de GPU)
   ollama:
     build: ./ollama
     ports:
@@ -15,19 +18,57 @@ services:
             - driver: nvidia
               count: all
               capabilities: [gpu]
+    networks:
+      - my_app_network # Adiciona à rede customizada
 
-  app:
-    build: ./app
+  # Serviço 'data_extractor' (seu antigo 'app' renomeado e adaptado)
+  data_extractor:
+    build:
+      context: ./app # Contexto de build aponta para a pasta 'app'
+      dockerfile: Dockerfile.extractor # Usa o Dockerfile.extractor
     depends_on:
-      - ollama
+      - ollama # Depende do Ollama para a comunicação
     volumes:
-      - ./app/imagens:/app/imagens
+      # Mapeia sua pasta de imagens de input (mantido do original)
       - ./app/dataset-images:/app/dataset-images
-      - ./app/resultados.txt:/app/resultados.txt
-      - ./app/resultado_valid.txt:/app/resultado_valid.txt
-      - ./app/resultado_train.txt:/app/resultado_train.txt
+      # NOTA: O 'app/imagens' do seu original, se for usado para entrada, pode precisar ser mapeado aqui.
+      # Se for apenas para output do Ollama, use o volume 'results' abaixo.
+      # Se as imagens de entrada do extract_data.py estiverem em 'app/imagens', adicione:
+      # - ./app/imagens:/app/imagens
+
+      # Mapeia a pasta 'results' para salvar o 'resultado_train.txt' e 'progresso.txt'.
+      # Isso substitui os mapeamentos individuais para 'resultado_train.txt', etc.,
+      # permitindo que o script crie e gerencie esses arquivos dentro da pasta 'results'.
+      - ./app/results:/app/results
     stdin_open: true
     tty: true
+    networks:
+      - my_app_network # Adiciona à rede customizada
 
+  # NOVO SERVIÇO: 'ean_inferer' (para o seu novo script 'infer_ean.py')
+  ean_inferer:
+    build:
+      context: ./app # Contexto de build aponta para a pasta 'app'
+      dockerfile: Dockerfile.eancalculator # Usa o Dockerfile.eancalculator
+    # Este serviço NÃO depende do ollama diretamente.
+    # Ele depende dos arquivos que o 'data_extractor' já gerou.
+    volumes:
+      # Mapeia a pasta 'results' para que este serviço possa LER o 'resultado_train.txt'
+      - ./app/results:/app/results
+      # Mapeia sua base de dados CSV: Host: ./app/data/sua_base_de_dados.csv -> Contêiner: /app/data/sua_base_de_dados.csv
+      - ./app/data/ludiiprice_db_17012025.csv:/app/data/ludiiprice_db_17012025.csv
+      # Mapeia a pasta 'inferences' para salvar o 'ean_inferences.csv'
+      - ./app/inferences:/app/inferences
+    stdin_open: true # Manter para interatividade se o script tiver input()
+    tty: true        # Manter para interatividade
+    networks:
+      - my_app_network # Adiciona à rede customizada
+
+# Definição dos volumes (inalterado)
 volumes:
   ollama_data:
+
+# Definição da nova rede customizada
+networks:
+  my_app_network:
+    driver: bridge

@@ -1,0 +1,22 @@
+# app/Dockerfile.extractor
+# Este Dockerfile é para o serviço que extrai dados das imagens usando o Ollama.
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Copia apenas o arquivo requirements.txt primeiro para que o Docker possa usar o cache
+COPY requirements.txt .
+
+# Instala as dependências listadas no requirements.txt.
+# Neste contêiner, as libs 'ollama' e 'requests' são as mais importantes.
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copia todo o restante do código da sua pasta 'app' para dentro do contêiner.
+# Isso incluirá 'extract_data.py', 'infer_ean.py', seus Dockerfiles, etc.
+# (Mesmo que 'infer_ean.py' não seja usado aqui, ele estará presente).
+COPY . .
+
+# Define o comando que será executado quando o contêiner iniciar.
+# Ele rodará seu script 'extract_data.py'.
+CMD ["python", "extract_data.py"]
