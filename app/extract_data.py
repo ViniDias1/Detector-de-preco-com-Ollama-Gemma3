@@ -11,7 +11,7 @@ MODEL = "gemma3:4b" # Seu modelo Gemma no Ollama
 
 # --- Caminhos de Input/Output dentro do contêiner ---
 # As imagens de entrada estarão em '/app/dataset-images/train/train' dentro do contêiner
-PASTA_IMAGENS_INPUT = "/app/dataset-images/valid/valid"
+PASTA_IMAGENS_INPUT = "/app/dataset-images"
 # Os resultados da extração (resultado_train.txt) e o arquivo de progresso (progresso.txt)
 # serão salvos em '/app/results' dentro do contêiner. Este diretório será mapeado para seu host.
 OUTPUT_DIR = "/app/results"
@@ -29,23 +29,7 @@ def converter_imagem_para_base64(caminho):
 def enviar_para_ollama(imagem_base64):
     """Envia a imagem para o modelo Gemma no Ollama e retorna a resposta."""
     # Prompt ajustado para encorajar uma saída mais consistente e fácil de parsear
-    prompt_gemma = """
-    **CONTEXTO:** Você recebeu o texto bruto extraído de uma imagem de promoção de produtos de supermercado.
-    Sua tarefa é analisar este texto para identificar informações específicas do produto e da promoção.
-
-    **Instruções para a Resposta:**
-    Liste as informações encontradas de forma clara, usando a formatação de lista a seguir:
-    * **Marca:**
-    * **Linha de Produto:**
-    * **Produto:**
-    * **Peso/Tamanho:**
-    * **Preço:**
-    * **Preço por Unidade/Kg:**
-    * **Quantidade no Kit/Pacote:**
-    * **Códigos de Barras:**
-    * **Observação:**
-
-    **TEXTO BRUTO DA IMAGEM (GERADO POR OCR):**
+    prompt_gemma ="""Extraia a produto, marca preço e unidade a partir desse cartaz de promoção da imagem.
     """
 
     payload = {
@@ -77,7 +61,7 @@ def processar_imagem(caminho):
     print("------------------------")
 
     # Define o caminho completo do arquivo de saída dentro do volume mapeado
-    output_file_path = os.path.join(OUTPUT_DIR, "resultado_valid.txt")
+    output_file_path = os.path.join(OUTPUT_DIR, "resultado_cropado.txt")
     with open(output_file_path, "a", encoding="utf-8") as f:
         f.write(f"Imagem: {os.path.basename(caminho)}\n")
         f.write(resultado_gemma + "\n")
