@@ -46,23 +46,23 @@ services:
       - my_app_network # Adiciona à rede customizada
 
   # NOVO SERVIÇO: 'ean_inferer' (para o seu novo script 'infer_ean.py')
-  ean_inferer:
-    build:
-      context: ./app # Contexto de build aponta para a pasta 'app'
-      dockerfile: Dockerfile.eancalculator # Usa o Dockerfile.eancalculator
-    # Este serviço NÃO depende do ollama diretamente.
-    # Ele depende dos arquivos que o 'data_extractor' já gerou.
-    volumes:
-      # Mapeia a pasta 'results' para que este serviço possa LER o 'resultado_train.txt'
-      - ./app/results:/app/results
-      # Mapeia sua base de dados CSV: Host: ./app/data/sua_base_de_dados.csv -> Contêiner: /app/data/sua_base_de_dados.csv
-      - ./app/data/ludiiprice_db_17012025.csv:/app/data/ludiiprice_db_17012025.csv
-      # Mapeia a pasta 'inferences' para salvar o 'ean_inferences.csv'
-      - ./app/inferences:/app/inferences
-    stdin_open: true # Manter para interatividade se o script tiver input()
-    tty: true        # Manter para interatividade
-    networks:
-      - my_app_network # Adiciona à rede customizada
+  # ean_inferer:
+  #   build:
+  #     context: ./app # Contexto de build aponta para a pasta 'app'
+  #     dockerfile: Dockerfile.eancalculator # Usa o Dockerfile.eancalculator
+  #   # Este serviço NÃO depende do ollama diretamente.
+  #   # Ele depende dos arquivos que o 'data_extractor' já gerou.
+  #   volumes:
+  #     # Mapeia a pasta 'results' para que este serviço possa LER o 'resultado_train.txt'
+  #     - ./app/results:/app/results
+  #     # Mapeia sua base de dados CSV: Host: ./app/data/sua_base_de_dados.csv -> Contêiner: /app/data/sua_base_de_dados.csv
+  #     - ./app/data/ludiiprice_db_17012025.csv:/app/data/ludiiprice_db_17012025.csv
+  #     # Mapeia a pasta 'inferences' para salvar o 'ean_inferences.csv'
+  #     - ./app/inferences:/app/inferences
+  #   stdin_open: true # Manter para interatividade se o script tiver input()
+  #   tty: true        # Manter para interatividade
+  #   networks:
+  #     - my_app_network # Adiciona à rede customizada
 
 # Definição dos volumes (inalterado)
 volumes:

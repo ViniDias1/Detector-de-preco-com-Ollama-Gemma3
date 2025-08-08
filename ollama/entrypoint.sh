@@ -7,7 +7,7 @@ ollama serve &
 sleep 5
 
 # Baixa o modelo
-ollama pull gemma3:4b
+ollama pull gemma3:27b-it-qat
 
 # Aguarda o servidor Ollama (mantém o container rodando)
 wait %1

@@ -1,0 +1,1681 @@
+Imagem: valid_601_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Placa de Ovos
+*   **Marca:** Rede Mais
+*   **Preço:** R$ 19,99
+*   **Unidade:** 30 Unidades
+========================================
+Imagem: valid_602_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Tomate KG
+*   **Marca:** Rede Mais
+*   **Preço:** R$ 1,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_603_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** CERVEJA IMPÉRIO LAGER CIDADE PURO MALTE
+*   **Marca:** REDE MAIS
+*   **Preço:** R$ 5,99
+*   **Unidade:** UN (Unidades)
+========================================
+Imagem: valid_604_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Caixa Térmica Mor 34L
+*   **Marca:** Mor
+*   **Preço:** R$ 119,90 (valor da oferta) / R$ 69,99 (unidade)
+========================================
+Imagem: valid_605_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes do anúncio:
+
+*   **Produto:** Amaciante Downy
+*   **Marca:** Downy
+*   **Preço:** R$ 10,99
+*   **Unidade:** 450ML / 500ML
+========================================
+Imagem: valid_606_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Kit Pantene Micelar
+*   **Marca:** Pantene
+*   **Preço:** R$ 28,99 (De) / R$ 19,99 (Por Unidade)
+*   **Unidade:** Un (por unidade)
+========================================
+Imagem: valid_607_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Shampoo H&S
+*   **Marca:** H&S
+*   **Preço:** R$ 15,99 (de) / R$ 9,99 (por)
+*   **Unidade:** 3 x 1 (200ml)
+========================================
+Imagem: valid_608_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Sabonete Liq. Lux Refil 200ml
+*   **Marca:** Lux
+*   **Preço:** R$ 2,99 (DE) / R$ 3,99 (POR)
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_609_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do Produto:** Linguiça Fresca Costela Cara Preta
+*   **Marca:** Rede Mais
+*   **Preço:** R$ 9,49
+*   **Unidade:** 12 UNIDADES
+========================================
+Imagem: valid_610_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Creme de Leite
+*   **Marca:** Italac
+*   **Preço:** R$ 2,39
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_611_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Detergente LIQ Omo Lavagem Perfeita 3L
+*   **Marca:** Omo
+*   **Preço:** R$ 29,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_612_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Leite Integral ou Desnatado Natíville
+*   **Marca:** Natíville
+*   **Preço:**
+    *   De: R$ 6,99
+    *   Por: R$ 4,29
+*   **Unidade:** 1L
+========================================
+Imagem: valid_613_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Queijo Mussarela
+*   **Marca:** Natville
+*   **Preço:** R$ 29,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_613_cropped_1.jpg
+Com base na imagem, aqui está as informações extraídas:
+
+*   **Nome do Produto:** Extra
+*   **Marca:** Extra
+*   **Preço:** 50,80
+*   **Unidade:** Não especificada na imagem.
+========================================
+Imagem: valid_614_cropped_0.jpg
+Com base na imagem, temos as seguintes informações:
+
+*   **Nome do produto:** Liquid Mundial L-550-W
+*   **Marca:** Mundial
+*   **Preço:**
+    *   R$ 119,90
+    *   R$ 89,90
+    *   R$ 8,99
+*   **Unidade:** 127V
+========================================
+Imagem: valid_615_cropped_0.jpg
+Com certeza! Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Massa Pastel
+*   **Marca:** Mago
+*   **Preço:** 5,97
+*   **Unidade:** 200g
+========================================
+Imagem: valid_616_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Peito Frango Sadia Bio
+*   **Marca:** Sadia
+*   **Preço sem o app:** R$ 18,99
+*   **Preço com o app:** R$ 17,99
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_617_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Petit Camembert
+*   **Marca:** ILE DE FRANCE
+*   **Preço:** 27,99
+*   **Unidade:** 125g, 22g
+========================================
+Imagem: valid_618_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Manteiga Zero Lact
+*   **Marca:** Lact
+*   **Preço:** 18,99
+*   **Unidade:** 200g
+========================================
+Imagem: valid_619_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Protetor Diário
+*   **Marca:** Carefree
+*   **Preço:** R$ 14,57
+*   **Unidade:** Por unidade
+========================================
+Imagem: valid_620_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** GATILHO 500ML
+*   **Marca:** LYSOFORM
+*   **Preço:** R$ 7,01
+*   **Unidade:** 500ML
+========================================
+Imagem: valid_621_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** AMANDITA
+*   **Marca:** WAWEL RECHEIO CHOCOLATE
+*   **Preço:** R$ 9,78
+*   **Unidade:** 200g
+========================================
+Imagem: valid_622_cropped_0.jpg
+Aqui estão as informações extraídas do cartaz:
+
+*   **Nome do Produto:** Nata Regina 300g
+*   **Marca:** Nata Regina
+*   **Preço:** R$ 7,98
+*   **Unidade:** UN
+========================================
+Imagem: valid_623_cropped_0.jpg
+Com base na imagem:
+
+*   **Nome do produto:** 100 Morango
+*   **Marca:** Verde Campo
+*   **Preço:** 7,98
+*   **Unidade:** não especificada na imagem (presume-se que seja por unidade ou embalagem)
+========================================
+Imagem: valid_624_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Quinta do Morado TT Suave
+*   **Marca:** Quinta do Morado
+*   **Preço:** R$ 16,99 (DE) e R$ 9,99 (POR)
+*   **Unidade:** 750ml / UN (unidade)
+========================================
+Imagem: valid_625_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Leite In Damares
+*   **Marca:** In Damares
+*   **Preço:** R$ 4,99
+*   **Unidade:** 1L
+========================================
+Imagem: valid_626_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes do rótulo:
+
+*   **Nome do produto:** H2O LIMONETO
+*   **Marca:** H2O
+*   **Preço:** R$ 2,79
+*   **Unidade:** UN (unitário)
+========================================
+Imagem: valid_627_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Caldo Carne
+*   **Marca:** Knorr
+*   **Preço:** R$ 0,99
+*   **Unidade:** 114g
+========================================
+Imagem: valid_628_cropped_0.jpg
+Aqui está a extração das informações da imagem:
+
+*   **Nome do Produto:** Baden Golden
+*   **Marca:** Baden
+*   **Preço:** R$ 9,99
+*   **Unidade:** 600ml
+========================================
+Imagem: valid_629_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Feijão Carioca
+*   **Marca:** Missão
+*   **Preço:** R$ 6,99
+*   **Unidade:** Nota 10
+========================================
+Imagem: valid_630_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem do rótulo:
+
+*   **Produto:** PEITO
+*   **Marca:** SOMAVE
+*   **Preço:** R$ 16,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_631_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Café
+*   **Marca:** Almofada Marata
+*   **Preço:** 6,99
+*   **Unidade:** UNIDADE
+========================================
+Imagem: valid_632_cropped_0.jpg
+Aqui está a extração das informações do rótulo da imagem:
+
+*   **Produto:** Leite
+*   **Marca:** UHT Natividille
+*   **Preço:** R$ 4,99
+*   **Unidade:** 1L
+========================================
+Imagem: valid_633_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Hamburguer Angus
+*   **Marca:** Angus 360g
+*   **Preço:** R$ 14,99
+*   **Unidade:** Por unidade
+========================================
+Imagem: valid_634_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Linguiça
+*   **Marca:** Sadia
+*   **Preço:** R$ 7,69
+*   **Unidade:** 240g
+========================================
+Imagem: valid_635_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Cerveja Skol Puro Malte
+*   **Marca:** Skol
+*   **Preço:** 2,49
+*   **Unidade:** 350ml
+========================================
+Imagem: valid_636_cropped_0.jpg
+Aqui estão as informações extraídas do rótulo da imagem:
+
+*   **Nome do Produto:** Whisky Chivas Regal 12 Anos
+*   **Marca:** Chivas Regal
+*   **Preço:** R$ 94,99
+*   **Unidade:** 750 mL
+========================================
+Imagem: valid_637_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Whisky
+*   **Marca:** Black & White
+*   **Preço:** 36,99
+*   **Unidade:** 700ml
+========================================
+Imagem: valid_638_cropped_0.jpg
+Aqui está a extração das informações da imagem:
+
+*   **Nome do Produto:** Bebida Láctea Verde Campo Whey 14g Chocolate
+*   **Marca:** Verde Campo
+*   **Preço:** R$ 5,99
+*   **Unidade:** Unidade
+========================================
+Imagem: valid_639_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Cerveja Estrela Galicia
+*   **Marca:** Estrela Galicia
+*   **Preço:** 4,99
+*   **Unidade:** 350ml
+========================================
+Imagem: valid_640_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Biscoito Choc Bonéo
+*   **Marca:** Nestlé
+*   **Preço:** R$ 1,99
+*   **Unidade:** 1/6g
+========================================
+Imagem: valid_641_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Açúcar cristal
+*   **Marca:** Corú
+*   **Preço:** 3,39
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_642_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do Produto:** Vinho Português
+*   **Marca:** Alecrim
+*   **Preço:** 23,99
+*   **Unidade:** 750ml
+========================================
+Imagem: valid_643_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Macarrão Instantâneo
+*   **Marca:** Maratá
+*   **Preço:** R$ 1,29
+*   **Unidade:** 85g
+========================================
+Imagem: valid_644_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Limão Siciliano
+*   **Marca:** Mais Barato é o máximo
+*   **Preço:** R$ 6,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_645_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Folha
+*   **Marca:** Alface Americana
+*   **Preço:** R$ 0,99
+*   **Unidade:** Folha
+========================================
+Imagem: valid_646_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Repolho Verde
+*   **Marca:** Massimo
+*   **Preço:** 2,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_647_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Tomate
+*   **Marca:** Extra
+*   **Preço:** 2,39
+*   **Unidade:** KG (quilograma)
+========================================
+Imagem: valid_648_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Água Min Crystal
+*   **Marca:** Água Min Crystal
+*   **Preço:** R$ 0,99
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_649_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Banqueta
+*   **Marca:** Plástica Vermelha
+*   **Preço:** 19,90
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_649_cropped_1.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Banqueta Mor
+*   **Marca:** Plastica Turquesa
+*   **Preço:** 19,90
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_649_cropped_2.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Banqueta Mor Bela Plast
+*   **Marca:** Bela Plast
+*   **Preço:** 19,90
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_650_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Liquidificador
+*   **Marca:** Mondial
+*   **Preço:** R$89,90
+*   **Unidade:** 127v
+========================================
+Imagem: valid_651_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Azeite
+*   **Marca:** Filippo Berio
+*   **Preço:** 20,59
+*   **Unidade:** UN (Não especificada)
+========================================
+Imagem: valid_652_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Produto:** Gin Bombay Sapphire London Dry
+*   **Marca:** Bombay
+*   **Preço:** 79,90
+*   **Unidade:** 750ML
+========================================
+Imagem: valid_653_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Gin Beefeater London Dry
+*   **Marca:** Beefeater
+*   **Preço:** 79,90
+*   **Unidade:** 750ml
+========================================
+Imagem: valid_654_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Bebida Mista Skol Beats GT LN
+*   **Marca:** Skol
+*   **Preço:** 4,05
+*   **Unidade:** UN (unitário)
+========================================
+Imagem: valid_655_cropped_0.jpg
+Com base na imagem, as informações extraídas são:
+
+*   **Produto:** Limoneto
+*   **Marca:** Beb. Gaseif
+*   **Preço:** 2,25
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_656_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do Produto:** REFRIG PEPSI COLA 350ml
+*   **Marca:** PEPSI
+*   **Preço por Unidade:** R$ 1,89
+*   **Unidade:** Não especificada na imagem, mas o preço é por unidade individual.
+========================================
+Imagem: valid_657_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Alim Picaes Dog Chow Sache
+*   **Marca:** Picaes
+*   **Preço:** R$ 1,99
+*   **Unidade:** UN3 (3 unidades)
+========================================
+Imagem: valid_658_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Friskies Sachet 850g
+*   **Marca:** Friskies
+*   **Preço:** R$ 1,99
+*   **Unidade:** UN3
+========================================
+Imagem: valid_658_cropped_1.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Friskies Sache
+*   **Marca:** Friskies
+*   **Preço:** R$ 1,99
+*   **Unidade:** PEIXE MOLHO
+========================================
+Imagem: valid_659_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Pão
+*   **Marca:** Pão Int Plus Vita
+*   **Preço:** R$ 4,99
+*   **Unidade:** 480g
+========================================
+Imagem: valid_660_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** MINHA MANTIGA
+*   **Marca:** MINHA
+*   **Preço:** R$ 7,99
+*   **Unidade:** 500g
+========================================
+Imagem: valid_661_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** PRES COZ
+*   **Marca:** PEPERI S/C
+*   **Preço:** R$ 19,90
+*   **Unidade:** Kg
+========================================
+Imagem: valid_662_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** ALFACE
+*   **Marca:** COENTRO
+*   **Preço:** 099
+*   **Unidade:** Não especificada na imagem.
+========================================
+Imagem: valid_663_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Leite
+*   **Marca:** Parmalat
+*   **Preço:** R$ 9,95
+*   **Unidade:** 200g
+========================================
+Imagem: valid_664_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Leite
+*   **Marca:** Mavel
+*   **Preço:** R$ 4,40
+*   **Unidade:** 1L
+========================================
+Imagem: valid_665_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Flocão
+*   **Marca:** Malho Maravilha
+*   **Preço:** R$ 69
+*   **Unidade:** 500g
+========================================
+Imagem: valid_666_cropped_0.jpg
+Com base na imagem, aqui estão os dados extraídos:
+
+*   **Produto:** Café Marata Moido 250g
+*   **Marca:** Marata
+*   **Preço:** 6,59
+*   **Unidade:** 250g
+========================================
+Imagem: valid_667_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Papel Higiênico
+*   **Marca:** Max Pure
+*   **Preço:** R$ 12,90
+*   **Unidade:** Não especificada (provavelmente pacote/caixa)
+========================================
+Imagem: valid_668_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Óleo de Soja
+*   **Marca:** Soja Pet
+*   **Preço:** R$ 7,40
+*   **Unidade:** 900ml
+========================================
+Imagem: valid_669_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Heineken
+*   **Marca:** Heineken
+*   **Preço:** R$ 9,60
+*   **Unidade:** 60 ml
+========================================
+Imagem: valid_670_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** CERVEJA
+*   **Marca:** ITIPAВАLT
+*   **Preço:** R$ 1,99
+*   **Unidade:** 269ML
+========================================
+Imagem: valid_671_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do produto:** CERVEJA ITAIPAVA PILSEN LT 350ML
+*   **Marca:** ITAIPAVA
+*   **Preço:** 2,09
+*   **Unidade:** UN (geralmente significa "unidade")
+========================================
+Imagem: valid_672_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Cerveja
+*   **Marca:** Taipa Valt
+*   **Preço:** R$ 3,39
+*   **Unidade:** 550ml
+========================================
+Imagem: valid_673_cropped_0.jpg
+Aqui está a extração das informações da imagem:
+
+*   **Nome do produto:** ENERGETICO
+*   **Marca:** MONSTER
+*   **Preço:** 7,99
+*   **Unidade:** UN (unitário)
+========================================
+Imagem: valid_674_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Arroz Parboilizado SEPE 1kg
+*   **Marca:** Extra
+*   **Preço:** R$ 3,39
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_675_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Fralda Higiênica
+*   **Marca:** Huggies
+*   **Preço:** R$ 69,90
+*   **Unidade:** M/C/92
+========================================
+Imagem: valid_676_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Açúcar Cristal Nota
+*   **Marca:** Oferta
+*   **Preço:** R$ 3,19
+*   **Unidade:** 1KG
+========================================
+Imagem: valid_677_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Farinha
+*   **Marca:** Trigo Sarandi Espec
+*   **Preço:** R$ 4,99
+*   **Unidade:** 1 kg
+========================================
+Imagem: valid_678_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Leite Cond Betania TP 395g
+*   **Marca:** Betania
+*   **Preço:** R$ 4,89
+*   **Unidade:** 395g
+========================================
+Imagem: valid_679_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Filezinho Copacool Frango
+*   **Marca:** Copacool
+*   **Preço:** 17,99 (unidade)
+*   **Peso:** 1kg
+========================================
+Imagem: valid_680_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do Produto:** Hamburger Bov Carapreta Angus
+*   **Marca:** Massimo
+*   **Preço:** R$ 14,99
+*   **Unidade:** 360g
+========================================
+Imagem: valid_681_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** File de peito somave ind kg
+*   **Marca:** Somave Ind
+*   **Preço:** R$ 17,99
+*   **Unidade:** kg
+========================================
+Imagem: valid_682_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Produto:** Leite
+*   **Marca:** VITAMINAS
+*   **Preço:** 4,49
+*   **Unidade:** 1L
+========================================
+Imagem: valid_683_cropped_0.jpg
+Aqui estão os detalhes extraídos do rótulo da imagem:
+
+*   **Nome do Produto:** Cachepot Cer Chacho.
+*   **Marca:** UrbanDecor
+*   **Preço:** R$ 19,90
+*   **Unidade:** 10cm
+========================================
+Imagem: valid_684_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Prato Raso Redondo em Cerâmica 26cm Sortidas
+*   **Marca:** Oxford
+*   **Preço:** R$ 9,99
+*   **Unidade:** Unidade (não especificada no print)
+========================================
+Imagem: valid_685_cropped_0.jpg
+Com base na imagem fornecida, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Sandeichera Elétrica
+*   **Marca:** Cadence
+*   **Preço:** R$ 79,90
+*   **Unidade:** 750W
+========================================
+Imagem: valid_686_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Pizza Seara 4 Quêijos
+*   **Marca:** Seara
+*   **Preço:** R$ 12,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_686_cropped_1.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Pizza Seara
+*   **Marca:** Seara
+*   **Preço:** R$ 12,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_686_cropped_2.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Pizza Lombo Ceia Cong 460g
+*   **Marca:** Não identificada na imagem
+*   **Preço:** R$ 12,99
+*   **Unidade:** Não identificada na imagem
+========================================
+Imagem: valid_687_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Salame Ita Fat Seara 100g
+*   **Marca:** Ita Fat Seara
+*   **Preço:** R$ 9,49
+*   **Unidade:** 100g
+========================================
+Imagem: valid_688_cropped_0.jpg
+Aqui estão as informações extraídas da imagem do preço:
+
+*   **Nome do Produto:** ICE CABARE LIMÃO
+*   **Marca:** LN
+*   **Preço:** R$ 4,89
+*   **Unidade:** UN
+========================================
+Imagem: valid_689_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Salsicha Hot Dog Seara
+*   **Marca:** Seara
+*   **Preço:** R$7,99
+*   **Unidade:** 500g
+========================================
+Imagem: valid_690_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Queijo Mussarela
+*   **Marca:** Natulac
+*   **Preço:** 28,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_691_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Peito de Frango
+*   **Marca:** BDT
+*   **Preço:** 16,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_692_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Batata Palito
+*   **Marca:** Não identificada na imagem.
+*   **Preço:** R$ 16,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_693_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Latas de 1 Litro
+*   **Marca:** Não identificável (o nome da marca está ofuscado)
+*   **Preço:** R$ 4,99
+*   **Unidade:** Litro (latas de 1 litro)
+========================================
+Imagem: valid_694_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do Produto:** Leite Un Ninho Forti+ Integral
+*   **Marca:** Un Ninho
+*   **Preço:** R$ 5,99 (R$ 5,89 a partir de 3 unidades)
+*   **Unidade:** 1L
+========================================
+Imagem: valid_695_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas do rótulo:
+
+*   **Nome do produto:** Omo Lavanda
+*   **Marca:** Omo
+*   **Preço:** R$ 2,99
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_696_cropped_0.jpg
+Aqui está a extração das informações do ticket:
+
+*   **Produto:** Óleo Soja
+*   **Marca:** Soja Líza
+*   **Preço por unidade:** R$ 7,69
+*   **Preço por 3 unidades:** R$ 7,59
+========================================
+Imagem: valid_697_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Biscoito Chicão
+*   **Marca:** Nestlé
+*   **Preço:** R$ 1,99
+*   **Unidade:** 126g
+========================================
+Imagem: valid_698_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Vinho Bra Vera Tto Suave Ilt
+*   **Marca:** Bra Vera
+*   **Preço:** R$ 17,89
+*   **Unidade:** UN (unidade)
+========================================
+Imagem: valid_699_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Leite Condensado
+*   **Marca:** Itambé
+*   **Preço:** R$ 5,65
+*   **Unidade:** Não identificada na imagem.
+========================================
+Imagem: valid_700_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Açúcar Cristal
+*   **Marca:** Copi
+*   **Preço:** R$3,39
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_701_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Sapateira Bambu 70cm OK
+*   **Marca:** Casa OK
+*   **Preço:** R$ 189,90
+*   **Unidade:** Unidade
+========================================
+Imagem: valid_702_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Oferta
+*   **Marca:** Extrafort
+*   **Preço:** R$ 6,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_703_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Queijo MJS Nat 03
+*   **Marca:** MJS
+*   **Preço:** R$ 4,05
+*   **Unidade:** kg
+========================================
+Imagem: valid_704_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Óleo Soja
+*   **Marca:** Vila Velha
+*   **Preço:** R$ 7,99
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_705_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do produto:** Poltrona Outzen Rattan Aco Tabaco
+*   **Marca:** Outzen
+*   **Preço:** 59,98
+*   **Unidade:** UN
+========================================
+Imagem: valid_706_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Detergente Atol 500ml, Neutro
+*   **Marca:** Garbosa
+*   **Preço:** R$ 1,69
+*   **Unidade:** UN (unidade)
+========================================
+Imagem: valid_707_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Absorbente Noturno Suave
+*   **Marca:** Always
+*   **Preço:** 19,99
+*   **Unidade:** C/32
+========================================
+Imagem: valid_708_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Cerveja
+*   **Marca:** Estrella Galicia
+*   **Preço:** 4,99
+*   **Unidade:** 350ml
+========================================
+Imagem: valid_709_cropped_0.jpg
+Aqui estão os dados extraídos da imagem:
+
+*   **Nome do Produto:** Papel Higiênico Supreme FD 20m LV 12 PD 6
+*   **Marca:** Papel Higiênico Supreme
+*   **Preço:** 8,90
+*   **Unidade:** 20m (20 metros)
+========================================
+Imagem: valid_710_cropped_0.jpg
+Aqui estão os detalhes extraídos do cartão de preço da imagem:
+
+*   **Produto:** AMAC YPE REFIL 1LT
+*   **Marca:** ACONCHEGO
+*   **Preço:** R$ 3,95
+*   **Unidade:** 1 LT
+========================================
+Imagem: valid_711_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Sabão Líquido Omo Lav Perfeita 3L
+*   **Marca:** Omo
+*   **Preço:** R$ 37,99
+*   **Unidade:** UN (Não foi possível determinar a unidade específica a partir da imagem)
+========================================
+Imagem: valid_712_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** File de Peito Somave
+*   **Marca:** Não especificada na imagem
+*   **Preço:** R$ 16,99
+*   **Unidade:** kg
+========================================
+Imagem: valid_713_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Leite UHT Nativida
+*   **Marca:** Nativida
+*   **Preço:** R$ 4,99
+*   **Unidade:** 1L
+========================================
+Imagem: valid_714_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Creme de Leite
+*   **Marca:** Leitbom
+*   **Preço:** R$2,69
+*   **Unidade:** 200g
+========================================
+Imagem: valid_715_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Requeijão
+*   **Marca:** Extra
+*   **Preço:** 6,99
+*   **Unidade:** Unidade
+========================================
+Imagem: valid_716_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** CR Penteear Seda
+*   **Marca:** Fragâncias
+*   **Preço:** 6,99
+*   **Unidade:** 300ml
+========================================
+Imagem: valid_717_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Kit Shamp 275ml + Cond 175ml / 200ml
+*   **Marca:** Niely Gold
+*   **Preço:** 12,99
+*   **Unidade:** Por 200ml
+========================================
+Imagem: valid_718_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** SHAMP CLEAR MEN
+*   **Marca:** fragancias
+*   **Preço:** 16,99
+*   **Unidade:** Anticapsa 200ml
+========================================
+Imagem: valid_719_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Fermento Dona Benta 10g
+*   **Marca:** Bio
+*   **Preço:** 0,89
+*   **Unidade:** g
+========================================
+Imagem: valid_720_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Hamburguer Bov
+*   **Marca:** Carapreta Angus
+*   **Preço:** 14,99
+*   **Unidade:** 360g
+========================================
+Imagem: valid_721_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Cápsulas Tres Corações
+*   **Marca:** Santa Clara
+*   **Preço:** R$ 15,49
+*   **Unidade:** Unidade
+========================================
+Imagem: valid_722_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Pão Franceses
+*   **Marca:** Não especificada na imagem.
+*   **Preço:** 9,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_723_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Morango
+*   **Marca:** GF
+*   **Preço:** 9,99
+*   **Unidade:** 1,26 KG
+========================================
+Imagem: valid_723_cropped_1.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Frutas
+*   **Marca:** Vitamina
+*   **Preço:** 9,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_724_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Leite Pó La Serenissima Intinst Sch
+*   **Marca:** La Serenissima
+*   **Preço:** 6,99
+*   **Unidade:** 200g
+========================================
+Imagem: valid_725_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Santa Clara Drip Reserv Família
+*   **Marca:** Massimo
+*   **Preço:** 18,49
+*   **Unidade:** 100g
+========================================
+Imagem: valid_726_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Lombo Canadense
+*   **Marca:** SEARA GOURMET
+*   **Preço:** 26,99
+*   **Unidade:** KG
+========================================
+Imagem: valid_727_cropped_0.jpg
+Com base na imagem, temos as seguintes informações:
+
+*   **Nome do Produto:** FIELJAD
+*   **Marca:** FRADINHO KICALDO
+*   **Preço:** R$ 5,89
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_728_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Feijão Carioca
+*   **Marca:** Não identificada na imagem.
+*   **Preço:** R$ 5,69
+*   **Unidade:** 100g
+========================================
+Imagem: valid_729_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Limão
+*   **Marca:** Extra
+*   **Preço:** R$ 1,99
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_730_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Leite Nativilha
+*   **Marca:** LEITE LV INT NATIVILHA TLT
+*   **Preço:** R$ 4,19
+*   **Unidade:** Não especificada na imagem, mas assume-se que seja por unidade.
+========================================
+Imagem: valid_731_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do Produto:** Não é possível determinar o nome exato do produto apenas com a imagem.
+*   **Marca:** XP
+*   **Preço:** 18,50
+*   **Unidade:** 12
+========================================
+Imagem: valid_732_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Pureza de Algodão
+*   **Marca:** Lysol Aero
+*   **Preço:** R$ 9,90
+*   **Unidade:** 440ml
+========================================
+Imagem: valid_733_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Fralda Huggies Tripla Pro M92Unid
+*   **Marca:** Huggies
+*   **Preço:** R$ 59,87
+*   **Unidade:** 1 Unidade
+========================================
+Imagem: valid_734_cropped_0.jpg
+Com base na imagem, aqui estão os dados extraídos:
+
+*   **Nome do Produto:** Amandita
+*   **Marca:** Amandita
+*   **Preço por Unidade:** R$ 9,87
+*   **Unidade:** 200g
+========================================
+Imagem: valid_735_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Arroz
+*   **Marca:** PARB
+*   **Preço:** R$ 3,86 por unidade
+*   **Unidade:** 1KG
+========================================
+Imagem: valid_736_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Yaki Sushi Nori Algas Marinhas
+*   **Marca:** Kenko
+*   **Preço:** R$ 10,98
+*   **Unidade:** 100g
+========================================
+Imagem: valid_737_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** AZT EV SEL GOURMET ILT PIETRO
+*   **Marca:** ILT PIETRO
+*   **Preço:** R$ 34,98
+*   **Unidade:** Não especificada na imagem, mas provavelmente por unidade.
+========================================
+Imagem: valid_738_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Gorgonzola Frac
+*   **Marca:** Não especificada na imagem.
+*   **Preço:** R$ 10,32
+*   **Unidade:** kg (quilograma)
+========================================
+Imagem: valid_738_cropped_1.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Gorgonzola
+*   **Marca:** FRAC
+*   **Preço:** R$ 10,32 / kg
+*   **Unidade:** kg
+========================================
+Imagem: valid_739_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Monster Energy
+*   **Marca:** Monster
+*   **Preço:** R$ 7,99
+*   **Unidade:** 473ml
+========================================
+Imagem: valid_740_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Cerveja Cinco Estrelas
+*   **Marca:** Não identificada na imagem, mas o nome da cerveja é "Cinco Estrelas"
+*   **Preço:** R$ 10,98
+*   **Unidade:** 330ml
+========================================
+Imagem: valid_741_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** LEITE CONDENSAO
+*   **Marca:** TP 395G PIRACANJUBRA
+*   **Preço:** R$ 5,97
+*   **Unidade:** Não especificada na imagem.
+========================================
+Imagem: valid_742_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Bombons Lacta Favoritos
+*   **Marca:** Lacta
+*   **Preço:** R$ 8,99
+*   **Unidade:** 250,6g
+========================================
+Imagem: valid_743_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Piscina Bestway Estrual Circular
+*   **Marca:** Bestway
+*   **Preço:** 599,98
+*   **Unidade:** 6,473L
+========================================
+Imagem: valid_744_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Mesa 2
+*   **Marca:** C.J. Bistro Bar
+*   **Preço:** 499,90
+*   **Unidade:** 2
+========================================
+Imagem: valid_745_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Cremeira
+*   **Marca:** KREA
+*   **Preço:** R$ 9,98
+*   **Unidade:** 236mL
+========================================
+Imagem: valid_746_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** LIQUID MUNDIAL L-550W 550W 2VEL BC
+*   **Marca:** MUNDIAL
+*   **Preço:** DE: 119,90 ou 89,90 ou 8,99
+*   **Unidade:** 127V
+========================================
+Imagem: valid_747_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Fogão
+*   **Marca:** Consul
+*   **Modelo:** CFF04NAB 4B BCO
+*   **Preço:**
+    *   DE: R$ 1.199,90
+    *   OU: R$ 1.099,90
+    *   CU: R$ 109,99
+*   **Unidade:** BCO
+========================================
+Imagem: valid_748_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Leite Condensado
+*   **Marca:** Italac
+*   **Preço:** R$ 5,49
+*   **Unidade:** por kg
+========================================
+Imagem: valid_749_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Detergente Líquido Ariel Clássico 3L
+*   **Marca:** Ariel
+*   **Preço:** R$ 29,99
+*   **Unidade:** UN (Unidades)
+========================================
+Imagem: valid_750_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Ovos Brancos
+*   **Marca:** Galinha D’Angola
+*   **Preço:** R$ 15,99
+*   **Unidade:** 30 unidades
+========================================
+Imagem: valid_751_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Leite Nativille
+*   **Marca:** Nativille
+*   **Preço:** R$ 6,99
+*   **Unidade:** Por 4,29 unidade
+========================================
+Imagem: valid_752_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** CERVEJA SKOL LT
+*   **Marca:** SKOL
+*   **Preço:** R$ 2,29
+*   **Unidade:** 350ML
+========================================
+Imagem: valid_753_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Itipava Pilsen LT
+*   **Marca:** Itipava
+*   **Preço:** R$ 2,09
+*   **Unidade:** 350ml
+========================================
+Imagem: valid_754_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** ENERGETICO
+*   **Marca:** MONSTER PARADISE Z ACUC
+*   **Preço:** 7,99
+*   **Unidade:** 473ML
+========================================
+Imagem: valid_755_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Manga
+*   **Marca:** Nectar
+*   **Preço:** 2,99
+*   **Unidade:** 1L
+========================================
+Imagem: valid_756_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do Produto:** Suco Uva Integral
+*   **Marca:** Extra
+*   **Preço:** R$ 12,89
+*   **Unidade:** 1,5L
+========================================
+Imagem: valid_757_cropped_0.jpg
+Aqui está a informação extraída da imagem:
+
+*   **Nome do produto:** ARROZ
+*   **Marca:** PARB SEPE
+*   **Preço:** R$ 3,39
+*   **Unidade:** 1KG
+========================================
+Imagem: valid_758_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas do rótulo da imagem:
+
+*   **Produto:** Limpa Vidro
+*   **Marca:** Dragao
+*   **Preço:** 2,75 e 2,89
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_759_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Fralda Fofura Baby Pratico
+*   **Marca:** Extra
+*   **Preço:** R$ 13,49
+*   **Unidade:** C/24
+========================================
+Imagem: valid_760_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Fralda Higgies Hiper Trip Prot
+*   **Marca:** Higgies
+*   **Preço:** R$ 59,90
+*   **Unidade:** C/78
+========================================
+Imagem: valid_761_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Fraldas Pampers Supersec Hiper M C/90
+*   **Marca:** Pampers
+*   **Preço:** R$ 59,90
+*   **Unidade:** C/90 (90 unidades)
+========================================
+Imagem: valid_762_cropped_0.jpg
+Com base na imagem, podemos extrair as seguintes informações:
+
+*   **Nome do Produto:** Açúcar Cristal Pinheiro 1kg
+*   **Marca:** Extra
+*   **Preço:** R$ 3,55
+*   **Unidade:** 1kg
+========================================
+Imagem: valid_763_cropped_0.jpg
+Aqui estão os dados extraídos da imagem:
+
+*   **Produto:** Leite Condensado
+*   **Marca:** TP
+*   **Preço:** R$ 5,66
+*   **Unidade:** 395g
+========================================
+Imagem: valid_764_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Nome do produto:** Leite Cond
+*   **Marca:** Betania
+*   **Preço:** R$ 4,99
+*   **Unidade:** 395g
+========================================
+Imagem: valid_765_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem do ticket:
+
+*   **Produto:** Composto Lácteo Fibras Sach
+*   **Marca:** Oferta
+*   **Preço:** R$ 4,99
+*   **Unidade:** 175g
+========================================
+Imagem: valid_766_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Café Marata Moido
+*   **Marca:** Marata
+*   **Preço:** R$ 6,59
+*   **Unidade:** 250g
+========================================
+Imagem: valid_767_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Chicken Seara Queijo T
+*   **Marca:** Monica
+*   **Preço:** R$ 4,99
+*   **Unidade:** 300g
+========================================
+Imagem: valid_768_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Empanado
+*   **Marca:** Coxinha Asa Sadia
+*   **Preço:** R$ 8,99
+*   **Unidade:** UN
+========================================
+Imagem: valid_769_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Manteiga
+*   **Marca:** Natville
+*   **Preço:** R$ 15,90
+*   **Unidade:** 500g
+========================================
+Imagem: valid_770_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do Produto:** Lua Frango
+*   **Marca:** Sadia
+*   **Preço:** R$ 11,99
+*   **Unidade:** 1 kg
+========================================
+Imagem: valid_771_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Não identificado
+*   **Marca:** AMD
+*   **Preço:** R$ 7,90
+*   **Unidade:** 12
+========================================
+Imagem: valid_771_cropped_1.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** KIT. NUTRIEL SH+COND 250ML NUTRI E BRILHO
+*   **Marca:** NUTRIEL
+*   **Preço:** R$ 7,90
+*   **Unidade:** 1 (uma unidade)
+========================================
+Imagem: valid_772_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Fralda Geriatra
+*   **Marca:** Delmaster Classic
+*   **Preço:** R$ 13,48
+*   **Unidade:** C/8
+========================================
+Imagem: valid_773_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Farinha Trigo Finna C/Fermento
+*   **Marca:** Trigo Finna
+*   **Preço:** R$ 4,89
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_774_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** CIF Multiuso 500ml
+*   **Marca:** CIF
+*   **Preço:** R$ 10,68
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_775_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do Produto:** Escorredor Krea Louca Metal
+*   **Marca:** Krea
+*   **Preço:** 29,98
+*   **Unidade:** (Não especificada na imagem, mas presumivelmente "unidade" ou "peça")
+========================================
+Imagem: valid_776_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Manga
+*   **Marca:** Tommy
+*   **Preço:** 2.99
+*   **Unidade:** Não especificada na imagem, mas provavelmente por quilo ou por unidade.
+========================================
+Imagem: valid_777_cropped_0.jpg
+Aqui estão os detalhes extraídos do cartão:
+
+*   **Nome do produto:** OLEO SOJA SOYA PET 900ML
+*   **Marca:** Extra
+*   **Preço:** 7,59
+*   **Unidade:** UN (unidade)
+========================================
+Imagem: valid_778_cropped_0.jpg
+Com certeza! Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Flocão
+*   **Marca:** Nordestino
+*   **Preço:** R$ 1,59
+*   **Unidade:** 500g
+========================================
+Imagem: valid_779_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Leite PO La Sereníssima
+*   **Marca:** La Sereníssima
+*   **Preço:** 6,95
+*   **Unidade:** 200g
+========================================
+Imagem: valid_780_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Leite Integral Vitaminas
+*   **Marca:** Betânia UHT
+*   **Preço:** 4,49
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_781_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Nome do produto:** Peito Frango
+*   **Marca:** Copecol
+*   **Preço:** 18,90
+*   **Unidade:** 1 KG
+========================================
+Imagem: valid_782_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Lava Roupas
+*   **Marca:** Omo
+*   **Preço:** R$ 5,99
+*   **Unidade:** 700ml
+========================================
+Imagem: valid_783_cropped_0.jpg
+Aqui estão os detalhes extraídos do rótulo da imagem:
+
+*   **Produto:** Shampoo Head & Shoulders
+*   **Marca:** Head & Shoulders
+*   **Preço:** R$ 9,99
+*   **Unidade:** 200ml
+========================================
+Imagem: valid_784_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** STEAK FRANGO SADIA
+*   **Marca:** SADIA
+*   **Preço:** R$ 1,35
+*   **Unidade:** 100g
+========================================
+Imagem: valid_785_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do Produto:** Creme de Leite
+*   **Marca:** LeiteBom
+*   **Preço:** R$ 2,69
+*   **Unidade:** 200g
+========================================
+Imagem: valid_786_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Hamburguer Bov Carapreta Angus
+*   **Marca:** Não identificada na imagem.
+*   **Preço:** 11,99
+*   **Unidade:** 360g
+========================================
+Imagem: valid_787_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Ovos
+*   **Marca:** Extra
+*   **Preço:** R$ 10,99
+*   **Unidade:** Caixa/Sobrecáxeis
+========================================
+Imagem: valid_788_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Papel Higiênico
+*   **Marca:** Simmó
+*   **Preço:** R$ 11,99
+*   **Unidade:** 10 unidades
+========================================
+Imagem: valid_789_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Produto:** Leite UHT Natville
+*   **Marca:** Natville
+*   **Preço:** R$ 4,29
+*   **Unidade:** 1 Litro
+========================================
+Imagem: valid_790_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Água Sanitária
+*   **Marca:** Tubarão
+*   **Preço:** R$ 1,79
+*   **Unidade:** 1 Litro
+========================================
+Imagem: valid_791_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Leite Condensado
+*   **Marca:** Moca
+*   **Preço:** R$ 5,69
+*   **Unidade:** 395g
+========================================
+Imagem: valid_792_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Produto:** Leite em Pó Camponesa
+*   **Marca:** Parmalat
+*   **Preço:** R$ 6,49
+*   **Unidade:** Cada
+========================================
+Imagem: valid_793_cropped_0.jpg
+Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Vinho Nac Pergola Bco Suave 1L
+*   **Marca:** Nac
+*   **Preço:** R$ 17,39
+*   **Unidade:** 1L
+========================================
+Imagem: valid_794_cropped_0.jpg
+Com base na imagem, aqui está as informações extraídas:
+
+*   **Produto:** Arroz
+*   **Marca:** PARB SEPE
+*   **Preço:** R$ 3,49
+*   **Unidade:** 1KG
+========================================
+Imagem: valid_795_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes extraídos:
+
+*   **Produto:** Fralda
+*   **Marca:** Supersec
+*   **Preço:** R$ 19,99
+*   **Unidade:** Pac, 26
+========================================
+Imagem: valid_796_cropped_0.jpg
+Com base na imagem, aqui estão as informações extraídas:
+
+*   **Produto:** Fralda
+*   **Marca:** Pampers Supersec Hiper
+*   **Preço:** R$ 64,90
+*   **Unidade:** C/90
+========================================
+Imagem: valid_797_cropped_0.jpg
+Com certeza! Aqui estão as informações extraídas da imagem:
+
+*   **Nome do produto:** Óleo
+*   **Marca:** Soja Liza PET
+*   **Preço:** R$ 7,89
+*   **Unidade:** 900ml
+========================================
+Imagem: valid_798_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do Produto:** Azeite Oliv Borges Ext VG
+*   **Marca:** Oliv Borges
+*   **Preço:** 19,98
+*   **Unidade:** 500ml
+========================================
+Imagem: valid_799_cropped_0.jpg
+Aqui estão os detalhes extraídos da imagem:
+
+*   **Nome do produto:** Leite
+*   **Marca:** Mococa TP
+*   **Preço:** R$ 5,49
+*   **Unidade:** UN (Unidade)
+========================================
+Imagem: valid_800_cropped_0.jpg
+Com base na imagem, aqui estão os detalhes do preço:
+
+*   **Produto:** Coxa Frango
+*   **Marca:** Sadia
+*   **Preço:** R$ 11,99
+*   **Unidade:** 1 kg
+========================================
